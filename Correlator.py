@@ -67,3 +67,14 @@ location = "*"
 channel = "BHZ,BLZ,MHZ,MLZ"
 
 Correllator.cross_correlate(network,station,location,channel,startTime4,endTime4)
+
+#Template (Identity)
+launchTime1 = UTCDateTime("2024-11-24T05:25:00") #Vanderberg CA
+startTime1 = launchTime1 - 60
+endTime1 = launchTime1 + 210
+network = "CI"
+station = "LOC"
+location = "*"
+channel = "BHZ,BLZ,MHZ,MLZ"
+
+Correllator.cross_correlate(network,station,location,channel,startTime1,endTime1)
