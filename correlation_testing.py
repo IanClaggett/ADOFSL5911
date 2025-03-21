@@ -69,7 +69,7 @@ channel = "BHZ,BLZ"
 min_freq = 0.3
 max_freq = 1.5
 
-#4.5 MAGNITUDE EARTHQUAKE (FAILED)
+#4.5 MAGNITUDE EARTHQUAKE 
 launchTime2 = UTCDateTime("2025-02-14T00:17:04") #Vanderberg CA
 startTime2 = launchTime2 - 30
 endTime2 = launchTime2 + 240

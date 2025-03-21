@@ -69,7 +69,7 @@ network = "CI"
 station = "BUE"
 template = client.get_waveforms(network, station, "*", "BHZ,BLZ", startTime1, endTime1, attach_response=True)
 template.remove_response(output = "VEL")
-template.filter('bandpass', freqmin=0.25, freqmax=1.5)
+template.filter('bandpass', freqmin=0.20, freqmax=1.4)
 pick = UTCDateTime("2024-11-24T05:25:30")
 template.trim(pick, pick + 90)
 
@@ -83,7 +83,7 @@ network = "CI"
 station = "BUE"
 template = client.get_waveforms(network, station, "*", "BHZ,BLZ", startTime1, endTime1, attach_response=True)
 template.remove_response(output = "VEL")
-template.filter('bandpass', freqmin=0.25, freqmax=1.5)
+template.filter('bandpass', freqmin=0.20, freqmax=1.4)
 pick = UTCDateTime("2025-03-15T06:42:30")
 template.trim(pick, pick + 90)
 
@@ -97,7 +97,7 @@ network = "CI"
 station = "BUE"
 template = client.get_waveforms(network, station, "*", "BHZ,BLZ", startTime1, endTime1, attach_response=True)
 template.remove_response(output = "VEL")
-template.filter('bandpass', freqmin=0.25, freqmax=1.5)
+template.filter('bandpass', freqmin=0.20, freqmax=1.4)
 pick = UTCDateTime("2025-03-11T03:09:30")
 template.trim(pick, pick + 90)
 
