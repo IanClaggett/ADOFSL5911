@@ -10,8 +10,8 @@ def collect_templates(filepaths):
         templates.append(template)
     return templates
 
-def cross_correlate(network,station,location,channel,startTime,endTime, templates, min_freq, max_freq):
-    client = Client("SCEDC") #For California
+def cross_correlate(network,station,location,channel, client_code, startTime,endTime, templates, min_freq, max_freq):
+    client = Client(client_code) #For California
     try:
         stream = client.get_waveforms(network, station, location, channel, startTime, endTime, attach_response=True)
     except:
