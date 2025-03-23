@@ -1,0 +1,5898 @@
+OBS03: OBS03
+OBS04: OBS04
+OBS06: OBS06
+OBS07: OBS07
+OBS08: OBS08
+OBS09: OBS09
+OBS10: OBS10
+OBS11: OBS11
+OBS12: OBS12
+OBS13: OBS13
+OBS14: OBS14
+OBS15: OBS15
+OBS16: OBS16
+OBS17: OBS17
+OBS18: OBS18
+OBS19: OBS19
+OBS20: OBS20
+OBS21: OBS21
+OBS22: OBS22
+OBS23: OBS23
+OBS24: OBS24
+OBS25: OBS25
+OBS28: OBS28
+OBS32: OBS32
+OBS34: OBS34
+IUGFS: Indiana Univ Geologic Field Station, Cardwell, MT
+NJ10: Black River Wildlife Management Area
+NJ11: 4N-NJ11
+NJ12: 4N-NJ12
+NJ13: Ten Eyck Park
+NJ14: Wayne Proerty
+SUDB: Sudbury Road NW, Washington, DC
+KSLTA: Kane Springs Ledge Tower, Utah
+WB01: IL,USA
+WB02: IL,USA
+WB03: IL,USA
+WB04: IL,USA
+WB05: IL,USA
+WB07: IL,USA
+WB08: IL,USA
+WB09: IL,USA
+WB10: IL,USA
+WB11: IL,USA
+WB12: IL,USA
+WB13: IL,USA
+WB14: IL,USA
+WB15: IL,USA
+WB16: IL,USA
+WB17: IL,USA
+WB18: IL,USA
+WB19: IL,USA
+WB20: IL,USA
+WB21: IL,USA
+WB22: IL,USA
+WB23: IL,USA
+WB24: IL,USA
+WB25: IL,USA
+WB26: IN, USA
+WB28: IN, USA
+WB29: IN, USA
+WB30: IN, USA
+WB31: IN, USA
+WB32: IN, USA
+WB33: IN, USA
+WB34: IN, USA
+WB35: IN, USA
+WB36: IN, USA
+WB37: IN, USA
+WB38: IN, USA
+WB39: IN, USA
+WB40: IN, USA
+WB41: KY, USA
+WB42: KY, USA
+WB43: KY, USA
+WB44: KY, USA
+WB45: KY, USA
+WB46: MCHS, IL, USA
+WB47: IL,USA
+WB48: IL,USA
+WB49: IL,USA
+ADAO: Ada, Ohio USA
+ALMA: Alma, West Virginia USA
+AZZI: Ashley, Ohio USA
+BARB: Louisa, Virginia USA
+BDEG: Charles Lake, Virginia USA
+CABN: Riverton, West Virginia USA
+CAKE: Sugar Grove, West Virginia USA
+CDRF: Friendly, West Virginia USA
+DENI: Denison University at Granville, Ohio USA
+FOXP: Brandywine, West Virginia USA
+INTX: Elkton, Virginia USA
+JSPR: Franklin, West Virginia USA
+KENT: Kenton, Ohio USA
+LADY: Linville, Virginia USA
+LBDL: Montpelier, Virginia USA
+MOLE: Hinton, Virginia USA
+MUSK: Muskingum University, New Concord, Ohio USA
+NAZF: Center Point, West Virginia USA
+PAUL: Paulding, Ohio USA
+PETO: Lost Creek, West Virginia USA
+PVGR: Lower Salem, Ohio USA
+RTSN: Coon Bone Island, West Virginia USA
+SUSI: Prospect, Ohio USA
+TRTF: Little North Mountain, Virginia USA
+WINE: Liberty, Virginia USA
+WIRE: Hazelwood, West Virginia USA
+WLFT: Gordonsville, Virginia USA
+WTMN: Standardsville, Virginia USA
+YLDA: Jackson, Virginia USA
+WTF1: North Side
+WTF2: Woodshed
+FS01B: SIO OBS ID FS01B
+FS02D: WHOI OBS ID S86
+FS04D: SIO OBS ID FS04D
+FS05B: WHOI OBS ID S80
+FS06B: WHOI OBS ID S87
+FS06D: WHOI OBS ID S89
+FS07D: WHOI OBS ID S84
+FS08D: SIO OBS ID FS08D
+FS09B: WHOI OBS ID S85
+FS09D: WHOI OBS ID S83
+FS10D: WHOI OBS ID S81
+FS13D: WHOI OBS ID S80
+FS14B: SIO OBS ID FS14B
+FS16D: WHOI OBS ID S82
+FS41D: WHOI OBS ID S88
+FS44D: SIO OBS ID FS44D
+G01D: WHOI OBS ID S85
+G09D: WHOI OBS ID S87
+G33D: SIO OBS ID G33D
+J09B: SIO OBS ID J09B
+J25A: SIO OBS ID J25A
+J25C: SIO OBS ID J25C
+J33A: SIO OBS ID J33A
+J33C: SIO OBS ID J33C
+J57A: SIO OBS ID J57A
+M05A: SIO OBS ID M05A
+M05C: SIO OBS ID M05C
+M08A: SIO OBS ID M08A
+M08C: SIO OBS ID M08C
+M12B: SIO OBS ID M12B
+M14B: SIO OBS ID M14B
+M16D: SIO OBS ID M16D
+113A: Mohawk Valley, Roll, AZ, USA
+214A: Organ Pipe National Monument, Ajo, AZ, USA
+319A: Douglas, AZ, USA
+LOGN: Mt. Logan, AZ, USA
+U15A: North Rim, AZ, USA
+W13A: Hualapai Mountain Park, Kingman, AZ, USA
+W18A: Petrified Forest, AZ, USA
+X16A: Lo Mia Camp, Pine, AZ, USA
+X18A: Snowflake, AZ, USA
+Y14A: Wickenburg, AZ, USA
+113A: Mohawk Valley, Roll, AZ, USA
+319A: Douglas, AZ, USA
+U15A: North Rim, AZ, USA
+W13A: Hualapai Mountain Park, Kingman, AZ, USA
+X16A: Lo Mia Camp, Pine, AZ, USA
+X18A: Snowflake, AZ, USA
+Y14A: Wickenburg, AZ, USA
+Z14A: Wintersburg, AZ, USA
+ASBS: Asbestos Mountain, Riverside CO., CA, USA
+BZN: Buzz Northerns Place, Anza, CA, USA
+CPE: Camp Elliot, Miramar, CA, USA
+CRON: Test Station, Pinon Flats, CA, USA
+CRY: Cary Ranch, Anza, CA, USA
+ELKS: Elks Lodge, Riverside CO., CA, USA
+FLV2: Frank Vernon Residence, Scripps Ranch, CA, USA
+FRD: Ford Ranch, Anza, CA, USA
+FSE: Frieder Seible's Residence, North Peak, CA, USA
+GLAC: Glacier Pass, Riverside CO., CA, USA
+GLAM: Glamis, CA, USA
+HWB: Hans Werner Braun Residence, San Diego, CA, USA
+JOHN: Test station, Pinon Flats, CA, USA
+JOSE: Test station, Pinon Flats, CA, USA
+KNW: Keenwild Fire Station, Mountain Center, CA, USA
+LVA2: Lost Valley Scout Camp, CA, USA
+MONP: Monument Peak, Mt. Laguna, CA, USA
+MONP2: Monument Peak TA Vault, Mt. Laguna, CA, USA
+PFO: Pinyon Flats Observatory, CA, USA
+RDM: Red Mountain, Riverside Co, CA, USA
+SCI2: San Clemente Island, CA, USA
+SCV1: Super Conducting Vault Test site,  Pinyon Flat, CA
+SCV2: Super Conducting Vault Test site,  Pinyon Flat, CA
+SHUM: Shumway Ranch, Riverside CO., CA, USA
+SIO5: Mt. Soledad, La Jolla, CA
+SMER: Santa Margarita Ecological Reserve, CA, USA
+SMER2: Santa Margarita Ecological Reserve, CA, USA
+SMTC: Superstition Mt., San Diego CO., CA, USA
+SND: Jim Saunders Place, Anza, CA, USA
+SOL: Mt. Soledad, San Diego, CA
+ST2C: STS2 Test, PFO, CA, USA
+STS2: PFO test site, Pinyon Flats, CA, USA
+TRIL: Test station, Pinon Flats, CA, USA
+TRO: Toro Peak, Riverside Co, CA, USA
+WMC: Walmic Ranch, Anza, CA, USA
+YAQ: Yaqui Meadows, Borrego Springs, CA, USA
+CHX: El Chinero
+CPX: CERRO PRIETO
+AASB: Rancho Murieta, CA
+ADAM: Adams Ridge, Knoxville, Napa County
+ALVW: Alview elementary school
+AONC: Abbey of New Clairvaux, Vina, CA
+ARC: Humboldt State University, Arcata, CA, USA
+ATP: Archer Taylor Preserve
+AUSC: Austic Creek SRA
+AVSP: Avenal State Prison
+AZUL: Private
+BABI: Babies Gulch, Panoche, CA
+BAKR: Baker Fire Station, Cottonwood, CA
+BARR: Barra Winery, Redwood Valley, CA
+BAYL: Bayliss; Glenn County
+BCCR: Big Chico Creek, Paradise, CA USA
+BDM: Black Diamond Mines Park, Antioch, CA, USA
+BEVN: Bevans Ridge
+BIGM: Big Mountain
+BIGV: Big Valley, Lassen County
+BJES: Bald Jesse, Humboldt County, CA
+BKS: Byerly Seismographic Vault, Berkeley, CA, USA
+BKS: Byerly Seismographic Vault, Berkeley, CA, USA
+BL67: LBL Building 67, Berkeley, CA, USA
+BLAS: Black Lassic
+BLCR: Blue Creek Mountain
+BLUE: Blue Mountain
+BONV: Bradford Ranch, Boonville, CA
+BOYR: Boyer?s Landing, near Robbins
+BRAD: Bradley, CA
+BRIB: Briones Reserve, Orinda, CA, USA
+BRIB: Briones Reserve, Orinda, CA, USA
+BRIC: Briceland Vineyard, Redway, CA
+BRIT: Lake Britton
+BRK: Haviland Hall, Berkeley, CA, USA
+BUCI: Buck Institute, Novato
+BUCR: Buckhorn Flat Ranch, Coulterville, CA
+CCOR: Corcoran
+CGRV: Cedar Grove
+CLRV: Clear Lake Reservoir
+CMB: Columbia College, Columbia, CA, USA
+CMB: Columbia College, Columbia, CA, USA
+CVS: Carmenet Vineyards, Sonoma, CA, USA
+DANT: Paynes Creek, CA, USA
+DCMP: DeCamp, Mendocino County, CA
+DIAZ: Diaz Spring, Lassen County
+DLIK: Deerlick Springs, Shasta County, CA
+DMOR: Dinsmores, Humboldt County, CA
+DRDG: Dodge Ridge
+DRYC: Dry Creek Basin Area
+EAGL: Eagle Lake, Susanville, CA USA
+ELFS: Eagle Lake Biol. Field Stn., Susanville, CA, USA
+ETSL: Etsel Ridge
+FARB: Farallon Islands, CA, USA
+FARB: Farallon Islands, CA, USA
+FORD: Fort Ord Natural Reserve, Marina, CA
+GALB: Galbreath Preserve, Mendocino County, CA
+GASB: Alder Springs, CA, USA
+GASB: Alder Springs, CA, USA
+GCKB: Clark Valley
+GHOP: Grasshopper Mountain
+GRPK: Grizzly Peak
+GTSB: Trough Springs/Crackerbox Ridge, CA 95979
+GUMB: Gumboot Lake
+HALS: Hales Grove, Mendocino, CA
+HAPY: Happy Camp Mountain
+HAS2: Hastings 2
+HAST: UC Hastings Preserve, Carmel Valley, CA, USA
+HAST: UC Hastings Preserve, Carmel Valley, CA, USA
+HATC: Hat Creek Radio Astronomy Obs., Cassel, CA, USA
+HATC: Hat Creek Radio Astronomy Obs., Cassel, CA, USA
+HAYF: Tule Creek, Hayfork, CA
+HELL: Rademacher Property, Miramonte, CA, USA
+HELL: Rademacher Property, Miramonte, CA, USA
+HOPS: Hopland Research and Extension Center, Hopland, CA, USA
+HOPS: Hopland Research and Extension Center, Hopland, CA, USA
+HOPS: Hopland Research and Extension Center, Hopland, CA, USA
+HOPS: Hopland Research and Extension Center, Hopland, CA, USA
+HRCH: Hirsch Winery property
+HULI: Fort Hunter Liggett, CA
+HULL: Hull Mountain
+HUMO: Hull Mountain, OR, USA
+HUNT: Big Hunter Mountain, Trinity County
+INGL: Smith Ridge, Inglenook, CA
+JAS: Jamestown, CA, USA
+JAS1: Jamestown, CA, USA
+JASP: Jasper Ridge Ecological Reserve
+JCC: Jacoby Creek, Bayside, CA, USA
+JEPS: Jepson Prairie, Dixon, CA
+JEWT: Jewett Creek
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+JRSC: Jasper Ridge Biol. Preserve, Stanford, CA, USA
+KARE: Kearney REC, Parlier, CA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KCC: Kaiser Creek, CA, USA
+KETL: Kettleman Hills
+KNEE: Kneeland/Ashfield Ridge
+KRUG: Krueger Creek
+LAKN: Lakin; Siskiyou County CA
+LAND: Landels-Hill Big Creek Reserve, Lucia, CA
+LCOS: Lynch Canyon Open Space
+LCOW: Little Cow Creek, Bella Vista, CA
+LCUV: Le Cuvier Winery, Paso Robles, CA
+LEGD: Drayer Ranch, Le Grand, CA
+LGMB: Garner Mountain
+LIND: Lindcove REC, Exeter, CA
+LITV: Little Valley, Lassen County
+LLNL: Lawrence Livermore National Laboratory
+LSIB: Lassen Sifford Mountain
+LTIB: Timbered Crater
+MCCM: Marconi Conference Center, Marshall, CA, USA
+MERC: Merced, CA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHC: Lick Observatory, Mt. Hamiliton, CA, USA
+MHDL: Marin Headlands, GG Nat'l Rec. Area, CA, USA
+MILL: Mill Creek, CA
+MIN: Mt. Lassen Park Hdqts, Mineral, CA, USA
+MKOF: Malakoff Diggins State Historic Park
+MLKN: Milliken Reservoir, Napa, CA
+MMI: Miami Mountain, Sierra National Forest, Mariposa County
+MNDO: Woodlands Fire Station, Mendocino, CA
+MNLT: Moonlight Peak
+MNRC: McLaughlin Natural Reserve (UC Davis), CA, USA
+MOBB: Monterey Bay Ocean Bottom, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOD: Modoc Plateau, CA, USA
+MOGU: York Ranch, Montague, CA
+MTOS: Mt Oso, Westley, CA, USA
+MZTA: Manzanita Lookout
+OAKV: Oakville Experimental Vineyard, Oakville, CA
+ORRS: Orr Springs
+ORV: Oroville Dam, Oroville, CA, USA
+OVRO: Owens Valley Radio Observatory, Big Pine, CA
+OXMT: Ox Mountain, CA, USA
+PABC: Pismo Beach, CA
+PACP: Pacheco Peak, CA, USA
+PATT: Patterson Mtn
+PBDB: Piedras Blancas; Hearst Ranch
+PESC: Peninsula Open Space; Pescadero, CA
+PETL: Punta Gorda, Petrolia, CA
+PETY: Pettyjohn Place, Tehama County, CA
+PINL: Point Pinole, Richmond, CA
+PIT6: Pit Six Reservoir
+PKD: Bear Valley Ranch, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PKD1: Haliburton House, Parkfield, CA, USA
+PORC: Porcupine Ridge
+POTR: Potrero Hills, Fairfield, CA, USA
+PRDS: Paradise Ridge
+PVSP: Pleasant Valley
+PWAY: Ponderosa WayAntelope Creek
+PWOD: Pepperwood Preserve
+QRDG: Quail Ridge Reserve, Napa, CA
+RAMR: Ramage Ranch, Paso Robles, CA, USA
+RAVE: Ravendale, CA
+RBOW: Rainbow Ridge, Humboldt, CA
+RIMR: Rimrock Valley Reservoir
+ROMB: Rominger Bros.; near Winters
+RUSS: Russell Ranch ASI., Davis, CA
+RVIT: Round Valley Indian Tribe, Mendocino County, CA
+RVRP: Round Valley Regional Preserve
+SAGE: Sage Hen Hill, Round Mountain, CA USA
+SANG: Sanger Peak
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SAO: San Andreas Geophysical Obs., Hollister, CA, USA
+SBAR: Scott Bar, CA
+SCOT: Callahan, CA, USA
+SCZ: Chualar Canyon, Santa Cruz, CA, USA
+SEIA: Seiad Valley
+SFRE: Sierra Foothills REC, Browns Valley, CA
+SHEP: Macdoel, CA, USA
+SHWD: Sherwood Rancheria area, Willits
+SIGP: Signal Peak, near Fort Dick CA, USA
+SKGS: Skaggs, Las Lomas
+SNCR: Sand Creek
+SPAN: Spanish Creek
+SPRL: Sproul Creek
+STAN: Stanford, CA, USA
+SUGR: Sugarpine Mountain
+SUTB: Sutter Buttes, CA, USA
+SUTB: Sutter Buttes, CA, USA
+SWNM: Swain Mt
+TCHL: Clark Property, Shandon, CA, USA
+TESL: Alameda-Tesla Expansion Area
+THIS: South End of Cholame Valley, Shandon, CA, USA
+THOM: Thompson Peak
+TOLH: Petersen Ranch, Tollhouse, CA
+TRAM: Rambo Property, Shandon, CA, USA
+TRIN: Scott Ranch, Trinity Center, CA USA
+TSCN: Shell Creek North, Shandon, CA, USA
+TULE: Intermountain Research and Extension Center, Tulelake, CA
+TUMY: Tumey Hills
+TWIT: Twitchell Island Reclamation, Rio Vista, CA
+UKON: Ukonom Mountain
+UMUN: Mount Umunhum
+USAL: Usal Creek
+VAK: LBL B46 Tunnel, Berkeley, CA, USA
+WDC: Whiskeytown Dam, Whiskeytown, CA, USA
+WEAV: Weaverville, CA USA
+WEBR: Weber Reservoir, near Camino
+WELL: Weller Cave, Western Cave Conservancy, Sutter Creek, CA
+WENL: Wente Vineyards, Livermore, CA, USA
+WENL: Wente Vineyards, Livermore, CA, USA
+WHCL: West Hills College
+WHMT: West Haight Mountain
+WINE: Golden State Vintners, Fresno, CA USA
+WLKR: Walker Ranch; near Petrolia CA
+WROK: Whale Rock Reservoir
+WSRE: West Side REC, Calflax, CA USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YBH: Yreka Blue Horn Mine, Yreka, CA, USA
+YUBA: Signal Peak, Yuba Pass, CA
+EBRU: Test station at Colo School of Mines
+Q24A: Divide, CO
+T25A: Trinidad, CO
+CPLB: Carmanah Point Lighthouse, BC, CA
+GLBC: Glintz Lake Rd, BC, CA
+JRBC: Jordan River, BC, CA
+KHVB: Kelin House Victoria, BC, CA
+SHDB: Sharon House Duncan, BC, CA
+SHVB: Suzanne House Victoria, BC, CA
+THAB: Tamara House Alberni, BC, CA
+ARAT: Mount Ararat
+ASBU: Astronaut Butte
+ASCR: Adams South Climbers Route
+AWST: Mount Adams West
+BRSP: Barrett Spur
+CARB: Carbon Repeater
+CC: Rainier Lahar Test Station
+CIHL: Cinder Hill, Newberry Volcano
+CLBH: Crater Lake Bunk House
+CLCV: Crater Lake, Cleetwood Cove, OR, USA
+CLMS: Crater Lake, Mount Scott, OR, USA
+COPP: COPP
+CPCO: Central Pumice Cone, Newberry Volcano
+CRBN: Carbon River Ranger Station
+CRBU: Cryder Butte
+CRST: Crescent Tower (temp), OR
+ELBE: Elbe Fire Station
+FLAT: Flattop (PEPRO)
+GNOB: Gobblers Knob Seismic
+GOBB: Gobbler's Knob
+GTWY: Gateway Entrance Station
+HIYU: Hiyu Mountain
+HOA: Hoala
+HUSB: The Husband
+HUT1: HUT 1
+JRO: Johnston Ridge Observatory
+KAUT: Kautz Creek Helibase
+KAVK: Kavik - Ashford Fire Station
+KWBU: Kawak Butte
+LOO: Loowit
+LSON: Lamberson Butte
+MAR: Maratta
+MILD: Mildred Point
+NFT: North Fork Toutle
+NORM: North Rim, Newberry Volcano
+OBSR: Observation Rock
+OPCH: Ohanapecosh Administrative Area
+PALM: Top of Palmer Lift
+PANH: Panhandle Gap
+PARA: Paradise Precip Tower
+PR00: Rainier Lahar Test Station
+PR01: Puyallup River 01
+PR02: Puyallup River 02
+PR03: Puyallup River 03
+PR04: Puyallup River 04
+PR05: Puyallup River 05
+PRLK: Prince Lake
+REM: Rembrant, Mount St. Helens
+RUSH: Rushingwater Creek
+SEP: September lobe, Mt. St. Helens (Dome sta)
+SHRK: Shell Rock
+SIFT: Swift Creek
+STD: Studebaker Ridge, Mount St. Helens
+STYX: STYX, Puyallup River, WA, USA
+SUG: Sugar Bowl
+SVIC: Surveyor's Cave, OR, USA
+SWF2: Southwest Flank 2, Mount St. Helens
+SWFL: Southwest Flank
+SWNB: Southwest Newberry, Newberry Volcano
+TABR: Tahoma Bridge
+TAVI: Tahoma Vista
+TCBU: Trout Creek Butte
+TIMB: Timberline, OR
+TMBU: Tom Butte, Newberry Volcano
+TRON: Electron Hydro, WA, USA
+UNFR: Upper North Fork Repeater
+USFR: Upper South Fork Repeater
+VALT: Vault, Mount St. Helens
+VOIT: Voight Creek
+WIFE: The Wife
+WIZ: Crater Lake, Wizard Island, OR
+WOW: Mount Wow
+YOCR: Yocum Ridge
+ABL: Mount Abel
+ACP: Agua Caliente County Park
+ADO: Adelanto Receiving
+AGA: Agave Hill
+AGM: American Girl Mine
+ALP: Antelope
+ANG: Aguanga
+ARV: Arvin
+AVM: Alvord Mountain
+BAI: Bailey
+BAK: Calstate Bakersfield
+BAR: Barrett
+BAW: Barstow
+BBR: Big Bear Solar Observatory
+BBS: Beaumont Base
+BC3: Big Chuckawalla Mtns
+BCC: Bear Creek Country Club
+BCH: Branch Mtn
+BCW: Bitter Creek Wildlife
+BEL: Belle Mountain Joshua Tree
+BFS: Mt. Baldy Ranger Station
+BHP: Baldwin Hills
+BKR: Baker
+BLA: Blackrock Canyon Campground
+BLA2: Black Rock Canyon Campground 2
+BLC: Black Canyon
+BLY: Blythe
+BOM: Bombay Beach
+BOR: Borrego Springs
+BRE: Barre
+BTC: Brunts Corner
+BTL2: Butler Peak 2
+BTP: Burnt Peak
+BUE: Buellton - FS #31
+CALB: Calabasas
+CAP: Capra Ranch
+CAR: Carrizo Plain
+CCA: California City Airport
+CCC: Christmas Canyon China Lake
+CCK: Cache Creek
+CCT: Cal Citrus State Park
+CDD: Camino Del Diablo
+CDM: Casitas Dam
+CFT: Crafton Hills
+CGO: Cerro Gordo
+CHF: Chilao Flat Rngr Sta
+CHI: Channel Island
+CHK: Camp Hess Kramer
+CHL: Chino Hills State Park
+CHN: Chino
+CHR: Ventucopa
+CIA: Catalina Island Airport
+CIU: Catalina Island
+CJM: Cajon Mountain
+CJV2: Casa Juvan 2
+CKP: Chuckwalla Valley State Prison
+CLC: China Lake
+CLO: Camarillo
+CLT: Calectric
+COA: Coachella
+CPE: Camp Elliot
+CPO: Campo Elementary School
+CPT2: Camp Pendleton 2
+CRG: Crocker Grade
+CRP: Caltech Robinson Pit
+CRR: Carrizo
+CRY: Choke Cherry
+CSH: Camp Scherman
+CTC: Cactus City
+CTW: Cottonwood Mtns
+CVW: Castaic Valley West
+CWC: Cottonwood Creek
+CWP: Ronald W. Caspers Wilderness Park
+CYP: Cuyamaca Peak
+CZN: Cabazon
+DAN: Danby
+DAW: Darwin
+DEC: Green Verdugo Site
+DEV: Devers
+DGR: Domenigoni
+DJJ: Donna Jones Jenkins
+DLA: Del Amo
+DNR: Dunn Ranch
+DPP: Dos Picos County Park
+DRE: Desert Research Extended Center
+DSC: Desert Studies Center
+DTP: Desert Tortoise Park
+DVT: Desert View Tower
+DZA: Dulzura
+EDW: Edwards Air Force Base
+EDW2: Edwards 2
+ELO: El Centro
+ELS2: Elsinore 2
+EML: El Monte County Park
+EOC: Emergency Office Center
+ERR: Elmore's Ranch
+ERR: Elmore's Ranch
+ESI2: Elsinore
+FDR: 5 Dogs Range
+FHO: Forest Home - SOSAF Station
+FIG: Figueroa Mountain
+FMO: Fillmore
+FMP: Fort Macarthur Park
+FOX2: Fox Airport 2
+FRK: Frink
+FSR: Fish Rocks
+FUR: Furnace Creek
+GATR: GATR Compound
+GDF: Good Enough Ridge, Los Padres NF
+GFF: Goffs
+GFS: Santa Barbara County Fire Station #18
+GLA: Glamis
+GMA: Goat Mountain Astronomical Research Station
+GMR: Granite Mountains Research Center
+GOR: Green Oak Ranch
+GOU: Gould
+GPO: Geothermal Prog Off
+GR2: Griffith Observatory
+GRA: Grapevine Ranger Station
+GSC: Goldstone
+HAR: Harper Dry Lake bed
+HAY: Hayfield
+HDH: High Desert Hunt Club - Tejon Ranch
+HEC: Hector
+HHL: Happy Hollow, Los Padres NF
+HIW: Hole In The Wall
+HLL: North Hollywood
+HMT2: Hemet 2
+HOL: Holcomb Ridge
+HRV: Hungry Valley SVR State Park
+HYS: Haystack Butte
+IBP: Imperial Boulder Park
+IDO: Indio Hill
+IDY: Idyllwild
+IKP: In-Ko-Pah
+IMP: Imperial
+IPT: Inspiration point
+IRM: Iron Mountain
+ISA: Isabella
+IVY: Ivy Glen
+JCS: Julian Camp Stevens
+JEM: Julian Eagle Mine
+JNH2: Juniper Hills 2
+JPLS: JPL Station at Mesa Rd.
+JRC2: Joshua Ridge: China Lake
+JTH: Joshua Tree National Park Headquarters
+JVA: Johnson Valley
+KML: Kerckhoff Marine Laboratory
+KRV1: Kern River P P #1
+KRV3: Kern River P P #3
+KYV: Keys View
+LAF: La Fresa
+LAT: Latigo
+LBW2: Long Beach 2
+LCG: La Cienega
+LCP: Los Alamos County Park
+LDF: Lanfair
+LDR: Leduc Ranch
+LEO: Leona Valley
+LFP: Los Angeles
+LGB: Laguna Bell
+LGU: Laguna Peak
+LJR: Lone Juniper Ranch
+LKH: Lake Henshaw
+LKL: Lake Los Angeles
+LLS: Ellis
+LMH: Lake Mathews Hills
+LMR: Leuhmann Ridge
+LMR2: Leuhmann Ridge Extension
+LMS: Lake Mathews Shore
+LMY: Lockwood Valley Maintenance Yard
+LOC: Lompoc FS #51
+LPC: Lone Pine Canyon
+LRL: Laurel Mtn
+LRR2: Little Rock Reservoir 2
+LTP: Lighthipe
+LUC2: Lucerne Valley 2
+LUG: Lugo
+LUS: Lusardi Creek County Preserve
+LVO: Live Oak Camp
+LVY: Levy
+LYP: Lyon's Peak
+MAN: Manzanita Peak
+MCT: MCC 29palms
+MGE: Mirage
+MLAC: Mammoth
+MLS: Mira Loma
+MNO: Moreno
+MOP: Moorpark
+MOR: Moraga
+MPI: Mount Pinos
+MPM: Manuel Prospect Mine
+MPP: Mcpherson Peak
+MSC: Mission Creek
+MSJ: Mt. San Jacinto Campus
+MTA: Margarita Mountains
+MTG: Mataguay Scout Camp
+MTL: Mount Lukens
+MTP: Mountain Pass
+MUR: Murrieta
+MWC: Mount Wilson Obsv
+NBS: Newberry Springs
+NCH: New Cuyama High School
+NEE: Needles
+NEE2: Needles Airport
+NEN: Neenach
+NJQ: Nojoqui County Park
+NSS: North Shore Salton Sea
+NSS2: North Shore Salton Sea 2
+OAT: Oat Mountain
+OCP: Ocotillo Community Park
+OLI: Olinda
+OLP: Otay Lakes Park
+OSI: Osito Audit: Castaic Lake
+PALA: Pala
+PAS: Pasadena
+PASA: Pasadena, Pasadena, CA, USA
+PASC: Art Center College of Design (GSN-affiliate)
+PDE: Pardee
+PDM: Parker
+PDR: Playa Del Rey
+PDU: Padua
+PEM: Pine Mtn
+PER: Lake Perris
+PFO: Pinyon Flats Observatory
+PGA: Pechanga
+PHL: Park Hill
+PLC: Palm Spgs City Hall
+PLM: Palomar
+PLR: Poleline Road
+PLS: Pleasants Peak
+PMD: Palm Desert
+POB2: Polly Butte 2
+POP: Antelope Valley Poppy Reserve
+POR: Porterville
+PSD: Palm Springs Desert Museum
+PSR: Puddingstone
+PTD: Point Dume
+PUT: Piute
+PZA: La Panza, Los Padres NF
+QAD: QAD Inc.
+QLC: Quail Canyon
+RAG: Ragtown
+RCR: Rockhouse Canyon Road
+RCT: Rector
+RFR: Rock Front Ranch
+RHC2: Rose Hills Cemetery 2
+RHR: Rawhide Ranch
+RIN: Rinaldi
+RIO: Rio Hondo
+RKMO: Ramakrishna Monastery
+RMM: Rodman Mountain
+RPK: Rogers Peak
+RPV: Rancho Palos Verdes
+RRC: Red Rock Canyon State Park
+RRX: Barstow Service Center
+RSI: Rancho Sisquoc
+RSP: Running Springs
+RSS: Riverside Surface
+RUN: Ruthven
+RUS: Rush
+RVR: Riverside
+RXH: Rock Hill
+RYS: Reyes Peak
+SAL: Salton City
+SBB2: Saddleback Butte State Park
+SBC: Santa Barbara
+SBI: Santa Barbara Island
+SBPX: Strawberry Peak
+SCI: San Clemente Island
+SCI2: San Clemente Island 2
+SCZ: Santa Cruz Island, , CA, USA
+SCZ2: Santa Cruz Island 2
+SDD: Saddleback
+SDG: San Diego Mission Control
+SDP: Sudden Peak
+SDR: San Diego Road Dept
+SES: Summit Elementary School
+SEV: Searles Valley
+SGL: Signal Mtn
+SHO: Shoshone
+SHR: Sheppards Saddle, Sequoia NP
+SHU: Shuttle
+SIL: Silver Peak
+SLA: Slate Mountain
+SLB: Salton Beach
+SLH: Sleepy Hollow
+SLM: Solemint
+SLR: Skyland Ranch
+SLV: Salvation Pass
+SMB: Santa Maria Base, Santa Maria, CA, USA
+SMF2: Santa Monica Field 2
+SMI: San Miguel Island
+SMM: Simmler
+SMR: Santa Margarita Ranch
+SMS: Santa Monica Fire St
+SMTC: Superstition Mountain
+SMW: Santa Maria Wineman
+SNCC: San Nicolas Island
+SNO: Snow Peak
+SNR: Schaffner Ranch
+SOC: San Onofre Canyon
+SOF: San Onofre
+SOL2: Soledad Canyon Fire Camp 11, Angeles National Forest
+SOT: Solamint, Newhall, CA, USA
+SPF: Saddle Peak Fire Camp 8
+SPG: Springville
+SPG2: Springville 2
+SQC: Sisquoc - FS #23
+SRA: Siberia
+SRI: Santa Rosa Island
+SRN: Serrano
+SRT: Snort
+SS3: San Sevaine 3
+SSS: Stringfellow Superfund Site Jurupa Mountains
+SSW: Salton Sea Wildlife
+STC: Santa Clara
+STG: Santiago
+STS: State Street
+SUN: Sunset Peak
+SVD: Seven Oaks
+SWP: Sweeney Pass
+SWS: Sam W. Stewart
+SYN: Santa Ynez FS #32
+SYP: Santa Ynez Peak
+TA2: Table Mountain
+TEH: Cattani Ranch
+TEJ: El Tejon
+TER2: Tule Elk Reserve
+TFT: Taft
+THM: Thermal Canyon
+THX: Thermal Airport
+TIN: Tinemaha
+TJR: Tejon Ranch
+TOR: Toro Canyon
+TOV: Thousand Oaks Ventura
+TOW2: Tower 2
+TPO: Tropico Hills
+TUQ: Turquoise Mountain
+USC: Univ Southern Ca
+VCS: Vincent
+VDJ: Vidal Junction
+VES: Vestal
+VLO: Vallecito
+VLY: Valley
+VOG: Valley Oaks Golf Course
+VTV: Victorville
+WAS2: Alta Sierra 2
+WBM: Bowman Road
+WBP: Bear Peak
+WBS: Bird Springs
+WCS2: Coso Hot Springs 2
+WER: Wheeler Ridge
+WES: Westside Elementary School
+WGR: Wheeler Gorge Ranger Station
+WHF: Hanning Flat
+WLH2: Little Horse 2
+WLS2: Wilsona 2
+WLT: Walnut
+WMD: Westmorland
+WMF: Mccloud Flat
+WNM: Nine Mile Canyon
+WOR: Onyx Ranch
+WRC2: Renegade Canyon
+WRV2: Rose Valley 2
+WSS: West Side
+WTT: Watts
+WTT2: Watts
+WVP2: Volcano Peak 2
+WWC: West Wide Canyon
+WWF: Wister Waterfowl
+XTL2: Crystal Lake 2
+YEG2: Yeguas Mtn. 2
+YUH2: Yuha Desert
+GAC: Glen Almond, QC, CA
+GHNB: Greg House Nanoose, BC, CA
+HNB: Haney, BC, CA
+HOPB: Hope, BC, CA
+ICQ: Islets-Caribou, QC, CA
+KAPO: Kapuskasing, ON, CA
+KGNO: Kingston, ON, CA
+KILO: Kirkland Lake, ON, CA
+LMQ: La Malbaie, QC, CA
+LZB: Mount Lazard, BC, CA
+MNT: Montreal, QC, CA
+MNTQ: Montreal, QC, CA
+NLLB: Nanaimo Lost Lake, BC, CA
+OTT: Ottawa, ON, CA
+PGC: Sidney, BC, CA
+PNT: Penticton, BC, CA
+SADO: Sadowa, ON, CA
+SHB: Sechelt, BC, CA
+SNB: Saturna Island, BC, CA
+VGZ: Victoria Gonzales, BC, CA
+VLDQ: Val-dOr, QC, CA
+WALA: Waterton Lake, AB, CA
+FERN: Fern Peak, California
+ICAN: Ingram Canyon, California
+SAVY: San Antonio Valley, California
+KIDD: KIDD Seismic Observatory, U. Texas El Paso, Texas, USA
+SCZ: Chualar Canyon - Santa Cruz - California, USA
+ALQ1: ASL Reference STS-2HG
+ALQ2: ASL Reference, STS-6
+ANMX: ANMO Experimental
+ASL8: ASL8
+ASL9: ASL9
+BH17: ASL test borehole BH17
+CVRD: Virginia aftershock response
+ENG4: ASL Experiment
+ENG5: ASL Experiment
+ENG5: ASL Experiment
+ENG7: ASL Experiment
+FBA1: ASL Experiment
+GSN3: ASL east vault, GSN3 digitizer
+HGTCO: Trinidad aftershock survey
+LA01: North of Hwy 70,  Belle Rose, LA  USA
+LA02: Catfish Stew Rd,  Belle Rose, LA  70341  USA
+LA03: South of Hwy 70, Belle Rose, LA   USA
+LA05: Dow Chemical - SW, UCAR-DOW, Hwy 70, Belle Rose, LA  USA
+LA06: Dow Chemical - W, DOW18,  Hwy 70, Belle Rose, LA  USA
+LA07: Armelise Canal, W of Sugar Mill, Belle Rose, LA  USA
+LA08: South of Hwy 70, Defunct Water Well,  Belle Rose, LA   USA
+LA09: South of Hwy 70, Crosstex Storage 2, Belle Rose, LA   USA
+MDNR: Missouri Dept of Natural Resources, Missouri, USA (NLE stati
+MHTCO: Hwy 12, Trinidad, CO, USA
+MPK01: Remote deployment
+MPK02: Remote deployment
+MPK03: Remote deployment
+MPK04: Remote deployment
+MPK05: Remote deployment
+MPK06: Remote deployment
+MPK07: Remote deployment
+MPK08: Remote deployment
+MPL01: Remote deployment
+MPL02: Remote deployment
+MPL03: Remote deployment
+MPL04: Remote deployment
+OK020: N3440 Rd, Meeker, Oklahoma, USA
+OK021: N3530 Rd, Sparks, Oklahoma, USA
+OK022: S3560 Rd, Prague, Oklahoma,  USA
+PIT: ASL test pit
+PTRD: Partlow Road, Spotsylvania, VA 22551 USA
+RDG11: Ridge 1 Station 1, Poverty Ridge, CA
+RDG12: Ridge 1 Station 2, Poverty Ridge, CA
+RDG13: Ridge 1 Station 3, Poverty Ridge, CA
+RDG14: Ridge 1 Station 4, Poverty Ridge, CA
+RDG21: Ridge 2 Station 1, Poverty Ridge, CA
+RDG22: Ridge 2 Station 2, Poverty Ridge, CA
+RDG23: Ridge 2 Station 3, Poverty Ridge, CA
+RDG24: Ridge 2 Station 4, Poverty Ridge, CA
+RNBM: Bernice Matthews Elementary School, Reno, Nevada, USA
+RNBO: Booth Elementary School, Reno, Nevada, USA
+RNWH: Whitehead Elementary School, Reno, NV 89434 USA
+SPFD: Fire Department, Spotsylvania, VA 22551 USA
+SPRD: Spring Rd, Mineral, VA 23117 USA
+TST1: ASL Experiment; STS-2HG reference cal
+TST3: ASL Experiment; two STS-5s
+TST4: ASL Experiment; Trillium C microseism cal
+TST4: ASL test vault
+TST5: ASL Experiment
+TST5: ASL Experiment; STS-2 microseism cal
+TST5: ASL test
+TST6: ASL Experiment
+TST6: ASL test
+VEA1: VEA1
+VEA2: VEA1
+ASLX: Albuquerque, New Mexico, USA
+CCRK: Sunnyside, WA, USA
+DDRF: Dider Farm, Eltopia, WA, USA
+PHIN: Phinny Hill Vineyards, Prosser, WA, USA
+IASL: Albuquerque Seismological Laboratory, N.Mex.
+PFO: Pinon Flat, California, USA
+PFO: Pinon Flat, California, USA
+PFO: Pinon Flat, California, USA
+XPF: Pinon Flat, California, USA
+XPF: Pinon Flat, California, USA
+XPFO: Pinon Flat, California, USA
+NV31: NVAR Array Site 31, Mina, NV, USA
+NV32: NVAR Array, Mina, NV, USA
+NV33: NVAR Array, Mina, NV, USA
+PD31: PDAR Array, Pinedale, WY, USA
+TKL: Tuckaleechee Caverns, TN, USA
+TX31: TXAR Array, Lajitas, TX, USA
+TX32: Lajitas Array Site 32 (same as tx01 and TX00)
+ANMO: Albuquerque, New Mexico, USA
+ANMO: Albuquerque, New Mexico, USA
+ANMO: Albuquerque, New Mexico, USA
+CCM: Cathedral Cave, Missouri, USA
+COR: Corvallis, Oregon, USA
+DWPF: Disney Wilderness Preserve, Florida, USA
+HKT: Hockley, Texas
+HKT: Hockley1 Texas
+HRV: Adam Dziewonski Observatory (Oak Ridge), Massachusetts, USA
+HRV: Adam Dziewonski Observatory (Oak Ridge), Massachusetts, USA
+RAIO: Rainier, Oregon, USA
+RAIO: Rainier, Oregon, USA
+RSSD: Black Hills, South Dakota, USA
+RSSD: Black Hills, South Dakota, USA
+SSPA: Standing Stone, Pennsylvania
+SSPA: Standing Stone, Pennsylvania
+TUC: Tucson, Arizona
+TUC: Tucson, Arizona
+WCI: Wyandotte Cave, Indiana, USA
+WVT: Waverly, Tennessee, USA
+DCID1: Drake Creek, Idaho, USA
+DLMT: Dillon, Montana, USA
+FLWY: Flagg Ranch, Wyoming, USA
+FXWY: Fox Creek, Wyoming, USA
+IMW: Indian Meadow, Wyoming, USA
+LOHW: Long Hollow, Wyoming USA
+MFID: Near Browns Crk and Slater Flat Rd, Idaho, USA
+MOOW: Moose Ponds, Wyoming, USA
+PHWY: Pilot Hill, Wyoming, USA
+PLID: Pearl Lake, Idaho, USA
+REDW: Red Top Meadow, Wyoming, USA
+RRI2: Red Ridge, Idaho, USA
+RWWY: Rawlins, Wyoming, USA
+SMCO: Snowmass, Colorado, USA
+SNOW: Snow King Mountain, Wyoming, USA
+TPAW: Teton Pass, Wyoming, USA
+WUWY: W end of Nichol Springs Rd, Wyoming, USA
+BMN: Battle Mountain, Nevada, USA
+DAC: Inyo County, Darwin, CA, USA
+LDS: Leeds, Washington County, Utah, USA
+MVU: Piute County, Marysvale, UT, USA
+TPH: Tonopah, Nevada, USA
+ACCN: Adirondack Community College, Queensbury, NY
+ALLY: Allegheny College, Meadville, PA
+ASNY: Au Sable, New York
+BMNY: Brushton-Moira, New York
+BNY: Binghamton University
+BRNJ: Basking Ridge, New Jersey
+BRNY: Black Rock Forest, Cornwall, NY
+CCNY: Canisius College, Buffalo, NY
+CFNY: Clifton-Fine, NY
+CONY: Cobleskill, New York
+CPNY: Central Park, New York City
+CTNY: Carthage Central High School, Carthage, NY
+CUNY: Queens College, Flushing-Queens, NYC
+FMPA: Franklin and Marshall College, PA
+FOR: Fordham University, The Bronx, NYC
+FRNY: Flat Rock, Altona, NY
+GCMD: Garrett College, McHenry, MD
+GEDE: Greenville, DE, USA
+GENY: Geneso, New York
+HCNY: Howe Caverns, Cobleskill, NY
+KSCT: Kent School, Kent, CT
+KSPA: Keystone College, La Plume, PA
+LOZ: Lake Ozonia, New York
+LUPA: Lehigh University, PA
+MCVT: Middlebury College, Vermont
+MIDE: Milford, DE, USA
+MMNY: Mount Morris Dam, NY
+MVL: Millersville University, PA
+NCB: Newcomb, New York
+NPNY: Mohonk Preserve, New Paltz, NY
+ODNJ: Ogdensburg, New Jersey
+PAL: Palisades, New York
+PANJ: Princeton, NJ
+PRNY: Paleontological Research Institution, Ithaca, NY
+PTN: Potsdam, NY
+PTNY: Frank Revetta Observatory, Potsdam NY
+SDMD: Soldier's Delight, Maryland
+TRNY: Table Rock, Ramapo, NY
+UCCT: University of Connecticut, Storrs, CT
+UNH: University of New Hampshire, Durham, NH, USA
+WADE: Warrington Farm, Harbeson, DE
+WCNY: West Carthage, New York
+WUPA: West Chester University, Pennsylvania
+WVNY: West Valley, New York
+LTH: Hanford, WA, USA
+LTL: Livingston, LA, USA
+CHIPP: Mackey Preserve
+L48A: N Adams, MI, USA
+NE8K: Bath,MI
+JTMT: Jette Lake, Montana
+P49A: Miami Univ. Ecology Research Center, OH, USA
+HPIG: HIDALGO DEL PARRAL
+HSIG: HERMOSILLO
+MBIG: MEXICALI
+MBIG: MEXICALI
+MBIG: MEXICALI
+SPIG: SAN PEDRO MARTIR
+SPIG: SAN PEDRO MARTIR
+SRIG: SANTA ROSALIA
+TJIG: TIJUANA
+TJIG: TIJUANA
+060A: Indiantown, FL, USA
+061Z: Ochoppi, FL, USA
+143B: Socs Landing, Pioneer, LA, USA
+146B: Union, MS, USA
+152A: Waverly Hall, GA, USA
+154A: Montrose, GA, USA
+237B: Washetta, Montalba, TX, USA
+250A: Grady, AL, USA
+255A: Hazlehurst, GA, USA
+257A: Skidaway Island, Savannah, GA, USA
+342B: Flagon Creek Properties, Pineville, LA, USA
+344B: Westbrook Farm, Meadville, MS, USA
+346B: Big Creek Wildlife, Hattiesburg, MS, USA
+352A: Blakely, GA, USA
+441B: Storozyszyn Site, DeRidder, LA, USA
+451A: Vernon, FL, USA
+456A: Hilliard, FL, USA
+545B: Wilberts Farm, Edgard, LA, USA
+553A: Crawfordville, FL, USA
+656A: Willston, FL, USA
+735B: Kenedy, TX, USA
+ABTX: Abilene, Hawley, TX, USA
+B35B: Bob, Littlefork, MN, USA
+BGNE: Belgrade, NE, USA
+D32B: Dogwood Acres, Gardner, ND, USA
+D41A: Chassel, MI, USA
+D62A: Allapoint, Allagash, ME, USA
+E28B: Huff Hills, Mandan, ND, USA
+E38A: The Farm, Brule, WI, USA
+E43A: Lone Tree Farm, Eben Junction, MI, USA
+E46A: Sault Ste Marie, MI, USA
+E62A: Clayton Lake, ME, USA
+E63A: Oxbow, ME, USA
+F33B: 5 Mile Ranch, Herman, MN, USA
+F36B: Green Acres Arabians, Milaca, MN, USA
+F42A: Maple Grove Farm, Niagara, WI, USA
+F62A: Pittston Farm, Pittston Academy Grant, ME, USA
+F63A: Nahmakanta, Browneville, ME, USA
+F64A: Sherman, ME, USA
+G40A: Rib Lake, WI, USA
+G45A: Suttons Bay, MI, USA
+G62A: West of Eustis, ME, USA
+G65A: Princeton, ME, USA
+H43A: Windswept, Luxemburg, WI, USA
+H62A: Milan, NH, USA
+I37B: Waseca, MN, USA
+I40B: Norwalk, WI, USA
+I42A: Draeger Farm, Ripon, WI, USA
+I45A: Fountain, MI, USA
+I49A: Point Hope, MI, USA
+I62A: Tamworth, NH, USA
+I63A: Otisfield, ME, USA
+J47A: Sumner, MI, USA
+J54A: Appleton, NY, USA
+J55A: Hilton, NY, USA
+J56A: Wolcott, NY, USA
+J57A: Williamstown, NY, USA
+J58A: Remsen, NY, USA
+J59A: Piesco, NY, USA
+J61A: Chester
+K22A: Casper, WY, USA
+K30B: Basset, NE, USA
+K31B: Johnson's Three Eagles, Oneill, NE, USA
+K38B: Parkersburg, IA, USA
+K43A: Burlington, WI, USA
+K50A: Casco, MI, USA
+K57A: Scipio Center
+K62A: Royalston, MA, USA
+KMSC: Kings Moutain, Blacksburg, SC, USA
+KSCO: Kaye Shedlock, Cheyenne Wells, CO, USA
+L34B: Svendsen Farm, Lyons, NE, USA
+L40A: Anamosa, IA, USA
+L42A: Oliver, Polo, IL, USA
+L46A: Eau Claire, MI, USA
+L48A: N Adams, MI, USA
+L56A: Greenwood, NY, USA
+L59A: Walton, NY, USA
+L64A: Middleborough, MA, USA
+M44A: Midewin, Midewin Nat. Tallgrass Prarie, IL, USA
+M50A: Fremont, OH, USA
+M52A: Chesterland, OH, USA
+M55A: Ridgway, PA, USA
+M57A: Sunshine Farm, Cogan Station, PA, USA
+M63A: Gales Ferry, CT, USA
+MDND: Maddock, ND, USA
+MSTX: Muleshoe, TX, USA
+N33B: J Bar K, Exeter, NE, USA
+N35B: Tabor, IA, USA
+N38B: Corydon, IA, USA
+N41A: Harden Midland Farm, Stronghurst, IL, ISA
+N47A: Urbana, IN, USA
+N49A: Columbus Grove, OH, USA
+N51A: Ashland, OH, USA
+N53A: Lisbon, OH, USA
+N58A: Sunbury, PA, USA
+N62A: Caumsett State Park, Huntington, NY, USA
+O20A: White River City, CO, USA
+O44A: Mansfield, IL, USA
+O49A: Covington, OH, USA
+O52A: Adamsville, OH, USA
+O54A: Avella, PA, USA
+P38B: Dawn, MO, USA
+P40B: Paris, MO, USA
+P43A: Skaggs, Pawnee, IL, USA
+P46A: Rosedale, IN, USA
+P48A: Milroy, IN, USA
+P51A: Williamsport, OH, USA
+P53A: Whipple, OH, USA
+P57A: Homestead Farm, Martinsburg, WV, USA
+P61A: Hammonton, NJ, USA
+Q44B: Vandalia, IL, USA
+Q51A: Peebles, OH, USA
+Q52A: Bidwell, OH, USA
+Q54A: Coxs Mills, WV, USA
+Q56A: Snyder Ridge, Maysville, WV, USA
+R32B: Long Quarter, Great Bend, KS, USA
+R40B: Maddies Station, St. Elizabeth, MO, USA
+R49A: Shelbyville, KY, USA
+R50A: Paris, KY, USA
+R53A: Hurricane, WV, USA
+R55A: Marlinton, WV, USA
+R58B: Mineral, VA, USA
+R61A: Willards, MD, USA
+S39B: Bolivar, MO, USA
+S44A: Carbondale, IL, USA
+S51A: Beattyville, KY, USA
+S54A: Dingess, Beckley, WV, USA
+S57A: Dark Hallow, Roseland, VA, USA
+S61A: Accomac, VA, USA
+SFIN: Lafayette, IN, USA
+SPMN: Marine on St. Croix, MN, USA
+SUSD: Miller, SD, USA
+T35B: Sooner Cattle Company, Foraker, OK, USA
+T42B: T42B
+T45B: Paducah, KY, USA
+T47A: Sharon Grove, KY, USA
+T50A: Nancy, KY, USA
+T57A: Hurt, VA, USA
+T59A: Double 'B' Farms, VA, USA
+T60A: Surry, VA, USA
+TIGA: Tifton, GA, USA
+TUL3: Leonard, OK, USA
+U38B: Mount Pleasant Farm, Gravette, AR, USA
+U49A: Red Boiling Springs, TN, USA
+U54A: Nelson's Funny Farm, Mountain City, TN, USA
+U56A: King, NC, USA
+U59A: Littleton, NC, USA
+V48A: Smith Brothers Farm, Spring Hill, TN, USA
+V51A: Loudon, TN, USA
+V52A: Sevierville, TN, USA
+V53A: Sandy Mush, NC, USA
+V55A: Morning Dew, Taylorsville, NC, USA
+V58A: WIndy Hill, Pittsboro, NC, USA
+V61A: Roper, NC, USA
+W45B: Hickory Valley, TN, USA
+W50A: Signal Mountain, TN, USA
+W52A: Murphy, NC, USA
+W57A: Gilead, NC, USA
+W59A: Clinton, NC, USA
+WHTX: Lake Whitney, Meridian, TX, USA
+X48A: Hartselle, AL, USA
+X51A: Calhoun, GA, USA
+X58A: Rowland, NC, USA
+Y45B: Coffeeville, MS, USA
+Y49A: Blount Mountain, AL, USA
+Y52A: Lilburn, GA, USA
+Y57A: Sumter, SC, USA
+Y58A: Scranton, SC, USA
+Y59A: Loris, SC, USA
+Y60A: Bolivia, NC, USA
+Z35B: Perchaven, Sanger, TX USA
+Z38B: Mount Pleasant, TX, USA
+Z47B: Carrollton, AL, USA
+Z51A: Franklin, GA, USA
+Z56A: Williston, SC, USA
+KBO: Bosley Butte
+KCPB: Cahto Peak #2
+KCT: Cape Town
+KEB: Edson Butte Ore.
+KHBB: Hayfork Bally
+KHMB: Horse Mountain
+KMPB: Mount Pierce
+KMR: Mail Ridge
+KRMB: Red Mountain
+KRP: Rodgers #3
+KSXB: Camp Six
+LDH: Deep Hole (Lassen)
+MCB: Casa Benchmark
+MMLB: Mammoth Lakes Knolls
+PAGB: Antelope Grade
+PMPB: Monarch Peak
+BCX: Chestnut Hill, MA, USA
+BRYW: Smithfield, RI, USA
+DUNH: Durham, NH, USA
+EMMW: Machias, ME, USA
+FFD: Franklin Falls Dam, NH, USA
+HNH: Hanover, NH, USA
+ORNO: Orno, ME, USA
+PQI: Presque Isle, ME, USA
+QUA2: Belchertown, MA, USA
+TRY: Troy, NY, USA
+VT1: Waterbury, VT
+WES: Weston Observatory, Weston, MA, USA
+WSPT: Westport, CT, USA
+WVL: Waterville, ME, USA
+YLE: Yale, Connecticut, U.S.A.
+YLE: Yale, Connecticut, U.S.A.
+BLO: Bloomington, IN
+CGM3: Cape Girardeau, MO
+FFIL: Fairfield, IL
+FVM: French Village, MO
+MGMO: Mountain Grove, MO
+MPH: Memphis, TN
+OLIL: Olney Central College  Olney, IL
+PBMO: Three Rivers Community College, Poplar Bluff, MO
+PLAL: Pickwick Lake, AR
+PVMO: UM Delta Research Portageville, MO
+SIUC: Carbondale, IL
+SLM: St. Louis, MO
+UALR: University of Arkansas, Little Rock
+USIN: Univ. of Southern Indiana, Evansville, IN
+UTMT: Martin, TN
+UTMT: Martin, TN
+BEK: Beckworth, California w84
+OMM: Old Mammoth Mine, California w84
+PAH: Pah Rah Range, Nevada w84gm
+WCN: Washoe City, Nevada w84gm
+NE70: Mexicali, Mexico
+NE71: Agua Blanca, Mexico
+NE72: Camalu, Mexico
+NE73: Turquesa, Mexico
+NE74: Guerrero Negro, Mexico
+NE75: San Ignacio, Mexico
+NE76: Mulege, Mexico
+NE77: Loreto, Mexico
+NE80: Caborca, Mexico
+NE81: Novillo, Mexico
+NE82: Navajoa, Mexico
+NE83: Navolato, Mexico
+NE84: El Toro, Mexico
+M53A: WI Miller and Sons, Farmdale, OH, USA
+O53A: New Philadelphia, OH, USA
+P51A: Williamsport, OH, USA
+P52A: Corning, OH, USA
+U32A: Winter Ranch, Mooreland, Oklahoma, USA
+X37A: Clayton, Oklahoma, USA
+B082A: pathfi082bcs2006, Anza, CA, USA
+B086A: santar086bcs2006, Anza, CA, USA
+B088A: skyoks088bcs2007, Anza, CA, USA
+PAGS: PA Geological Survey, Middletown, PA
+PSDB: PSU Dubois Campus, Dubois, PA
+PSUB: PSU Brandywine Campus, Media, PA
+PSWB: PSU Wilkes-Barre Campus, Wilkes-Barre, PA
+UPAO: University of Pittsburgh, Pittsburgh, PA, USA
+WRPS: PSU, University Park, PA, USA
+EP00: EP00
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP01: PASSCAL_EAST_PIER_02
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP02: PASSCAL_EAST_PIER_04
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP03: PASSCAL_EAST_PIER_06
+EP04: Socorro,NM, USA
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+EP04: PASSCAL_EAST_PIER_08
+NP00: Socorro, NM, USA
+NP01: Socorro, NM, USA
+NP02: Socorro,NM USA
+NP03: Socorro, NM, USA
+NP04: Socorro, NM, USA
+NP05: Pier2_P5
+NP06: Socorro, NM, USA
+NP07: Socorro, NM, USA
+NP08: Socorro, NM, USA
+NP09: PASSCAL_NORTH_PIER_09
+SP00: Socorro,NM USA
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP01: PASSCAL_SOUTH_PIER_01
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP02: PASSCAL_SOUTH_PIER_02
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP03: PASSCAL_SOUTH_PIER_03
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP04: PASSCAL_SOUTH_PIER_04
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP05: PASSCAL_SOUTH_PIER_05
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP06: PASSCAL_SOUTH_PIER_06
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP07: PASSCAL_SOUTH_PIER_07
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP08: PASSCAL_SOUTH_PIER_08
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+SP09: PASSCAL_SOUTH_PIER_09
+WP00: WEST_00
+WP01: Socorro,NM, USA
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP01: PASSCAL_WEST_PIER_02
+WP02: Socorro, NM, USA
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP02: PASSCAL_WEST_PIER_04
+WP03: Socorro,NM, USA
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP03: PASSCAL_WEST_PIER_06
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+WP04: PASSCAL_WEST_PIER_08
+PNNAF: PPNAF
+PPABQ: Albuquerque Academy, Albuquerque, NM, USA
+PPBLN: Bloomington High School North, Bloomington, IN, USA
+PPBLO: Indiana University, Bloomington, IN, USA
+PPBNL: Bedford-North Lawrence High School, Bedford, IN, USA
+PPBRO: The Bromfield School, Harvard, MA, USA
+PPCAR: Carmel High School, Carmel, IN, USA
+PPCDH: Central Dauphin High School, Harrisburg, PA, USA
+PPCEN: -
+PPCHS: Carver High School, Columbus, GA, USA
+PPCIB: Cibola High School, Yuma, AZ, USA
+PPCMA: Culver Educational Foundation, Culver, IN, USA
+PPCML: Carmel High School, Mundelein, IL, USA
+PPCQL: Coquille High School, Coquille, OR, USA
+PPCSM: CSM - Geophysics Department, Golden, CO, USA
+PPCWF: Crawfordsville High School, Crawfordsville, IN, USA
+PPDGL: Douglas High School, Douglas, AZ, USA
+PPDHS: Deming High School, Deming, NM, USA
+PPDWP: Reynoldsburg, Reynoldsville, OH, USA
+PPEGH: Eastern Greene Jr/Sr High School, Bloomfield, IN, USA
+PPFAY: Gorham Fayette High School, Fayette, OH, USA
+PPFCH: Franklin Central High School, Indianapolis, IN, USA
+PPFLO: Florence High School, Florence, AZ, USA
+PPFSC: Fernbank Science Center, Atlanta, GA, USA
+PPGUY: Guyot Hall - Princeton University, Princeton, NJ, USA
+PPHBR: Hillsboro High School, Belle Meade, NJ, USA
+PPHHS: PPHHS
+PPHOB: New Mexico Junior College, Hobbs, NM, USA
+PPHUN: The Hun School of Princeton, Princeton, NJ, USA
+PPHVY: Hopewell Valley Central High School, Pennington, NJ, USA
+PPHYL: C.D. Hylton High School, Woodbridge, VA, USA
+PPIGN: Ignacio High School, Ignacio, CO, USA
+PPIRQ: Irondequoit High School, Rochester, NY, USA
+PPLCH: Loudoun County High School, Leesburg, VA, USA
+PPLSR: Lincoln-Sudbury Regional High School, Sudbury, MA
+PPMAC: MacAlester College, St. Paul, MN, USA
+PPMHS: Marengo High School, Dixon Mills, AL, USA
+PPMOO: Mooresville High School, Mooresville, IN, USA
+PPMSH: Maine South High School, Park Ridge, IL, USA
+PPMSM: Minisink Valley Middle School, Slate Hill, NY, USA
+PPMUN: PPMUN
+PPNAF: Floyd Central High School, Floyds Knobs, IN, USA
+PPNCA: New Canaan High School, New Canaan, CT, USA
+PPNOR: Nordonia Hills Middle School, Northfield, OH, USA
+PPNVW: Northview High School, Brazil, IN, USA
+PPOHH: Oak Hill High School, Converse, IN, USA
+PPPCC: Perry Central Jr/Sr High School, Leopold, IN, USA
+PPPCH: Princeton Community High School, Princeton, IN, USA
+PPPHM: Penn High School, Mishawaka, IN, USA
+PPPHO: Philomath High School, Philomath, OR, USA
+PPPHS: Pioneer Jr/Sr High School, Royal Center, IN, USA
+PPPVH: -
+PPREH: -
+PPRMH: -
+PPSAH: Sahuarita High School, Tucson, AZ, USA
+PPSPR: Springfield High School, Springfield, CO, USA
+PPSTJ: St. Johns High School, St. Johns, AZ, USA
+PPSYC: Sycamore High School, Cincinnati, OH, USA
+PPUHS: Umatilla High School, Umatilla, OR, USA
+PPWES: Westminster High School, Westminster, CO, USA
+PPWHI: Whiteland Community High School, Whiteland, IN, USA
+PPWHS: Winslow High School, Winslow, AZ, USA
+PPWIN: McCall Middle School, Winchester, MA, USA
+PURD: Purdue University, IN, US
+TUL: Oklahoma Geological Survey Observatory, Leonard, OK, USA
+MEDA: Medicine Hat, AB, CA
+BPH01: Pinon Flat Observatory, CA, USA
+BPH02: Pinon Flat Observatory, CA, USA
+BPH03: Pinon Flat Observatory, CA, USA
+BPH04: Pinon Flat Observatory, CA, USA
+BPH05: Pinon Flat Observatory, CA, USA
+BPH06: Pinon Flat Observatory, CA, USA
+BPH07: Pinon Flat Observatory, CA, USA
+BPH08: Pinon Flat Observatory, CA, USA
+BPH09: Pinon Flat Observatory, CA, USA
+BPH10: Pinon Flat Observatory, CA, USA
+BPH11: Pinon Flat Observatory, CA, USA
+BPH12: Pinon Flat Observatory, CA, USA
+BPH13: Pinon Flat Observatory, CA, USA
+PFOIX: Pinyon Flats Observatory, IXBlue, CA, USA
+TPFO: Pinon Flats, CA, USA
+BAHB: Bahia de los Angeles
+GUAY: Guaymas
+NE74: Guerrero Negro
+NE77: Loreto
+PLIB: Puerto Libertad
+PPXB: Puerto Penasco
+SLGB: San Luis Gonzaga
+BVDA1: Borrego Valley Downhole Array
+BVDA2: Borrego Valley (UCSB) 2, San Diego, CA, USA
+CPSLO: CalPoly San Luis Obispo
+121A: Cookes Peak, Deming, NM, USA
+CARB: Carthage, NM
+SRGE: Socorro-Rio Grand station
+Y22A: Socorro, NM, USA
+Y22D: PASSCAL Instrument Center, Socorro, NM, USA
+AMD: Amargosa Desert, Nevada w84
+RPY: Repository, NTS, Nevada w84mg
+SPC: Specter Range, NTS, Nevada w84
+TAR: Tarantula Canyon, Nevada w84
+TIM: Timber Moutain, NAFB, Nevada w84
+TYM: Thirsty Mountain, NAFB, Nevada w84gm
+ACFLR: A.C. Flora High School, Richland County, SC USA
+AGBLF: Silver Bluff High School, Aiken County, SC, USA
+ALLEN: Allendale-Fairfax High School, Allendale County, SC USA
+ANDY: Andrews High School, Georgetown County, SC USA
+BBLV: Batesburg-Leesville High School, Lexington County, SC USA
+BLACK: Blackville-Hilda High School, Barnwell County, SC USA
+BRNCH: Branchville High School, Orangeburg County, SC USA
+BTRCK: Battery Creek High School, Beaufort County, SC USA
+CLINT: Clinton High School, Laurens County, SC USA
+CLOVE: Clover High School, York County, SC USA
+CREEK: Creek Bridge High School, Marion County, SC USA
+DFORK: Dutch Fork High School, Richland County, SC USA
+DWDAN: D.W. Daniels High School, Pickens County, SC USA
+EDGE: Strom Thurmond High School, Edgefield County, SC USA
+GREEN: Greenwood High School, Greenwood County, SC USA
+JAMES: James Island High School, Charleston County, SC USA
+LGELG: Lugoff-Elgin High School, Kershaw County, SC USA
+MYRTL: North Myrtle Beach High School, Horry County, SC USA
+OLAR: Denmark-Olar High School, Bamberg County, SC USA
+RUFIN: Ruffin High School, Colleton County, SC USA
+SCOTT: Scott's Branch High School, Clarendon County, SC USA
+SUMMR: Summerville High School, Dorchester County, SC USA
+TIMBR: Timberland High School, Berkeley County, SC USA
+TRLBY: Terrell's Bay High School, Marion County, SC USA
+WOAK: West-Oak High School, Oconee County, SC USA
+NCAT: NC A&T Campus
+034A: Hebronville, TX, USA
+035A: Encino, TX, USA
+035Z: Hargill, TX, USA
+058A: Arcadia, FL, USA
+059A: Moore Haven, FL, USA
+059Z: Ave Maria, FL, USA
+060A: Indiantown, FL, USA
+060Z: West Palm Beach, FL, USA
+061Z: Ochoppi, FL, USA
+062Z: Marathon, FL, USA
+109C: Camp Elliot, Miramar, CA, USA
+112A: Yuma, AZ, USA
+113A: Mohawk Valley, Roll, AZ, USA
+114A: Black Gap (USAF), Gila Bend, AZ, USA
+115A: Sonoran Desert, Stanfield, AZ, USA
+116A: Eloy, AZ, USA
+117A: Oracle, AZ, USA
+118A: Homack Ranch, Wilcox, AZ, USA
+119A: Ashpeak Ranch, Duncan, AZ, USA
+120A: U Bar Ranch, Lordsburg, NM, USA
+121A: Cookes Peak, Deming, NM, USA
+122A: Conniff Cattle Co., Rinco, NM, USA
+123A: Bell Site, White Sands Missile Range, NM, USA
+124A: Stringfield Ranch, Weed, NM, USA
+125A: Gardner Draw, Artesia, NM, USA
+126A: Clayton Basin, Artesia, NM, USA
+127A: Arkansas Junction, Hobbs, NM, USA
+128A: Castleberry Farm, Seminole, TX, USA
+129A: Stewart Farms, Lamesa, TX, USA
+130A: Snyder, TX, USA
+131A: Roby, TX, USA
+133A: Hamilton Ranch, Breckenridge, TX, USA
+134A: White-Moore Ranch, Lipan, TX, USA
+135A: Vickery Place, Crowley, TX, USA
+136A: Ennis, TX, USA
+137A: Heron Place, Grand Saline, TX, USA
+138A: Matatall Enterprise, Big Sandy, TX, USA
+139A: Bunkhouse Ranch, Marshall, TX, USA
+140A: Cam and Jess, Hughton, LA, USA
+141A: Papa Simpson, Farm, Arcadia, LA, USA
+142A: Monroe, LA, USA
+143A: Socs Landing, Pioneer, LA, USA
+144A: Alexander Place, Bentonia, MS, USA
+145A: Houston Renfrow, Canton, MS, USA
+146A: Union, MS, USA
+147A: Livingston, AL, USA
+148A: Greensboro, AL, USA
+149A: Jones, AL, USA
+150A: Eclectic, AL, USA
+151A: Opelika, AL, USA
+152A: Waverly Hall, GA, USA
+153A: Fort Valley, GA, USA
+154A: Montrose, GA, USA
+155A: Kite, GA, USA
+156A: Sylvania, GA, USA
+157A: Early Branch, SC, USA
+158A: Hollywood, SC, USA
+214A: Organ Pipe National Monument, Ajo, AZ, USA
+216A: Three Points, Tucson, AZ, USA
+217A: Green Valley, AZ, USA
+218A: Dragoon, AZ, USA
+219A: White Tail Canyon, San Simon, AZ, USA
+220A: Playas Peak, Playas, NM, USA
+221A: Mesquite Ranch, Deming, NM, USA
+222A: Williams Family Ranch, Las Cruces, NM, USA
+223A: Chaparral, Anthony, NM, USA
+224A: Cornudas Mountain, Dell City, TX, USA
+225A: Deer Hill, Carlsbad, NM, USA
+226A: Malaga, Loving, NM, USA
+226B: Tecolote Peak, Malaga, NM, USA
+227A: Bennet, Jal, NM, USA
+228A: UT Block 9, Goldsmith, TX, USA
+229A: Bryant Ranch, Stanton, TX, USA
+230A: Sterling City, TX, USA
+231A: Bronte, TX, USA
+232A: Coleman, TX, USA
+233A: Rising Star, TX, USA
+234A: Clairette, TX, USA
+236A: Katherine and Luke Keathley, Corsicana, TX, USA
+237A: Washetta, Montalba, TX, USA
+238A: Jacksonville, TX, USA
+239A: Gary, TX, USA
+240A: Hunter Patterson, Mansfield, LA, USA
+241A: Mo Tay, Goldonna, LA, USA
+242A: Grayson, LA, USA
+243A: Waterproof, LA, USA
+244A: Avery, Jackson, MS, USA
+245A: Little AP, Star, MS, USA
+246A: Jackson Lee, Bay Springs, MS, USA
+247A: Quitman, MS, USA
+248A: Dixon Mills, AL, USA
+249A: Camden, AL, USA
+250A: Grady, AL, USA
+251A: Midway, AL, USA
+252A: Lumpkin, GA, USA
+253A: Americus, GA, USA
+254A: Abbeville, GA, USA
+255A: Hazlehurst, GA, USA
+256A: Glennville, GA, USA
+257A: Skidaway Island, Savannah, GA, USA
+318A: Bisbee, AZ, USA
+319A: Douglas, AZ, USA
+320A: Kipp Ranch, Antelope Well, NM, USA
+324A: Moseley Ranch, Sierra Blanca, TX, USA
+325A: Bean Ranch, Sierra Blanca, TX, USA
+326A: Caldwell Ranch, Toyah, TX, USA
+327A: Balmorhea Ranch, Pecos, TX, USA
+328A: Wristen Ranch, Grandfalls, TX, USA
+329A: Wagon Wheel Ranch, Midkiff, TX, USA
+330A: Mertzon, TX, USA
+331A: San Angelo, TX, USA
+332A: Millersview, TX, USA
+333A: Richland Springs, TX, USA
+334A: Lometa, TX, USA
+335A: Moody, TX, USA
+336A: Riesel, TX, USA
+337A: Centerville, TX, USA
+338A: Crockett, TX, USA
+339A: Huntington, TX, USA
+340A: Bronson, TX, USA
+341A: Kurthwood, LA, USA
+342A: Flagon Creek Properties, Pineville, LA, USA
+343A: Vidalia, LA, USA
+344A: Westbrook Farm, Meadville, MS, USA
+345A: Thompson Farm, Foxworth, MS, USA
+346A: Big Creek Wildlife, Hattiesburg, MS, USA
+347A: Saraland, AL, USA
+348A: Jackson, AL, USA
+349A: Repton, AL, USA
+350A: Dozier, AL, USA
+351A: Pinckard, AL, USA
+352A: Blakely, GA, USA
+353A: Camilla, GA, USA
+355A: Pearson, GA, USA
+356A: Blackshear, GA, USA
+357A: Townsend, GA, USA
+425A: Indio Mountain, Van Horn, TX, USA
+426A: McDonald Observatory, Fort Davis, TX, USA
+427A: Hayter Ranch, Fort Stockton, TX, USA
+428A: Kincaid Ranch, Fort Stockton, TX, USA
+429A: Davenport Ranch, Sheffield, TX, USA
+430A: Baggett Ranch, Ozona, TX, USA
+431A: Sonora, TX, USA
+432A: Menard, TX, USA
+433A: Art, TX, USA
+434A: Burnet, TX, USA
+435B: Jarrell, TX, USA
+436A: Wall Ranch, Gause, TX, USA
+437A: Phantom Ranch, North Zulch, TX, USA
+438A: Sam Houston State University, Huntsville, TX, USA
+439A: Center Grove, Livingston, TX, USA
+440A: Kirbyville, TX, USA
+441A: DeRidder, LA, USA
+442A: Mamou, LA, USA
+443A: Delano Plantation, Melville, LA, USA
+444A: Pine Grove, LA, USA
+445A: Amite, LA, USA
+446A: Poplarville, MS, USA
+447A: Lucedale, MS, USA
+448A: Bay Minette, AL, USA
+449A: Pace, FL, USA
+450A: Crestview, FL, USA
+451A: Vernon, FL, USA
+452A: Marianna, FL, USA
+453A: Whigham, GA, USA
+454A: Quitman, GA, USA
+455A: Stateville, GA, USA
+456A: Hilliard, FL, USA
+457A: Yulee, FL, USA
+526A: Mary Lane Ranch, Marfa, TX, USA
+527A: Woodward Ranch, Alpine, TX, USA
+528A: Cox Ranch, Sanderson, TX, USA
+529A: Stev Forest Ranch, Sanderson, TX, USA
+530A: J-C Ranch, Comstock, TX, USA
+531A: Rocksprings, TX, USA
+532A: Rocksprings, TX, USA
+533A: Kerrville, TX, USA
+534A: Blanco, TX, USA
+535A: Dale, TX, USA
+536A: Bastrop, TX, USA
+537A: Green Hill Farm, Brenham, TX, USA
+538A: Harpers Horsepen, Conroe, TX, USA
+539A: Cross D Ranch, Liberty, TX, USA
+540A: Vidor, TX, USA
+541A: Lake Charles, LA, USA
+542A: Morse, LA, USA
+543A: St. Martinville, LA, USA
+544A: White Castle, LA, USA
+545A: Edgard, LA, USA
+546A: Slidell, LA, USA
+552A: Lynn Haven, FL, USA
+553A: Crawfordville, FL, USA
+554A: Perry, FL, USA
+555A: McAlpin, FL, USA
+556A: Lake Butler, FL, USA
+557A: Orange Park, FL, USA
+626A: Big Bend Ranch, Presidio, TX, USA
+627A: Terlingua Ranch, Terlingua, TX, USA
+628A: Black Gap, Marathon, TX, USA
+631A: Perdido Creek Ranch, Del Rio, TX, USA
+632A: Uvalde, TX, USA
+633A: Saathoff Ranch, Hondo, TX, USA
+634A: China Grove, San Antonio TX, USA
+635A: Leesville, TX, USA
+636A: Smothers Creek Ranch, Halletsville, TX, USA
+637A: Eagle Lake, TX, USA
+638A: Rosharon, TX, USA
+645A: Chauvin, LA, USA
+646A: Port Sulphur, LA, USA
+655A: Horseshoe Beach, FL, USA
+656A: Willston, FL, USA
+657A: Interlachen, FL, USA
+658A: Bunnell, FL, USA
+732A: Laxson Ranch, Crystal City, TX, USA
+733A: Divot King Ranch, Dilley, TX, USA
+734A: La Parita Creek, Jourdanton, TX, USA
+735A: Kenedy, TX, USA
+736A: Circle Diamond K Ranch, Victoria, TX, USA
+737A: Port Lavaca, TX, USA
+738A: Farr-Stevens Ranch, Sargent, TX, USA
+757A: Oxford, FL, USA
+758A: Lake Helen, FL, USA
+832A: Faith Ranch, Carrizo Springs, TX, USA
+833A: Chaparral WMA, Artesia Wells, TX, USA
+834A: Tilden, TX, USA
+835A: Beeville, TX, USA
+857A: Zephyrhills, FL, USA
+858A: St. Cloud, FL, USA
+859A: Kempfer Cattle CO., St. Cloud, FL, USA
+933A: Laredo, TX, USA
+934A: Benavides, TX, USA
+936A: North Padre Island, Corpus Christi, TX, USA
+957A: Wimauma, FL, USA
+958A: Wauchula, FL, USA
+959A: Okeechobee, FL, USA
+A04A: Legoe Bay, Lummi Island, WA, USA
+A04D: Lummi Island, WA, USA
+A05A: Maple Falls, WA, USA
+A06A: Chilliwack, BC, CAN
+A07A: Ashnola River, Keremeos, BC, CAN
+A08A: Turner Farm, Oroville, WA, USA
+A09A: Danville, WA, USA
+A10A: Northport, WA, USA
+A11A: Hall Mountain, Copeland, ID, USA
+A12A: Yaak River Ranch, Troy, MT, USA
+A13A: Flathead National Forest, Polebridge, MT, USA
+A14A: Double T Ranch, Babb, MT, USA
+A15A: Johnson Ranch, Cut Bank, MT, USA
+A16A: West Butte Ranch, Sweetgrass, MT, USA
+A17A: Triple J Farms, Joplin, MT, USA
+A18A: Metzger Ranch, Havre, MT, USA
+A19A: Klindworth Farms, Hogeland, MT, USA
+A20A: Cobblestone Ranch, Loring, MT, USA
+A21A: Bergtoll Ranch, Theony, MT, USA
+A22A: Carney Farms, Richland, MT, USA
+A23A: Redstone, MT, USA
+A24A: Westby, ND, USA
+A25A: Svangstu Ranch, Noonan, ND, USA
+A26A: Wade Farm, Kenmare, ND, USA
+A27A: Ledoux Ranch, Antler, ND, USA
+A28A: Rude Farm, Bottineau, ND, USA
+A29A: Manning Farm, Rocklake, ND, USA
+A30A: Hoffart Farm, Langdon, ND, USA
+A31A: Linda, St. Vincent, MN, USA
+A32A: Rocking H Ranch, Lancaster, MN, USA
+A33A: Warroad, MN, USA
+ABTX: Abilene, Hawley, TX, USA
+B04A: Port Angeles, WA, USA
+B05A: Bryant, WA, USA
+B05D: Stanwood, WA, USA
+B06A: Marblemount, WA, USA
+B07A: Winthrop, WA, USA
+B08A: Colville Reservation, Omak, WA, USA
+B09A: Rice, WA, USA
+B10A: Chitwood Farm, Usk, WA, USA
+B11A: Sandpoint, ID, USA
+B12A: Libby, MT, USA
+B13A: Whitefish, MT, USA
+B14A: Marquette Ranch, East Glacier, MT, USA
+B15A: Bradely Ranch, Valier, MT, USA
+B16A: M & M Farms, Shelby, MT, USA
+B17A: L&G Farms, Chester, MT, USA
+B18A: Beardsley Farm, Havre, MT, USA
+B19A: Brinkman Farms, Chinook, MT, USA
+B20A: Solberg Farm, Malta, MT, USA
+B21A: Ellsworth Farm, Hinsdale, MT, USA
+B22A: Reddig Ranch South, Frazer, MT, USA
+B23A: Brockton, MT, USA
+B25A: Knox Farm, Ray, ND, USA
+B26A: Jensen Ranch, Palermo, ND, USA
+B27A: Peters Farms, Glenburn, ND, USA
+B28A: Dugan Ranch, Towner, ND, USA
+B29A: Wagenman Farm, Cando, ND, USA
+B30A: Myrvik Farm, Edmore, ND, USA
+B31A: Greenbush Farm, Park River, ND, USA
+B32A: Ashes, Strandquist, MN, USA
+B33A: Robert and Kassanda Mosher, Grygla, MN, USA
+B34A: Aery, Baudette, MN, USA
+B35A: Bob, Littlefork, MN, USA
+BGNE: Belgrade, NE, USA
+BNLO: Ben Lomond (Santa Cruz Mountains), CA, USA
+BRSD: Miller, SD, USA
+C03A: Quillayute Airport, Forks, WA, USA
+C04A: Brinnon, WA, USA
+C05A: Tolt Reservoir, WA, USA
+C06A: Tall Timber Ranch, Leavenworth, WA, USA
+C06D: Leavenworth, WA, USA
+C07A: Waterville, WA, USA
+C08A: Higginbotham Farm, Almira, WA, USA
+C09A: Chrisman Ranch, Davenport, WA, USA
+C10A: Spilker Farm, Colbert, WA, USA
+C11A: Tepee Creek (NFS), Magee, ID, USA
+C12A: Trout Creek, MT, USA
+C12B: Naegeli Ranch, Trout Creek, MT, USA
+C13A: Hot Springs, MT, USA
+C14A: Swan Lake, MT, USA
+C15A: Salmond Ranch, Choteau, MT, USA
+C16A: Fuhringer Ranch, Dutton, MT, USA
+C17A: Wharram Farm, Highwood, MT, USA
+C19A: Slack Wire Ranch, Winifred, MT, USA
+C20A: Veseth Ranch, Zortman, MT, USA
+C21A: Desert Coulee Ranch, Glasgow, MT, USA
+C22A: Vida, MT, USA
+C23A: Lambert, MT, USA
+C24A: Savage, MT, USA
+C25A: Freed Ranch, Watford, ND, USA
+C26A: Wahner Farm, Parshall, ND, USA
+C27A: Sayler Ranch, Douglas, ND, USA
+C28A: Hausauer Farms, Kief, ND, USA
+C30A: Mose, Pekin, ND, USA
+C31A: Landman Farms, Northwood, ND, USA
+C32A: Crookston, MN, USA
+C33A: Trail, MN, USA
+C34A: RKJ Ranch, Bemidji, MN, USA
+C35A: Jirik Farms, Max, MN, USA
+C36A: Pine Crest Farm, Angora, MN, USA
+C37A: Embarrass, MN, USA
+C38A: Sawbill Land. Superior Nat. Forest USFS, MN, USA
+C39A: Grand Marais, MN, USA
+C40A: Isle Royale National Park, MI, USA
+D03A: Wishkah Elem. School, Wishkah, WA, USA
+D03D: Eldon, WA, USA
+D04A: Dobbs Creek Ranch, Lacey, WA, USA
+D04D: Lakebay, WA, USA
+D04E: Lakebay, WA, USA
+D05A: Enumclaw, WA, USA
+D06A: Cle Elum, WA, USA
+D07A: Quincy, WA, USA
+D08A: Wollman Farm, Schrag, WA, USA
+D09A: Jones Farm, Ritzville, WA, USA
+D10A: Wagner Farm, Oakesdale, WA, USA
+D11A: Klaveano Farm, Fernwood, ID, USA
+D12A: Red Ives Forest Station, Avery, ID, USA
+D13A: Huson, MT, USA
+D14A: Greenough, MT, USA
+D15A: Lincoln, MT, USA
+D16A: Dana Ranch, Cascade, MT, USA
+D17A: Six Diamond Ranch, Ranyesford, MT, USA
+D18A: Linhart Farms, Moccasin, MT, USA
+D19A: Cripps Ranch, Grass Range, MT, USA
+D20A: Manuel Ranch, Winnett, MT, USA
+D21A: La Casta Ranch, Jordon, MT, USA
+D22A: Cohagen, MT, USA
+D23A: Lindsay, MT, USA
+D24A: Glendive, MT, USA
+D25A: Fairfield, ND, USA
+D26A: Manning, ND, USA
+D27A: Center, ND, USA
+D28A: Regan, ND, USA
+D29A: Pettibone, Tappen, ND, USA
+D30A: Buchanan, ND, USA
+D31A: Mcclaflin, Tower City, ND, USA
+D32A: Dogwood Acres, Gardner, ND, USA
+D33A: AnnSam, Waubun, MN, USA
+D34A: Park Rapids, MN, USA
+D35A: Remer, MN, USA
+D36A: Goodland, MN, USA
+D37A: Cotton, MN, USA
+D41A: Chassel, MI, USA
+D46A: Sault St. Marie, ON, CAN
+D47A: Chapleau, ON, CAN
+D48A: Paudash Township, ON, CAN
+D49A: Beulah Township, ON, CAN
+D50A: G1974 Best Township, ON, CAN
+D51A: Lot 18 Range III Mazenod Township, QC, CAN
+D52A: ZEK Kipawa Senerzegues Township, QC, CAN
+D53A: Lac Vacive, Pontiac, Mrc, QC, CAN
+D54A: Lac Fusel, La Vallee-de-La-Gatineau, QC, CAN
+D55A: Sainte-Anne-du-Lac, QC, CAN
+D56A: ZEC Mazanza, Mont-Saint-Michel, QC, CAN
+D57A: Chemin Vers le Barrage, Saint-Michel-Des-Saints, Q
+D58A: Chemin du LacGrosbois, Trois-Rives, QC, CAN
+D59A: Saint-Raymond, QC, CAN
+D60A: Saint Jean D'Orleans, QC, CAN
+D61A: St Aubert, Comte d'Islet, QC, CAN
+D62A: Allapoint, Allagash, ME, USA
+D63A: Stockholm, ME, USA
+E03A: Lebam, WA, USA
+E04A: Onalaska, WA, USA
+E04D: Cinebar, WA, USA
+E05A: Randle, WA, USA
+E06A: Yakima, WA, USA
+E07A: Sunnyside, WA, USA
+E08A: Dider Farm, Eltopia, WA, USA
+E09A: Wood Farm, Starbuck, WA, USA
+E10A: Myers Farm, Uniontown, WA, USA
+E11A: Bogner Ranch, Nez Perce, ID, USA
+E12A: Beaver Dam Saddle, Pierce, ID, USA
+E13A: Victor, MT, USA
+E14A: Clinton, MT, USA
+E15A: Deer Lodge, MT, USA
+E16A: East Helena, MT, USA
+E17A: Martinsdale, MT, USA
+E18A: Harlowton, MT, USA
+E19A: Rath Farm, Roundup, MT, USA
+E20A: Meyer Farm, Musselshell, MT, USA
+E21A: Keefer Ranch, Vananda, MT, USA
+E22A: Miles City, MT, USA
+E23A: Ismay, MT, USA
+E24A: Baker, MT, USA
+E25A: Miller Ranch, Amidon, ND, USA
+E26A: Carlson Angus Ranch, Regent, ND, USA
+E27A: Carson, ND, USA
+E28A: Huff, ND, USA
+E29A: Napoleon, ND, USA
+E30A: Jud, ND, USA
+E31A: Nome, ND, USA
+E32A: Braaten, Kindred, ND, USA
+E33A: Westby DABS, Erhard, MN, USA
+E34A: Wadena, MN, USA
+E35A: Pequot Lakes, MN, USA
+E36A: McGregor, MN, USA
+E37A: Wrenshall, MN, USA
+E38A: The Farm, Brule, WI, USA
+E39A: Mellen, WI, USA
+E40A: Wakefield, MI, USA
+E41A: Kenton, MI, USA
+E42A: Champion, MI, USA
+E43A: Lone Tree Farm, Eben Junction, MI, USA
+E44A: Grand Marais Airport, Grand Marais, MI, USA
+E45A: Wooded Hills, Hulbert, MI, USA
+E46A: Sault Ste Marie, MI, USA
+E47A: Iron Bridge, ON, CAN
+E48A: Lockeyer, ON, CAN
+E50A: Wahnapitae, ON, CAN
+E51A: G1948 Merrick Township, ON, CAN
+E52A: Mattawa, ON, CAN
+E53A: Dumoine, Pontiac MRC, QC, CAN
+E54A: Lac Daplat, Pontiac, MRC, QC, CAN
+E55A: Montcerf-Lytton, QC, CAN
+E56A: St. Veronique, QC, CAN
+E57A: Chemin Saint Guillaume, Saint Donat, QC, CAN
+E58A: La Victoria, QC, CAN
+E59A: St. Maurice, QC, CAN
+E60A: Ste Agathe de Lotbiniere, QC, CAN
+E61A: Lac Etchemin, QC, CAN
+E62A: Clayton Lake, ME, USA
+E63A: Oxbow, ME, USA
+E64A: Bridgewater, ME, USA
+ELFS: Eagle Lake Field Station, Susanville, CA, USA
+F03A: Seaside, OR, USA
+F04A: Amboy, WA,  USA
+F04D: Rainier, OR, USA
+F05A: White Salmon, WA, USA
+F05D: White Salmon, WA, USA
+F06A: Goldendale, WA, USA
+F07A: Phinny Hill Vineyards, Prosser, WA, USA
+F08A: Pendleton, OR, USA
+F09A: S2 Ranch, Elgin, OR, USA
+F10A: Beach Ranch, Enterprise, OR, USA
+F11A: Grangeville, ID, USA
+F12A: Elk City, ID, USA
+F13A: Darby, MT, USA
+F14A: Wisdom, MT, USA
+F15A: Butte, MT, USA
+F16A: Kennard Place, Willow Creek, MT, USA
+F17A: Fitzpatrick Place, Clyde Park, MT, USA
+F18A: Big Timber, MT, USA
+F19A: Roth Farm, Molt, MT, USA
+F20A: Billings, MT, USA
+F21A: Absaloka Mine, Hardin, MT, USA
+F22A: Rosebud, MT, USA
+F23A: Volborg, MT, USA
+F24A: Ekalaka, MT, USA
+F25A: Bowman, SD, USA
+F26A: Lodgepole, SD, USA
+F27A: Lemmon, SD, USA
+F28A: McLaughlin, SD, USA
+F29A: Eureka, SD, USA
+F30A: Leola, SD, USA
+F31A: Hecla, SD, USA
+F32A: Veblen, SD, USA
+F33A: 5 Mile Ranch, Herman, MN, USA
+F34A: Alexandria, MN, USA
+F35A: Swanville, MN, USA
+F36A: Milaca, MN, USA
+F37A: Hinrichs Farm, Grantsburg, WI, USA
+F38A: Pierce - Schroeder Farm, Trego, WI, USA
+F39A: Loretta, WI, USA
+F40A: Park Falls, WI, USA
+F41A: Three Lakes, WI, USA
+F42A: Maple Grove Farm, Niagara, WI, USA
+F43A: Flat Rock, Escanaba, MI, USA
+F44A: Big Bay de Noc Black Bears, Cooks, MI, USA
+F45A: CMU Biological Station, Beaver Island, MI, USA
+F46A: Macinaw City Comets, Mackinaw City, MI, USA
+F48A: Evansville, ON, CAN
+F49A: Sandfield, ON, CAN
+F51A: Arnstein, ON, CAN
+F52A: Sundridge, ON, CAN
+F55A: Otter Lake, QC, CAN
+F57A: Harrington, QC, CAN
+F58A: St-Lin Laurentide, QC, CAN
+F59A: Saint Guilaume, QC, CAN
+F60A: Warwick, QC, CAN
+F61A: St Evariste, QC, CAN
+F62A: Pittston Farm, Pittston Academy Grant, ME, USA
+F63A: Nahmakanta, Browneville, ME, USA
+F64A: Sherman, ME, USA
+G03A: Yamhill, OR, USA
+G03D: McMinnville, OR, USA
+G04A: Mulino, OR, USA
+G05A: Wamic, OR, USA
+G05D: Wamic, OR, USA
+G06A: Carlson Farm, Grass Valley, OR, USA
+G07A: Ruggs Ranch, Heppner, OR, USA
+G08A: Pilot Rock, OR, USA
+G09A: Cove, OR, USA
+G10A: Bishop Farm, Joseph, OR, USA
+G11A: Walters Elk Ranch, Riggins, ID, USA
+G12A: Big Creek, Yellow Pine, ID, USA
+G13A: Cobalt, ID, USA
+G14A: Jackson, MT, USA
+G15A: Dillon, MT, USA
+G16A: Moss Hill, Ennis, MT, USA
+G17A: Pierce Place, Pray, MT, USA
+G18A: Lazy EL Ranch, Roscoe, MT, USA
+G20A: Bridger, MT, USA
+G21A: Lodge Grass, MT, USA
+G22A: Birney, MT, USA
+G23A: Biddle, MT, USA
+G24A: Alzada, MT, USA
+G25A: Newell, SD, USA
+G26A: Maurine, SD, USA
+G27A: Dupree, SD, USA
+G28A: Parade, SD, USA
+G29A: Hoven, SD, USA
+G30A: Faulkton, SD, USA
+G31A: Conde, SD, USA
+G32A: Webster, SD, USA
+G33A: Ortonville, MN, USA
+G34A: Benson, MN, USA
+G35A: Watkins, MN, USA
+G36A: St. Michael, MN, USA
+G38A: Ridgeland, WI, USA
+G39A: Holcombe, WI, USA
+G40A: Rib Lake, WI, USA
+G41A: Antigo, WI, USA
+G42A: Mountain, WI, USA
+G43A: Wallace, MI, USA
+G45A: Suttons Bay, MI, USA
+G46A: Petoskey, MI, USA
+G47A: Hillman, MI, USA
+G53A: Haliburton, ON, CAN
+G54A: Lake Saint Peter, ON, CAN
+G55A: Calabogie, ON, CAN
+G57A: Newington, ON, CAN
+G58A: Ormstown, QC, CAN
+G59A: Clarenceville, QC, USA
+G60A: Masonville, QC, CAN
+G61A: St-Isidore-de-Clifton, QC, USA
+G62A: West of Eustis, ME, USA
+G63A: Kingsbury, ME, USA
+G64A: Maxfield, ME, USA
+G65A: Princeton, ME, USA
+H02A: Toledo, OR, USA
+H03A: Soap Creek Ranch, Albany, OR, USA
+H04A: Detroit Lake, OR, USA
+H04D: Lebanon, OR, USA
+H05A: Madras, OR, USA
+H06A: Lindquist Farm, Mitchell, OR, USA
+H07A: Lands Inn, Kimberly, OR, USA
+H08A: Prairie City, OR, USA
+H09A: Durkee, OR, USA
+H10A: Noah's Angus Ranch, Cambridge, ID, USA
+H11A: Donnelly, ID, USA
+H12A: Diamond D Ranch, Stanley, ID, USA
+H13A: Challis, ID, USA
+H14A: Leadore, ID, USA
+H15A: Lima, MT, USA
+H16A: Russell Place, West Yellowstone, MT, USA
+H17A: Grant Village (NPS), Yellowstone Nt. Park, WY, USA
+H18A: Shoshone NF, Cody, WY, USA
+H19A: Powell, WY, USA
+H20A: Greybull, WY, USA
+H21A: Big Horn, Sheridan, WY, USA
+H22A: Lovato Ranch, Clearmont, WY, USA
+H23A: Clabaugh Cattle Company, Gillette, WY, USA
+H24A: Dirks Ranch, Alva, WY, USA
+H25A: Fruitdale, SD, USA
+H26A: Fairpoint, SD, USA
+H27A: Howes, SD, USA
+H28A: Mission Ridge, SD, USA
+H29A: Onida, SD, USA
+H31A: Wolsey, SD, USA
+H32A: Carlson Farm, Erwin, SD, USA
+H33A: Prehn Over North, Clear Lake, SD, USA
+H34A: Spellman Lake, Hanley Falls, MN, USA
+H35A: Sunnyside Ranch, Fairfax, MN, USA
+H36A: Jessenland, Henderson, MN, USA
+H37A: Dierke Farm, Cannon Falls, MN, USA
+H38A: Maiden Rock, WI, USA
+H39A: Augusta, WI, USA
+H40A: Chili, WI, USA
+H41A: Junction City, WI, USA
+H42A: Shiocton, WI, USA
+H43A: Windswept, Luxemburg, WI, USA
+H45A: Beulah, MI, USA
+H46A: Fife Lake, MI, USA
+H47A: Mio, MI, USA
+H48A: Harrisville, MI, USA
+H52A: Wyevale, ON, CAN
+H53A: Bobcaygeon, ON, CAN
+H55A: Tweed, ON, CAN
+H56A: Elgin, ON, CAN
+H57A: Richville, NY, USA
+H58A: Gabriels, NY, USA
+H59A: Cadyville, NY, USA
+H60A: Morristown, VT, USA
+H61A: Lyndonville, VT, USA
+H62A: Milan, NH, USA
+H63A: New Sharon, ME, USA
+H64A: Troy, ME, USA
+H65A: Eastbrook, ME, USA
+H66A: Whiting, ME, USA
+HAST: UC Hastings Reserve, Carmel Valley, CA, USA
+HATC: Hat Creek Radio Observatory, Hat Creek, CA, USA
+HELL: Mitchell Peak, Miramonte, CA, USA
+I02A: Mapleton, OR, USA
+I02D: Swisshome, OR, USA
+I02E: Swisshome, OR, USA
+I03A: Eugene, OR, USA
+I03D: Drain, OR, USA
+I04A: Tendick Farm, Oakridge, OR, USA
+I05A: Bend, OR, USA
+I05D: Terrebonne, OR, USA
+I06A: Prineville, OR, USA
+I07A: Izee, OR, USA
+I08A: Drewsey, OR, USA
+I09A: Lost Marbles Ranch, Westfall, OR, USA
+I10A: Payette, ID, USA
+I11A: Placerville, ID, USA
+I12A: Atlanta, ID, USA
+I13A: Wildhorse Creek, Mackay, ID, USA
+I14A: Mackay, ID, USA
+I15A: Monteview, ID, USA
+I16A: Newdale, ID, USA
+I17A: Pilgram Creek (NPS), Teton National Park, WY, USA
+I18A: Diamond G Ranch, Dubois, WY, USA
+I19A: Meeteetse, WY, USA
+I20A: Worland, WY, USA
+I21A: Big Trails, Ten Sleep, WY, USA
+I22A: 9 Mile Ranch, Kaycee, WY, USA
+I23A: Meade Ranch, Gillette, WY, USA
+I24A: Kuemmerle Ranch, Upton, WY, USA
+I25A: Rochford, SD, USA
+I26A: New Underwood, SD, USA
+I27A: Quinn, SD, USA
+I28A: Midland, SD, USA
+I29A: Vivian, Onida, SD, USA
+I30A: Oacoma, SD, USA
+I31A: Royce, Wessington Springs, SD, USA
+I32A: Karley and Nick, Howard, SD, USA
+I33A: Coleman, SD, USA
+I34A: Hadley, MN, USA
+I35A: Creekview Farms, Bingham Lake, MN, USA
+I36A: Fitzsimmons Farm, Good Thunder, MN, USA
+I37A: Lemond, Waseca, MN, USA
+I38A: Scanlan Farm, Eyota, MN, USA
+I39A: Houston, MN, USA
+I40A: Norwalk, WI, USA
+I41A: Arkdale, WI, USA
+I42A: Draeger Farm, Ripon, WI, USA
+I43A: Langenfeld Brothers Farm, Elkhart Lake, WI, USA
+I45A: Fountain, MI, USA
+I46A: Reed City, MI, USA
+I47A: Gladwin, MI, USA
+I48A: Sherman Twp, MI, USA
+I49A: Point Hope, MI, USA
+I51A: Listowel, ON, CAN
+I52A: Shelburne, ON, CAN
+I53A: Kortright Cn Earth Rangers Ctr, Woodbridge, ON, CA
+I55A: Frankford, ON, CAN
+I57A: Carthage, NY, USA
+I58A: Old Forge, NY, USA
+I59A: Olmsteadville, NY, USA
+I60A: Shoreham, VT, USA
+I61A: Oroboro, Fairlee, VT, USA
+I62A: Tamworth, NH, USA
+I63A: Otisfield, ME, USA
+I64A: Boothbay, ME, USA
+J01D: Myrtle Point, OR, USA
+J01E: Myrtle Point, OR, USA
+J02A: Umpqua, OR, USA
+J03A: Ideyld Park, OR, USA
+J04A: Umpqua National Forest, Toketee, OR, USA
+J04D: Umpqua National Forest, Toketee, OR, USA
+J05A: Fort Rock, OR, USA
+J05D: Fort Rock, OR, USA
+J06A: Christmas Valley, OR, USA
+J07A: Hines, OR, USA
+J08A: Circle Bar Ranch, Crane, OR, USA
+J09A: Fry Pan Ranch, Harper, OR, USA
+J10A: Berg Farm, Melba ID, USA
+J11A: Camas Ranch, Mayfield, ID, USA
+J12A: Stokes Ranch, Hill City, ID, USA
+J13A: Cove Ranch, Picabo, ID, USA
+J14A: Carey, ID, USA
+J15A: Blackfoot, ID, USA
+J16A: Bone, ID, USA
+J17A: Brown Place, Jackson, WY, USA
+J18A: Kendall Valley, Cora, WY, USA
+J19A: Crowheart, WY, USA
+J20A: Shoshoni, WY, USA
+J21A: Lysite, WY, USA
+J22A: Midwest, WY, USA
+J23A: Dilts Ranch, Bill, WY, USA
+J24A: Dixon Ranch, Lance Creek, WY, USA
+J25A: Sunshine Ranch, Edgemont, SD, USA
+J26A: Sides Ranch, Smithwick, SD, USA
+J27A: Elkhorn Farm, Martin, SD, USA
+J28A: Allard Ranch, Norris, SD, USA
+J29A: Okreek, SD, USA
+J30A: Dallas, SD, USA
+J31A: Geddes, SD, USA
+J32A: Parkston, SD, USA
+J33A: Davis, SD, USA
+J34A: George, IA, USA
+J35A: Milford, IA, USA
+J36A: Seneca 1, Swea City, IA, USA
+J37A: Redenius Farm, Forest, IA, USA
+J38A: Wedel Dairy, Riceville, IA, USA
+J39A: Decorah, IA, USA
+J40A: Soldiers Grove, WI, USA
+J41A: Loganville, WI, USA
+J42A: Columbus, WI, USA
+J43A: Natural Harvest Farm, Hartford, WI, USA
+J45A: Montague, MI, USA
+J46A: Howard City, MI, USA
+J47A: Sumner, MI, USA
+J48A: Bridge Port, MI, USA
+J49A: Marlette, MI, USA
+J52A: Paris, ON, CAN
+J54A: Appleton, NY, USA
+J55A: Hilton, NY, USA
+J56A: Wolcott, NY, USA
+J57A: Williamstown, NY, USA
+J58A: Remsen, NY, USA
+J59A: Piesco, NY, USA
+J60A: Lant Hill Farm, Argyle, NY, USA
+J61A: Chester, VT, USA
+J62A: Henniker, NH, USA
+J63A: Strafford, NH, USA
+K01A: Sixes, OR, USA
+K02A: Glendale, OR, USA
+K02D: Willamette Meridian, OR, USA
+K04A: Chilquin, OR, USA
+K04D: Chiloquin, OR, USA
+K05A: Summer Lake, OR, USA
+K06A: Valley Falls, OR, USA
+K07A: Rock Creek Ranch, Frenchglen, OR, USA
+K08A: Mann Creek Ranch, Princeton, OR, USA
+K09A: Rome, OR, USA
+K10A: MacKenzie Ranch, Jordan Valley, OR, USA
+K11A: Parker Ranch, Bruneau, ID, USA
+K12A: Draper Farm, Castleford, ID, USA
+K13A: Stover Farm, Hazelton, ID, USA
+K14A: Jones Ranch, Declo, ID, USA
+K15A: Arbon, ID, USA
+K16A: Soda Springs, ID, USA
+K17A: Gardner Place, Afton, WY, USA
+K18A: Toltan Ranch, Big Piney, WY, USA
+K19A: Absolon Red Butte, Lander, WY, USA
+K20A: Yellowstone Ranch, Lander, WY, USA
+K21A: Alcova, Casper, WY, USA
+K22A: Casper, WY, USA
+K23A: Bowen Ranch, Douglas, WY, USA
+K24A: Anderson Ranch, Keeline, WY, USA
+K25A: Mack Ranch, Harrison, NE, USA
+K26A: Motz Farm, Whitney, NE, USA
+K27A: Flueckinger Farm, Gordon, NE, USA
+K28A: Ten Mile Ranch, Cody, NE, USA
+K29A: Lazy Trails Angus Ranch, Wood Lake, NE, USA
+K30A: Basset, NE, USA
+K31A: O'Neill, NE, USA
+K32A: Verdigre, NE, USA
+K33A: Hardington, NE, USA
+K34A: Le Mars, IA, USA
+K35A: Storm Lake, IA, USA
+K36A: Gilmore City, IA, USA
+K37A: Belmond, IA, USA
+K38A: Parkersburg, IA, USA
+K39A: Oelwein, IA, USA
+K40A: Colesburg, IA, USA
+K41A: Shullsburg, WI, USA
+K42A: Prairie Point, Evansville, WI, USA
+K43A: Burlington, WI, USA
+K46A: Dorr, MI, USA
+K47A: Vremontville, MI, USA
+K48A: Perry, MI, USA
+K49A: Clarkson, MI, USA
+K50A: Casco, MI, USA
+K51A: Iona Station, ON, CAN
+K52A: Tillsonburg, ON, CAN
+K54A: Basiliko Farm, Boston, NY, USA
+K55A: Perry, NY, USA
+K56A: Middlesex, NY, USA
+K57A: Scipio Center, NY, USA
+K58A: Earlville, NY, USA
+K59A: Cooperstown, NY, USA
+K60A: Five Rivers Env. Education Center, Delmar, NY, USA
+K61A: Williamstown, MA, USA
+K62A: Royalston, MA, USA
+K63A: Dunstable, MA, USA
+KMSC: Kings Mountain, Blacksburg, SC, USA
+KSCO: Kaye Shedlock's, Cheyenne Wells, CO, USA
+L02A: Cave Junction, OR, USA
+L02D: Cave Junction, OR, USA
+L02E: Cave Junction, OR, USA
+L02F: Cave Junction, OR, USA
+L04A: Klamath Falls, OR, USA
+L04D: Klamath Falls, OR, USA
+L05A: Lakeview, OR, USA
+L07A: Adell, OR, USA
+L08A: Fields, OR, USA
+L09A: Wilkinson Ranch, McDermitt, NV, USA
+L10A: Juniper Basin Ranch, Riddle, ID, USA
+L11A: Cat Creek Ranch, Riddle, ID, USA
+L12A: House Creek Ranch, Rogerson, ID, USA
+L13A: Double Diamond Ranch, Oakley, ID, USA
+L14A: Malta, ID, USA
+L15A: Malad City, ID, USA
+L16A: Fish Haven, ID, USA
+L17A: Cokeville, WY, USA
+L18A: Fontenelle, Green River, WY, USA
+L19A: Farson, WY, USA
+L20A: Wamsutter, WY, USA
+L21A: Rawlins, WY, USA
+L22A: Ellis Ranch, Medicine Bow, WY, USA
+L23A: Garrett, WY, USA
+L24A: Wheatland, WY, USA
+L25A: Engebretsen Ranch, Morrill, NE, USA
+L26A: Underwood Farm, Alliance, NE, USA
+L27A: T5 Ranch, Ellsworth, NE, USA
+L28A: Connealy Angus Ranch, Whitman, NE, USA
+L29A: Maesberg Ranch, Thedford, NE, USA
+L30A: Spencer Herefords Ranch, Brewster, NE, USA
+L31A: Butterfield Farm, Chambers, NE, USA
+L32A: Elgin, NE, USA
+L33A: Hoskins, NE, USA
+L34A: Svendsen Farm, Lyons, NE, USA
+L35A: Bielow Farm, Ricketts, IA, USA
+L36A: Harm Buss Farm, Glidden, IA, USA
+L37A: Phoenix Point, Boone, IA, USA
+L38A: Oak Wood Farm, Albion, IA, USA
+L39A: Vinton, IA, USA
+L40A: Anamosa, IA, USA
+L41A: Preston, IA, USA
+L42A: Oliver, Polo, IL, USA
+L43A: Garden Prairie, IL, USA
+L44A: Ryerson Woods, Lake Cnty Forest Preserve, IL, USA
+L46A: Eue Claire, MI, USA
+L47A: Sherwood, MI, USA
+L48A: N Adams, MI, USA
+L49A: Milan, MI, USA
+L50A: Kingsville, ON, CAN
+L53A: Girard, PA, USA
+L54A: Sinclairville, NY, USA
+L55A: Hinsdale, NY, USA
+L56A: Greenwood, NY, USA
+L57A: Andrews Acres Farm, Gillet, PA, USA
+L58A: Harry Jones Memorial, Binghamton, NY, USA
+L59A: Walton, NY, USA
+L60A: Shokan, NY, USA
+L61A: Hillsdale 1, Hillsdale, NY, USA
+L61B: Northampton, MA, USA
+L62A: Suffield, CT, USA
+L63A: North Scituate, RI, USA
+L64A: Middleborough, MA, USA
+L65A: Cape Cod National Seashore, MA, USA
+LAVA: Lava Cap Winery, Placerville, CA, USA
+M01C: Crescent City, CA, USA
+M02C: Callahan, CA, USA
+M03C: McCloud, CA, USA
+M04C: Macdoel, CA, USA
+M05C: Lookout, CA, USA
+M06C: Likely Place Golf, Likely, CA, USA
+M07A: Soldier Meadows, NV, USA
+M08A: Happy Creek Ranch, Winnemucca, NV, USA
+M09A: Marrel Ranch, Paradise Valley, NV, USA
+M10A: I.L. Ranch, Tuscararo, NV, USA
+M11A: Holland Ranch, North Fork, NV, USA
+M12A: Wells, NV, USA
+M13A: Montello, NV, USA
+M14A: Sheep Mountain BLM, Rosette, UT, USA
+M15A: Larsen Ranch, Promontory, UT, USA
+M16A: Huntsville, UT, USA
+M17A: Scullys Gap (BLM), Evanston, WY, USA
+M18A: Lyman, WY, USA
+M19A: Rock Springs, WY, USA
+M20A: Sweetwater, Wamsutter, WY, USA
+M21A: Separation Peak, Rawlins, WY, USA
+M22A: Cedar Creek Ranch, Saratoga, WY, USA
+M23A: Laramie, WY, USA
+M24A: Cheyenne, WY, USA
+M25A: Palm-Egli Farm, Albin, WY, USA
+M26A: McRoberts Ranch, Bridgeport, NE, USA
+M27A: Reverse DX Ranch, Oshkosh, NE, USA
+M28A: Bar X Bar Ranch, Keystone, NE, USA
+M29A: Burnside Ranch, Stapleton, NE, USA
+M30A: Dale-Ortello Valley, Anselmo, NE, USA
+M31A: Lambtecht Ranch, Loup City, NE, USA
+M33A: Taylor Creek Farms, Clarkson, NE, USA
+M34A: Aspy Farms, Fremont, NE, USA
+M35A: Neola, IA, USA
+M36A: Felix, Anita, IA, USA
+M37A: Trindle Farm, Earlham, IA, USA
+M38A: Pleasantville, IA, USA
+M39A: Webster, IA, USA
+M40A: Post Highland Seismo, Ainsworth, IA, USA
+M41A: Milan, IL, USA
+M42A: Sheffield, IL, USA
+M43A: Waltham Township, Utica, IL, USA
+M44A: Midewin, Midewin Nat. Tallgrass Prarie, IL, USA
+M45A: Boilermakers Shaker, Crown Point, IN, USA
+M46A: Old House Field, Plymouth, IN, USA
+M47A: Cromwell, IN, USA
+M48A: Edgerton, OH, USA
+M49A: Liberty Center, OH, USA
+M50A: Fremont, OH, USA
+M51A: Elyria, OH, USA
+M52A: Chesterland, OH, USA
+M53A: WI Miller and Sons, Farmdale, OH, USA
+M54A: Oil Creek State Park, Oil City, PA, USA
+M55A: Ridgway, PA, USA
+M56A: Emporium, PA, USA
+M57A: Sunshine Farm, Cogan Station, PA, USA
+M58A: Price's Panorama, Muncy Valley, PA, USA
+M59A: Waymart, PA, USA
+M60A: Port Jervis, NY, USA
+M61A: Granite Springs, NY, USA
+M62A: Hamden, CT, USA
+M63A: Gales Ferry, CT, USA
+M64A: Tiverton, RI, USA
+M65A: Busby, Falmouth, MA, USA
+M66A: Nantucket, MA, USA
+MDND: Maddock, ND, USA
+MSTX: Muleshoe, TX, USA
+N02C: Big Bar, CA, USA
+N02D: Trinity Center, CA, USA
+N06A: Buffalo Meadows, Empire, NV, USA
+N07A: Gerlach, NV, USA
+N07B: Gerlach, NV, USA
+N08A: GE Springer Mine, Mill City, NV, USA
+N09A: Rock Creek Ranch, Golconda, NV, USA
+N10A: Dunphy, NV, USA
+N11A: Elko Archery Club, Elko, NV, USA
+N12A: Clover Valley, Wells, NV, USA
+N13A: Wendover, West Wendover, NV, USA
+N14A: Grayback Hills BLM, Clive, UT, USA
+N15A: Stansbury Island BLM, Grantsville, UT, USA
+N16A: Rees Ranch, Coalville, UT, USA
+N17A: Moffit Pass, UT, USA
+N18A: Larsen Ranch, Manila, UT, USA
+N19A: John Jarvie Ranch (BLM), Flaming Gorge, UT, USA
+N20A: Spence Gulch, Sunbeam, CO, USA
+N21A: Black Mountain, Craig, CO, USA
+N22A: Wattenberg Ranch, Walden, CO, USA
+N23A: Red Feather Lakes, CO, USA
+N24A: Carr, CO, USA
+N25A: Grover, CO, USA
+N26A: Koester Ranch, Padroni, CO, USA
+N27A: Anderson Farm, Haxtun, CO, USA
+N28A: Pribbeno Ranch, Imperial, NE, USA
+N29A: Votaw Ranch, Wellfleet, NE, USA
+N30A: Hueftle Ranch, Cozad, NE, USA
+N31A: Bailey Ranch, Gibbon, NE, USA
+N32A: Stulken Farm, Doniphan, NE, USA
+N33A: J Bar K, Exeter, NE, USA
+N34A: Lincoln, NE, USA
+N35A: Tabor, IA, USA
+N36A: Muff Farm, Clarinda, IA, USA
+N37A: Lee Faris, Mount Ayr, IA, USA
+N38A: Joe's South Fork Station, Corydon, IA, USA
+N39A: Derby Farms, Drakesville, IA, USA
+N40A: Mertquake, Salem, IA, USA
+N41A: Harden Midland Farm, Stronghurst, IL, USA
+N42A: Yates City, IL, USA
+N43A: Stutzman Family Farm, Minonk, IL, USA
+N44A: Piper City, IL, USA
+N45A: Kentland, IN, USA
+N46A: Monticello, IN, USA
+N47A: Urbana, IN, USA
+N48A: Decatur, IN, USA
+N49A: Columbus Grove, OH, USA
+N50A: Nevada, OH, USA
+N51A: Ashland, OH, USA
+N52A: McGinn's Farm, Dalton, OH, USA
+N53A: Lisbon, OH, USA
+N54A: Moraine State Park, Portersville, PA, USA
+N55A: Marion Center, PA, USA
+N56A: West Decatur, PA, USA
+N57A: Milroy, PA, USA
+N58A: Sunbury, PA, USA
+N59A: State Game Land 141, Hazleton, PA, USA
+N60A: Cedar Hill Farm, Mount Bethel, PA, USA
+N61A: South Mountain, Millburn, NJ, USA
+N62A: Caumsett State Park, Huntington, NY, USA
+N63A: Mattituck, NY, USA
+O01C: Eel River Conservation Camp, Redway, CA, USA
+O02C: Red Bluff, CA, USA
+O02D: Mt. Diablo Meridian, CA, USA
+O03C: Acorn Hollow, Los Molinos, CA, USA
+O03D: Paynes Creek, CA, USA
+O03E: Paynes Creek, CA, USA
+O04C: Chester, CA, USA
+O05C: Quincy, CA, USA
+O06A: Flanigan, NV, USA
+O07A: Toulon, NV, USA
+O08A: Rochester Mine, Lovelock, NV, USA
+O09A: Fish Creek Ranch, Battle Mountain, NV, USA
+O10A: Cortez Mining, Crescent City, NV, USA
+O11A: Cowboy Ranch, Jiggs, NV, USA
+O12A: Currie, NV, USA
+O13A: Hicks Ranch, Ibapah, UT, USA
+O15A: The Old Anderson's Place, Rush Valley, UT, USA
+O16A: Springville, UT, USA
+O17A: Robinson Place, Fruitland, UT, USA
+O18A: Roosevelt, UT, USA
+O19A: Miners Draw (BLM), Jensen, UT, USA
+O20A: White River City, CO, USA
+O21A: Pagoda, CO, USA
+O22A: Kremmling, CO, USA
+O23A: Lake Granby, Granby, CO, USA
+O24A: Longmont, CO, USA
+O25A: Wiggins, CO, USA
+O26A: Horse Wrangler Ranch, Akron, CO, USA
+O27A: Beecher Island, Eckley, CO, USA
+O28A: Krutsinger Ranch, Parks, NE, USA
+O29A: 4D Ranch, Culbertson, NE, USA
+O30A: M W Ranch, Wilsonville, NE, USA
+O31A: Woollen Ranch, Alma, NE, USA
+O32A: Brockman Farm, Red Cloud, NE, USA
+O33A: Hebron, NE, USA
+O34A: Beatrice, NE, USA
+O35A: Humboldt, NE, USA
+O36A: Bolckow, MO, USA
+O37A: Wolven Farm, McFall, MO, USA
+O38A: Galt, MO, USA
+O39A: Kirksville, MO, USA
+O40A: La Belle, MO, USA
+O41A: Passley's Farm, La Prairie, IL, USA
+O42A: Bath, IL, USA
+O43A: Sugar Creek Farm, Atlanta, IL, USA
+O44A: Mansfield, IL, USA
+O45A: Potomac, IL, USA
+O47A: Sheridan, IN, USA
+O48A: Farmland, IN, USA
+O48A: Farmland, IN, USA
+O48B: Farmland, IN, USA
+O49A: Covington, OH, USA
+O50A: Cable, OH, USA
+O51A: Pataskala, OH, USA
+O52A: Adamsville, OH, USA
+O53A: New Philadelphia, OH, USA
+O54A: Avella, PA, USA
+O55A: Ligonier, PA, USA
+O56A: Blue Knob State Park, Imler, PA, USA
+O57A: Amberson, PA, USA
+O58A: Lewisberry, PA, USA
+O59A: Robesonia, PA, USA
+O60A: Telford, PA, USA
+O61A: Allentown, NJ, USA
+P01C: Double 8 Ranch, Willits, CA, USA
+P05C: Yuba Gap, Truckee, CA, USA
+P06A: Stead Airport, Stead, NV, USA
+P07A: Fallon, NV, USA
+P08A: Dixie Valley, NV, USA
+P09A: Austin, NV, USA
+P10A: Eureka, NV, USA
+P11A: Circle Ranch, Eureka, NV, USA
+P12A: McGill, NV, USA
+P13A: Bates Ranch, Gandy, UT, USA
+P14A: Drum Mountains (BLM), Topaz, UT, USA
+P15A: Leamington, UT, USA
+P16A: Fountain Green, UT, USA
+P17A: Butcher Ranch, Price, UT, USA
+P18A: Preston Nutter Ranch, Sunnyside, UT, USA
+P19A: Cripple Cowboy Ranch, Baxter Pass, CO, USA
+P20A: De Beque, CO, USA
+P21A: Newcastle, CO, USA
+P22A: Eagle, CO, USA
+P23A: Jefferson, CO, USA
+P24A: Kohler Place, Littleton, CO, USA
+P25A: Willow Gulch Bison Ranch, Deer Trail, CO, USA
+P26A: Davis Ranch, Arriba, CO, USA
+P27A: Ficken Ranch, Kirk, CO, USA
+P28A: Satin Francis, KS, USA
+P29A: Atwood, KS, USA
+P30A: Selden, KS, USA
+P31A: Stockton, KS, USA
+P32A: Huiting Farm, Downs, KS, USA
+P33A: Williams Farm, Concordia, KS, USA
+P34A: Walnut Farm, Randolph, KS, USA
+P35A: Duane Minner, Soldier, KS, USA
+P36A: Good Intent, Atchison, KS, USA
+P37A: Lathrop, MO, USA
+P38A: Dawn, MO, USA
+P39A: Salisbury, MO, USA
+P39B: Salisbury, MO, USA
+P40A: Paris, MO, USA
+P41A: Barry, Barry, IL, USA
+P42A: Winchester, IL, USA
+P43A: Skaggs, Pawnee, IL, USA
+P44A: Sand Creek, Windsor, IL, USA
+P45A: Graceland, Paris, IL, USA
+P46A: Rosedale, IN, USA
+P47A: Martinsville, IN, USA
+P48A: Milroy, IN, USA
+P49A: Miami Univ. Ecology Research Center, OH, USA
+P50A: Jamestown, OH, USA
+P51A: Williamsport, OH, USA
+P52A: Corning, OH, USA
+P53A: Whipple, OH, USA
+P54A: Burton, WV, USA
+P55A: Reedsville, WV, USA
+P56A: Dayton Farm, Ripley, WV, USA
+P57A: Homestead Farm, Martinsburg, WV, USA
+P58A: Pank, Wackersville, MD, USA
+P59A: Jarrettsville, MD, USA
+P60A: Greenville, DE, USA
+P61A: Hammonton, NJ, USA
+Q03C: Winters, CA, SA
+Q04C: Lincoln, CA, USA
+Q07A: Schurz, NV, USA
+Q08A: Gabbs, NV, USA
+Q09A: Carvers, NV, USA
+Q10A: Clear Creek Ranch, Tonopah, NV, USA
+Q11A: Duckwater, NV, USA
+Q12A: Willow Creek Ranch, Ely, NV, USA
+Q13A: Wheeler Ranch, Garrison, UT, USA
+Q14A: Sevier Lake (BLM), Delta, UT, USA
+Q15A: Fillmore, UT, USA
+Q16A: Castle Valley Ranch, Emery, UT, USA
+Q18A: Rafter H Ranch, Green River, UT, USA
+Q19A: Hogan Spring (BLM), Cisco, UT, USA
+Q20A: Ridgley Place, Grand Junction, CO, USA
+Q21A: Lamborn Mesa, Paonia, CO, USA
+Q22A: Crested Butte, Gunnison, CO, USA
+Q23A: Hartsel, CO, USA
+Q24A: Divide, CO, USA
+Q25A: Bedland, Calhan, CO, USA
+Q26A: Hugo, CO, USA
+Q28A: Sharon Springs, KS, USA
+Q29A: Oakley, KS, USA
+Q30A: Quinter, KS, USA
+Q31A: Ellis, KS, USA
+Q32A: Meitler Ranch, Lucas, KS, USA
+Q33A: Connelly Farm, Tescott, KS, USA
+Q34A: Chapman, KS, USA
+Q35A: Mercer Eighty, Eskridge, KS, USA
+Q36A: Arnold C. Orvedal, Lecompton, KS, USA
+Q37A: Longview Farm, Lee's Summit, MO, USA
+Q38A: Cook's Store, Concordia, MO, USA
+Q39A: Willow Grove Farm, Nelson, MO, USA
+Q40A: Laux Farm, Auxvasse, MO, USA
+Q41A: Truxton, MO, USA
+Q42A: Golden Eagle, IL, USA
+Q43A: New Douglas, IL, USA
+Q44A: Meyer Farm, Vandalia, IL, USA
+Q45A: Warren Harvey, Newton, IL, USA
+Q46A: CEJHS Indians, Carlisle, IN, USA
+Q47A: Bedord North Lawrence Stars, Bedford, IN, USA
+Q48A: North Vernon, IN, USA
+Q49A: Aurora, IN, USA
+Q50A: Georgetown, OH, USA
+Q51A: Peebles, OH, USA
+Q52A: Bidwell, OH, USA
+Q53A: Leroy, WV, USA
+Q54A: Coxs Mills, WV, USA
+Q55A: Buckhannon, WV, USA
+Q56A: Snyder Ridge, Maysville, WV, USA
+Q57A: Strasburg, VA, USA
+Q58A: Fox Den Farm, The Plains, VA, USA
+Q59A: Harwood, MD, USA
+Q60A: Greensboro, MD, USA
+Q61A: Milford, DE, USA
+R04C: Big Horse Ranch, Ione, CA, USA
+R05C: Kirkwood Meadows Resort, Kirkwood, CA, USA
+R06C: Coleville, CA, USA
+R07C: Lee Vining, CA, USA
+R08A: Mina, NV, USA
+R09A: Tonopah, NV, USA
+R10A: Warm Springs, NV, USA
+R11A: Troy Canyon, Currant, NV, USA
+R11B: Troy Canyon, Currant, NV, USA
+R12A: Pony Springs, Pioche, NV, USA
+R13A: O'Grain Ranch, Modena, UT, USA
+R14A: James Farms, Milford, UT, USA
+R15A: Junction, UT, USA
+R16A: Teasdale, UT, USA
+R17A: Hanksville Airport, Hanksville, UT, USA
+R18A: Canyonlands National Park, Moab, UT, USA
+R19A: Curley Farm, La Sal, UT, USA
+R20A: Redvale, CO, USA
+R21A: Cimarron, CO, USA
+R22A: Saguache, Gunnison, CO, USA
+R23A: Moffat, CO, USA
+R24A: Sanders Place, Florence, CO, USA
+R25A: Fountain Ranch, Boone, CO, USA
+R26A: Arlington, CO, USA
+R27A: Eads, CO, USA
+R28A: Tribune, KS, USA
+R29A: Marienthal, KS, USA
+R30A: Dighton, KS, USA
+R31A: Burdett, KS, USA
+R32A: Long Quarter, Great Bend, KS, USA
+R33A: Olander Ranch, Little River, KS, USA
+R34A: Isabella, Hillsboro, KS, USA
+R35A: Emporia Municipal Airport, Emporia, KS, USA
+R36A: Gordon, Harris, KS, USA
+R37A: Teagarden Farms, La Cygne, KS, USA
+R38A: Fenwick Farm, Montrose, MO, USA
+R39A: Chumby, Stover, MO, USA
+R40A: Maddie's Station, St. Elizabeth, MO, USA
+R41A: Rosebud, MO, USA
+R42A: Luebbering, MO, USA
+R43A: Red Bud, IL, USA
+R44A: Waltonville, IL, USA
+R45A: Skylar, Fairfield, IL, USA
+R46A: Gibon Southern Titans, Haubstabt, IN, USA
+R47A: Wooly Knot Farm, English, IN, USA
+R48A: Northridge Ranch, Floyd Knobs, IN, USA
+R49A: Shelbyville, KY, USA
+R50A: Paris, KY, USA
+R51A: Hillsboro, KY, USA
+R52A: Catlettsburg, KY, USA
+R53A: Hurricane, WV, USA
+R54A: Victor, WV, USA
+R55A: Marlinton, WV, USA
+R56A: Bull Pasture Mountain, McDowell, VA, USA
+R57A: Stanardsville, VA, USA
+R58A: Rapidan, VA, USA
+R58B: Mineral, VA, USA
+R59A: King George, VA, USA
+R60A: Leonardtown, MD, USA
+R61A: Willards, MD, USA
+S04C: Ingram Canyon, Westley, CA, USA
+S05C: Merced, CA, USA
+S06C: San Francisco Camp Mather, Mather, CA, USA
+S08C: White Mtn Res Sta-Crooked Creek, Bishop, CA, USA
+S09A: Goldfield, NV, USA
+S10A: Tonopah Range, Tonopah, NV, USA
+S11A: Rachel, NV, USA
+S12A: Delamar Landing Field, Caliente, NV, USA
+S13A: Holt Ranch, Enterprise, UT, USA
+S14A: Cedar City, UT, USA
+S15A: Panguitch, UT, USA
+S16A: Weppner Ranch, Escalante, UT, USA
+S17A: Black Ridge (BLM), Bullfrog Basin, UT, USA
+S18A: Hurst Farm, Blanding, UT, USA
+S19A: Harvey Farm, Monticello, UT, USA
+S20A: Disappointment Valley, Cahone, CO, USA
+S21A: Coal Bank Pass, Durango, CO, USA
+S22A: 4UR Ranch, Creede, CO, USA
+S23A: Nye Farm, Monte Vista, CO, USA
+S24A: Houchin Ranch, La Veta, CO, USA
+S25A: Robets Cordova Ranch, Walsenberg, CO, USA
+S26A: Kim, CO, USA
+S27A: Los Animas, CO, USA
+S28A: Manter, KS, USA
+S29A: Ulysses, KS, USA
+S30A: Montezuma, KS, USA
+S31A: Mullinville, KS, USA
+S32A: Newby Ranch, Pratt, KS, USA
+S33A: Kaszmaul Farm, Murdock, KS, USA
+S34A: Willow Spring Farm, Andover, KS, USA
+S35A: Otter Creek Ranch, Eureka, KS, USA
+S36A: Lake Cedric, Chanute, KS, USA
+S37A: Fort Scott, KS, USA
+S38A: Stockton, MO, USA
+S39A: Bolivar, MO, USA
+S40A: Lebanon, MO, USA
+S41A: Jillco Farms, Salem, MO, USA
+S42A: Caledonia, MO, USA
+S43A: Fulton Ridge, Patton, MO, USA
+S44A: Carbondale, IL, USA
+S45A: Carrier Mills, IL, USA
+S46A: Don Dixon Farm, Corydon, KY, USA
+S47A: Hartford, KY, USA
+S48A: Wiedeman Farm, Cecilia, KY, USA
+S49A: Springfield, KY, USA
+S50A: Richmond, KY, USA
+S51A: Beattyville, KY, USA
+S52A: Salyersville, KY, USA
+S53A: Williamson, WV, USA
+S54A: Dingess, Beckley, WV, USA
+S55A: Lewisburg, WV, USA
+S56A: Natural Bridge, VA, USA
+S57A: Dark Hollow, Roseland, VA, USA
+S58A: Poland Farm, Powhatan, VA, USA
+S59A: Mechanicsville, VA, USA
+S60A: Water View, VA, USA
+S61A: Accomac, VA, USA
+SFIN: Lafayette, IN, USA
+SPMN: Marine on St. Croix, MN, USA
+SUSD: Miller, SD, USA
+SUTB: Sutter Butte, CA, USA
+T05C: Eagle Field, Dos Palos, CA, USA
+T06C: Millerton Lake Dam, Friant, CA, USA
+T11A: Corn Creek, Alamo, NV, USA
+T12A: Moapa, NV, USA
+T13A: Saint George, UT, USA
+T14A: Hurricane, UT, USA
+T15A: Red Dirt Ranch, Kanab, UT, USA
+T16A: Glen Canyon Dam (NPS), Page, AZ, USA
+T17A: Navajo Res., Navajo Mountain, AZ, USA
+T18A: Mexican Hat, UT, USA
+T19A: Beclabito, NM, USA
+T21A: Navajo Lake, Ignacio, CO, USA
+T22A: Edith, CO, USA
+T23A: Casias Ranch, Antonito, CO, USA
+T24A: Torres, Weston, CO, USA
+T24B: San Luis, CO, USA
+T25A: Trinidad, CO, USA
+T26A: Comanche National Grassland Park, Kim, CO, USA
+T27A: Campo, CO, USA
+T28A: Walsh, CO, USA
+T29A: Hugoton, KS, USA
+T30A: Plains, KS, USA
+T31A: Randall Ranch, Ashland, KS, USA
+T32A: Huddler Ranch, Lake City, KS, USA
+T33A: Patterson Ranch, Waldron, KS, USA
+T34A: McClaskey Farms, Geuda Springs, KS, USA
+T35A: Sooner Cattle Company, Foraker, OK, USA
+T36A: Boggs Farm, Caney, KS, USA
+T37A: Cheneyville 1850, Columbus, KS, USA
+T38A: Diamond, MO, USA
+T39A: Clever, MO, USA
+T40A: Mansfield, MO, USA
+T41A: Mountain View, MO, USA
+T42A: Van Buren, MO, USA
+T43A: Greenville, MO, USA
+T44A: Benton, MO, USA
+T45A: Paducah, KY, USA
+T46A: Princeton, KY, USA
+T47A: Sharon Grove, KY, USA
+T48A: Bowling Green, KY, USA
+T49A: Edmonton, KY, USA
+T50A: Nancy, KY, USA
+T51A: Gray, KY, USA
+T52A: Hallie, KY, USA
+T53A: Wise, VA, USA
+T54A: Tazewell, VA, USA
+T55A: Pulaski, VA, USA
+T56A: Rocky Mt, VA, USA
+T57A: Hurt, VA, USA
+T58A: Grand View Acres, VA, USA
+T59A: Double 'B' Farms, VA, USA
+T60A: Surry, VA, USA
+TASL: Snake Pit, Albuquerque Seismic Lab, NM, USA
+TASM: ASL Pad, Albuquerque Seismic Lab, NM, USA
+TASN: ASL Pad, Albuquerque Seismic Lab, NM, USA
+TASO: ASL Pad, Albuquerque Seismic Lab, NM, USA
+TASP: ASL Pad, Albuquerque Seismic Lab, NM, USA
+TFRD: Ford Ranch, Anza, CA, USA
+TIGA: Tifton, GA, USA
+TPFO: Pinon Flats, CA, USA
+TUL1: Leonard, OK, USA
+TUL3: Leonard, OK, USA
+TVZX: PASSCAL Warehouse
+U04C: Hernandez Reservoir, Idria, CA, USA
+U05C: Westside ANR, Five Points, CA, USA
+U10A: Ash Meadows, Armagosa, NV, USA
+U11A: Corn Creek, NV, USA
+U12A: Valley of Fire, Overton, NV, USA
+U13A: Pakoon Wash, AZ, USA
+U14A: Mt Trumbull, AZ, USA
+U15A: North Rim, AZ, USA
+U16A: Tuba City, AZ, USA
+U17A: Shonto, AZ, USA
+U18A: Rough Rock, Chinle, AZ, USA
+U19A: Dine' College, Tsaile, AZ, USA
+U20A: Newcomb, NM, USA
+U21A: Nageezi, NM, USA
+U22A: Llaves, NM, USA
+U23A: El Rito, NM, USA
+U24A: Moreno Valley High School, Angel Fire, NM, USA
+U25A: Circle Dot Ranch, Maxwell, NM, USA
+U26A: Atchley Ranch, Grenville, NM, USA
+U27A: Thompson Grove, Rita Blanca Nat Grassland, TX, USA
+U28A: Mallet, Rita Blanca National Grassland, TX, USA
+U29A: Oasis Ranch, Spearman, TX, USA
+U30A: WK&E Inc., Balko, OK, USA
+U31A: Nine Bar Ranch, Gage, OK, USA
+U32A: Winter Ranch, Mooreland, OK, USA
+U33A: Lingo Farm, Meno, OK, USA
+U34A: Anderson Ranch, Garber, OK, USA
+U35A: Pawnee, OK, USA
+U36A: Oologah, OK, USA
+U37A: Salina, OK, USA
+U38A: Gravette, AR, USA
+U39A: Green Forest, AR, USA
+U40A: Yellville, AR, USA
+U41A: Viola, AR, USA
+U42A: Revenden, AR, USA
+U43A: Rector, AR, USA
+U44A: Portageville, MO, USA
+U44B: Burton Farm, Hornbeak, TN, USA
+U45A: Rockin P Farm, Martin, TN, USA
+U46A: Springville, TN, USA
+U47A: Clarksville, TN, USA
+U48A: Cassie Pea, Portland, TN, USA
+U49A: Red Boiling Springs, TN, USA
+U50A: Jamestown, TN, USA
+U51A: La Follette, TN, USA
+U52A: Thorn Hill, TN, USA
+U53A: Fall Branch, TN, USA
+U54A: Nelson's Funny Farm, Mountain City, TN, USA
+U55A: TA2, Sparta, NC, USA
+U56A: King, NC, USA
+U57A: Blanch, NC, USA
+U58A: Oxford, NC, USA
+U59A: Littleton, NC, USA
+U60A: Pendleton, NC, USA
+U61A: Possum Corner Farms, Belvidere, NC, USA
+V03C: Hunter Liggett MR Jolon, CA, USA
+V04C: Ramage Ranch, Paso Robles, CA, USA
+V05C: Boulder Hill, Kettleman City, CA, USA
+V11A: Goodsprings, NV, USA
+V12A: Nelson, NV, USA
+V13A: Grand Canyon West Ranch, Meadview, AZ, USA
+V14A: Boquillas Ranch, Navajo N., Peach Springs, AZ, USA
+V15A: Kaibab National Forest USFS, William, AZ, USA
+V17A: Tonalea, Kykotsmovi, AZ, USA
+V18A: Ganado, AZ, USA
+V19A: Window Rock, AZ, USA
+V20A: Brimhall, NM, USA
+V21A: Milan, NM, USA
+V22A: San Miguel Ranch, Cuba, NM, USA
+V23A: Ortiz Mt. (NFS), Santa Fe National Forest, NM, USA
+V24A: Rampart Ranch, Las Vegas, NM, USA
+V25A: Rancho No Tengo, Wagon Mound, NM, USA
+V26A: Tequesquite Ranch, Mosquero, NM, USA
+V27A: Dan Oppilter Farms, Dalhart, TX, USA
+V28A: Channing, TX, USA
+V29A: Stinnett, TX, USA
+V30A: Spur Ranch, Miami, TX, USA
+V31A: Spring Creek Lake, Blk. Kettle Nat Grslnd, OK, USA
+V32A: Arapaho, OK, USA
+V33A: Lossen Ranch, Watonga, OK, USA
+V34A: Guthrie, OK, USA
+V35A: Meyer Ranch, Chandler, OK, USA
+V36A: Jenks, OK, USA
+V37A: Hulbert, OK, USA
+V38A: Canehill, AR, USA
+V39A: Pettigrew, AR, USA
+V40A: Witts Springs, AR, USA
+V41A: Mountainview, AR, USA
+V42A: Cord, AR, USA
+V43A: Jonesboro, AR, USA
+V44A: Blytheville, AR, USA
+V45A: Humboldt, TN, USA
+V46A: Holladay, TN, USA
+V47A: Nunnelly, TN, USA
+V48A: Smith Brothers Farm, Spring Hill, TN, USA
+V49A: McMinnville, TN, USA
+V50A: Pikevile, TN, USA
+V51A: Loudon, TN, USA
+V52A: Sevierville, TN, USA
+V53A: Sandy Mush, NC, USA
+V54A: Nebo, NC, USA
+V55A: Morning Dew, Taylorsville, NC, USA
+V56A: Mocksville, NC, USA
+V57A: Coltrane Farms, NC, USA
+V58A: Windy Hill, Pittsboro, NC, USA
+V59A: Middlesex, NC, USA
+V60A: Jim Taylor Road, Stokes, NC, USA
+V61A: Roper, NC, USA
+V62A: Hyde County Airport, Englehard, NC, USA
+W12A: Cal Nev Ari, NV, USA
+W13A: Hualapai Mountain Park, Kingman, AZ, USA
+W14A: Seligman, AZ, USA
+W15A: Williams, AZ, USA
+W16A: Flagstaff, AZ, USA
+W17A: Winslow, AZ, USA
+W18A: Petrified Forest, AZ, USA
+W19A: Sanders, AZ, USA
+W20A: Ramah, NM, USA
+W21A: San Fidel, NM, USA
+W22A: Albuquerque, NM, USA
+W23A: Werner Place, Edgewood, NM, USA
+W24A: Lazy 6 Ranch, Villanueva, NM, USA
+W25A: X Bar L Ranch, Newkirk, NM, USA
+W26A: Owens Ranch, Tucumcari, NM, USA
+W27A: Bowe Ranch, Endee, NM, USA
+W28A: Vega, TX, USA
+W29A: Amraillo, TX, USA
+W30A: Crockett Farms Inc., McLean, TX, USA
+W31A: Holland Ranch, Erick, OK, USA
+W32A: Sentinel, OK, USA
+W33A: Caddo, Fort Cobb, OK, USA
+W34A: Bridge Creek, Tuttle, OK, USA
+W35A: Tecumseh, OK, USA
+W36A: Wetumka, OK, USA
+W37A: Quinton, OK, USA
+W37B: Quinton, OK, USA
+W38A: Poteau, OK, USA
+W39A: Magazine, AR, USA
+W40A: Ferguson Farm, Pottsville, AR, USA
+W41A: Tony Mavity, Velonia, AR, USA
+W41B: Gary Mavity, Velonia, AR, USA
+W42A: Bald Knob, AR, USA
+W43A: Forest City, AR, USA
+W44A: Shelby Farms Park, Memphis, TN, USA
+W45A: Hickory Valley, TN, USA
+W46A: Michie, TN, USA
+W47A: Westpoint, TN, USA
+W48A: Pulaski, TN, USA
+W49A: Belvidere, TN, USA
+W50A: Signal Mountain, TN, USA
+W51A: Cleveland, TN, USA
+W52A: Murphy, NC, USA
+W53A: Cullowhee, NC, USA
+W54A: Cherokee Point, Campobello, SC, USA
+W56A: Indian Trail, NC, USA
+W57A: Gilead, NC, USA
+W58A: Raeford, NC, USA
+W59A: Clinton, NC, USA
+W60A: Pink Hill, NC, USA
+W61A: Ground Anchor Farm, New Bern, NC, USA
+WHTX: Lake Whitney, Meridian, TX, USA
+X13A: Yucca, AZ, USA
+X14A: Yava, AZ, USA
+X15A: Humboldt, AZ, USA
+X16A: Lo Mia Camp, Pine, AZ, USA
+X17A: Forest Lakes, AZ, USA
+X18A: Snowflake, AZ, USA
+X19A: St. Johns, AZ, USA
+X20A: Quemado, NM, USA
+X21A: Alamocita Creek, Datil, NM, USA
+X22A: Bernardo, NM, USA
+X23A: Hourglass Bar Ranch, Mountainair, NM, USA
+X24A: Lazy VL Ranch, Encino, NM, USA
+X25A: Clemmons Ranch, Yeso, NM, USA
+X26A: CR and CF Franklin Farms, Melrose, NM, USA
+X27A: F and S Farms, Texico, NM, USA
+X28A: Dimmitt, TX, USA
+X29A: Tulia, TX, USA
+X30A: Coker Ranch, Turkey, TX, USA
+X31A: McDonald Ranch, Hollis, OK, USA
+X32A: Elmer, OK, USA
+X33A: Lawton, OK, USA
+X34A: Smith Ranch, Marlow, OK, USA
+X35A: Drake, OK, USA
+X36A: Centrahoma, OK, USA
+X37A: Clayton, OK, USA
+X38A: Whitesboro, OK, USA
+X39A: Fountain Ranch, Mena, AR, USA
+X40A: Basin Creek Farm, Marlvern, AR, USA
+X41A: Kaden, Bauxite, AR, USA
+X42A: Stuttgart, AR, USA
+X43A: Marvell, AR, USA
+X44A: Crenshaw, MS, USA
+X45A: UM Field Station, Abbeville, MS, USA
+X46A: Booneville, MS, USA
+X47A: Russelville, AL, USA
+X48A: Hartselle, AL, USA
+X49A: Woodville, AL, USA
+X50A: Fort Payne, AL, USA
+X50B: Fort Payne, AL, USA
+X51A: Calhoun, GA, USA
+X52A: Dahlonega, GA, USA
+X53A: Estanollee, GA, USA
+X54A: Belton, SC, USA
+X55A: Gracelyn & Ava, Whitmire, SC, USA
+X56A: White Oak, SC, USA
+X57A: Johnson Farm, Hartsville, SC, USA
+X58A: Rowland, NC, USA
+X59A: McDuffie Farm, Elizabethtown, NC, USA
+X60A: Albert Glenn Thornton, NC, USA
+Y12C: Blythe, CA, USA
+Y13A: Salome, AZ, USA
+Y14A: Wickenburg, AZ, USA
+Y15A: Casa Rosa Ranch, Morristown, AZ, USA
+Y16A: Circle Bar Ranch, Sunflower, AZ, USA
+Y17A: Roosevelt, AZ, USA
+Y18A: Canyon Day Junior High, Whiteriver, AZ, USA
+Y19A: Nutrioso, AZ, USA
+Y20A: Horse Springs, Datil, NM, USA
+Y21A: Point of Rocks Canyon, Magdalena, NM, USA
+Y22A: Socorro, NM, USA
+Y22C: IRIS PASSCAL Instrument Center, Socorro, NM, USA
+Y22D: IRIS PASSCAL Instrument Center, Socorro, NM, USA
+Y22E: IRIS PASSCAL Instrument Center, Socorro, NM, USA
+Y22F: Passcal Instrument Center, Socorro, NM, USA
+Y23A: Lovelace Mesa, Carrizozo, NM, USA
+Y24A: Capitan, NM, USA
+Y25A: Mesa, Roswell, NM, USA
+Y26A: Elida, NM, USA
+Y27A: Causey, NM, USA
+Y28A: McKinney Farm, Littlefield, TX, USA
+Y29A: Porterfield Farm, Petersburg, TX, USA
+Y30A: Stafford Cattle Company, Roaring Springs, TX, USA
+Y31A: Rekieta Farm, Paducah, TX, USA
+Y32A: R-V Farms, Vernon, TX, USA
+Y33A: Hilltop Ranch, Iowa Park, TX, USA
+Y34A: Reagan Ranch, Oscar, OK, USA
+Y35A: Marietta, OK, USA
+Y36A: Durant, OK, USA
+Y37A: Hugo, OK, USA
+Y38A: Idabel, OK, USA
+Y39A: Lockesburg, AR, USA
+Y40A: Okolona, AR, USA
+Y41A: Eaglette Bearden, AR, USA
+Y42A: Garnett, Star City, AR, USA
+Y43A: Makayla and Karen, Gunnison, MS, USA
+Y44A: Strider, Charleston, MS, USA
+Y45A: Yeager Farm, Coffeeville, MS, USA
+Y46A: Houston, MS, USA
+Y47A: UCPARC, Winfield, AL, USA
+Y48A: Jasper, AL, USA
+Y49A: Blount Mountain, AL, USA
+Y50A: Piedmont, AL, USA
+Y51A: Rockmart, GA, USA
+Y52A: Lilburn, GA, USA
+Y53A: Monroe, GA, USA
+Y54A: Tignall, GA, USA
+Y55A: Saluda, SC, USA
+Y56A: Pelion, SC, USA
+Y57A: Sumter, SC, USA
+Y58A: Scranton, SC, USA
+Y59A: Loris, SC, USA
+Y60A: Bolivia, NC, USA
+Z13A: Yuma Proving Gounds (US Army), Dateland, AZ, USA
+Z14A: Wintersburg, AZ, USA
+Z15A: Gila River Indian Community, Laveen, AZ, USA
+Z16A: Peralta Trail, Apache Junction, AZ, USA
+Z17A: San Carlos High School, San Carlos, AZ, USA
+Z18A: Geronimo, AZ, USA
+Z19A: T-Link Ranch, Clifton, AZ, USA
+Z20A: Nine Sixteen Ranch, Cliff, NM, USA
+Z21A: St. Cloud Mine, Winston, NM, USA
+Z22A: Elephant Butte, Truth or Consequences, NM, USA
+Z23A: Rita Site, White Sands Missle Range, NM, USA
+Z24A: Sheeppen Canyon, Tinnie, NM, USA
+Z25A: Roswell, NM, USA
+Z26A: Caprock, NM, USA
+Z27A: Tatum, NM, USA
+Z28A: Tucker Farm, Meadow, TX, USA
+Z29A: Hungry Hill Ranch, Wilson, TX, USA
+Z30A: Sanderson Ranch, Post, TX, USA
+Z31A: Sharp Cattle Ranch, Aspermont, TX, USA
+Z32A: Haskell, TX, USA
+Z33A: Whitaker Ranch, Olney, TX, USA
+Z34A: Collier Ranch, Chico, TX, USA
+Z35A: Perchaven, Sanger, TX, USA
+Z36A: Blue Ridge, TX, USA
+Z37A: Pogue Cattle Company, Sulphur Springs, TX, USA
+Z38A: Mt. Pleasant, TX, USA
+Z39A: Irene McRaven, Queen City, TX, USA
+Z40A: Long Farm, Magnolia, AR, USA
+Z41A: Richland Creek Farm, El Dorado, AR, USA
+Z42A: Norrel Spur, Hamburg, AR, USA
+Z43A: Armstrong Family, Eudora, AR, USA
+Z44A: Pea Ridge, Belzoni, MS, USA
+Z45A: Winona, MS, USA
+Z46A: Louisville, MS, USA
+Z47A: Carrollton, AL, USA
+Z48A: Northport, AL, USA
+Z49A: Columbiana, AL, USA
+Z50A: Ashland, AL, USA
+Z51A: Franklin, GA, USA
+Z52A: Williamson, GA, USA
+Z53A: Monticello, GA, USA
+Z54A: Sparta, GA, USA
+Z55A: Blythe, GA, USA
+Z56A: Williston, SC, USA
+Z57A: Bowman, SC, USA
+Z58A: St. Stephen, SC, USA
+Z59A: Georgetown, SC, USA
+237B: Washetta, Montalba, TX, USA
+435B: Jarrell, TX, USA
+833A: Chaparral WMA, Artesia Wells, TX, USA
+EF06: Crystal City
+EF08: Pearsall
+PB09: Culberson County
+BUCK: Buck Mountain, OR, USA
+DBO: Dodson Butte, OR, USA
+EUO: Eugene, OR, USA (UO CREST BB SMO)
+PIN: Pine Mt., OR, USA (U0 BB CREST SMO)
+PINE: Pine Mountain, OR, USA
+AAM: Ann Arbor, Michigan, USA
+ACSO: Alum Creek State Park, Ohio, USA
+AGMN: Agassiz National Wildlife Refuge, Minnesota, USA
+AHID: Auburn Hatchery, Idaho, USA
+AMTX: Amarillo, Texas, USA
+BINY: Binghamton, New York, USA
+BLA: Blacksburg, Virginia, USA
+BMN: Battle Mountain, Nevada, USA
+BMO: Blue Mountains Array (Baker), Oregon, USA
+BOZ: Bozeman, Montana, USA
+BRAL: Brewton, Alabama, USA
+BW06: Boulder Array Site 6 (Pinedale Array Site 6), Wyoming, USA
+CBKS: Cedar Bluff, Kansas, USA
+CBM: Caribou, Maine, USA
+CBN: Corbin (Fredericksburg Observatory), Virginia, USA
+CCM: Cathedral Cave, Missouri, USA
+CEH: Chapel Hill, North Carolina, USA
+CMB: Columbia College, California, USA
+CNNC: Cliffs of the Neuse, North Carolina, USA
+COWI: Conover, Wisconsin, USA
+DGMT: Dagmar, Montana, USA
+DUG: Dugway, Tooele County, Utah, USA
+ECSD: EROS Data Center, Sioux Falls, South Dakota, USA
+EGMT: Eagleton, Montana, USA
+ELK: Elko, Nevada, USA
+ERPA: Erie, Pennsylvania, USA
+EYMN: Ely, Minnesota, USA
+GLMI: Grayling, Michigan, USA
+GOGA: Godfrey, Georgia, USA
+GOL: Golden (Bergen Park), Colorado, USA
+GWDE: Greenwood, Delaware, USA
+HAWA: Hanford, Washington, USA
+HDIL: Hopedale, Illinois, USA
+HLID: Hailey, Idaho, USA
+HWUT: Hardware Ranch, Cache County, Utah, USA
+ISCO: Idaho Springs, Colorado, USA
+JCT: Junction, Texas, USA
+JFWS: Near Bowden and Sunny Slope Rds, Wisconsin, USA
+KNB: Kanab, Kane County, Utah, USA
+KSU1: Kansas State University--Konza Prairie, Kansas, USA
+KVTX: Kingsville, Texas, USA
+LAO: LASA Array, Montana, USA
+LBNH: Lisbon, New Hampshire, USA
+LKWY: Lake (Yellowstone--Lake), Yellowstone National Park, Wyoming
+LONY: Lake Ozonia, New York, USA
+LRAL: Lakeview Retreat, Alabama, USA
+LSCT: Lakeside, Connecticut, USA
+LTX: Lajitas, Texas, USA
+MCWV: Mont Chateau, West Virginia, USA
+MIAR: Mount Ida, Arkansas, USA
+MNTX: Cornudas Mountains, Texas, USA
+MNV: Mina, Nevada, USA
+MSO: Missoula, Montana, USA
+MVCO: Mesa Verde, Colorado, USA
+MYNC: Murphy, North Carolina, USA
+NATX: Nacogdoches, Texas, USA
+NCB: Newcomb, New York, USA
+NEW: Newport, Washington, USA
+NHSC: New Hope, South Carolina, USA
+NLWA: Neilton Lookout, Washington, USA
+OCWA: Octopus Mountain, Washington, USA
+OGNE: Ogallala, Nebraska, USA
+OXF: Oxford, Mississippi, USA
+PKME: Peaks-Kenny State Park, Maine, USA
+REDW: Red Top Meadow, Wyoming, USA
+RLMT: Red Lodge, Montana, USA
+RSSD: Black Hills, South Dakota, USA
+SAO: San Andreas Geological Observatory, San Benito County, Calif
+SCIA: State Center, Iowa, USA
+SDCO: Great Sand Dunes National Park, Colorado, USA
+TPNV: Topopah Spring, Nevada, USA
+TZTN: Tazewell, Tennessee, USA
+VBMS: Vicksburg, Mississippi
+WCI: Wyandotte Cave, Indiana, USA
+WDC: Whiskeytown Dam, Shasta County, California, USA
+WMOK: Wichita Mountains, Oklahoma, USA
+WUAZ: Wupatki, Arizona, USA
+WVOR: Wild Horse Valley, Oregon, USA
+WVT: Waverly, Tennessee, USA
+YSNY: Yorkshire, New York, USA
+SRU: San Rafael Swell, UT, USA
+BABR: Baber Butte, OR, USA
+BLOW: Detroit Lake, OR, USA
+BRAN: Enterprise, OR, USA
+CCRK: Sunnyside, WA, USA
+CHE: Chehalem, Oregon, UO dig
+DAVN: Davenport, WA, USA
+DDRF: Didier Farms, Eltopia, WA, USA
+DOSE: Dosewallips, Brinnon, WA, USA
+FISH: Jewell, OR, USA
+FORK: Forks, WA, USA
+GNW: Green Mountain, WA, USA
+GRCC: Green River CC, WA, USA
+HEBO: Mt. Hebo, OR, USA
+HOOD: Mt. Hood, OR, USA
+IRON: Crane, OR, USA
+IZEE: Izee, OR, USA
+JEDS: Reedsport, OR, USA
+KENT: Grass Valley, OR, USA
+LCCR: Clarks, OR, USA
+LEBA: Lebam, WA, USA
+LON: Longmire, WA, USA
+LRIV: Port Angeles, WA, USA
+LTY: Liberty Mine, WA, USA
+MEGW: Megler, WA, USA
+MRBL: Marblemount, WA, USA
+OFR: Olympics - Forest Resource Center
+OMAK: Omak, WA, USA
+OPC: Olympic Penn College CREST BB SMO
+PASS: Maple Falls, WA, USA
+PHIN: Phinny Hill Vineyards, Prosser, WA, USA
+RADR: Radar Ridge, Naselle, WA
+RAI: Trojan Plant, OR, USA
+RATT: Rattlesnake Lake, King County, WA
+RWW: Ranney Well CREST BB SMO
+SEP: September lobe, Mt. St. Helens (Dome sta)
+SHUK: Shuksan (Mt. Baker Ski Area), WA, USA
+SP2: Seward Park, Seattle, WA, USA
+SPUD: Spokane County Public Works, temp
+SQM: PNNL - Sequim, WA, USA
+SSW: Satsop, WA, USA
+STOR: Enumclaw, WA, USA
+TAKO: Reedsport, OR, USA
+TOLO: Toledo, OR, USA
+TOLT: Tolt Reservoir, WA, USA
+TREE: Summer Lake, OR, USA
+TTW: Tolt Res, WA CREST BB SMO
+TUCA: Starbuck, WA, USA
+UGP4: Union Gap 4, Union Gap, WA, USA
+UMAT: Umatilla, OR, USA
+WISH: Wishka, WA, USA
+WOLL: Wollman Farm, Schrag, WA, USA
+YACT: Yacolt, WA, USA
+YDD: Grant Village, YNP, WY, USA old TA-H17A
+1A: Kent-PA
+2A: Kent-PA
+2B: Kent-PA
+2C: Kent-PA
+2D: Kent-PA
+2E: Kent-PA
+3A: Kent-PA
+3B: Kent-PA
+3C: Kent-PA
+3D: Kent-PA
+3E: Kent-PA
+3F: Kent-PA
+4A: Kent-PA
+4C: Kent-PA
+4E: Kent-PA
+4H: Kent-PA
+CRAT: CRAT
+HOWY: HOWY
+ONIL: ONIL
+RICH: RICH
+SCRD: SCRD
+SSET: SSET
+TTOP: TTOP
+GC01: Matagorda Island,TX USA
+GC02: Seadrift, TX USA
+GC03: Long Mott, TX USA
+GC04: Bloomington, TX USA
+GC05: Highway 185, Victoria, TX USA
+GC06: Sun Valley Drive, Victoria, TX USA
+GC07: Thomaston, TX USA
+GC08: Cuero, TX USA
+GC09: Concrete, TX USA
+GC10: Hochheim, TX USA
+GC11: Gonzales, TX USA
+GC12: Slayden, TX USA
+GC13: Luling, TX USA
+GC14: Fentress, TX USA
+GC15: San Marcos, TX USA
+GC16: San Marcos, TX USA
+GC17: Wimberley, TX USA
+GC18: Henly, TX USA
+GC19: Pedernales Falls, TX USA
+GC20: Johnson City, TX USA
+GC24: Vine Street, Victoria, TX USA
+GC25: Seadrift, TX USA
+GC26: Seadrift, TX USA
+QM40: Zec Lac Brebeuf, Quebec, Canada
+AFDAD: Aileen's Dads Warehouse
+CLEA1: Cleburne Airport 1
+CLEF1: Cleburne Fire Station 1
+CLEF2: Cleburne Fire Station 2
+CLEF3: Cleburne Fire Station 3
+CLELK: CLELK
+CLERV: Cleburne Rv center
+EULF1: Euless  Fire Station 1
+EULF3: Euless  Fire Station 3
+NLKCG: Northlake College
+OBC01: Oakmont at Bear Creek Apartments
+SMUH1: Dallas Texas
+SMUH7: Dallas Texas
+SMUH8: Dallas Texas
+SMUH9: Dallas Texas
+AZ01: Somewhere in Nevada
+AZ02: somewhere in arizona
+AZ03: ?
+AZ04: ?
+AZ05: ?
+AZ06: ?
+AZ07: ?
+AZ08: ?
+AZ09: ?
+AZ10: ?
+MM01: North Hampton, Massachusetts
+MM02: Hudson, New York
+MM03: Roscoe, New York
+MM04: LeRaysville, Pennsylvania
+MM05: Gleason, Pennsylvania
+MM06: Emporium, Pennsylvania
+MM07: Sigel, Pennsylvania
+MM08: Slippery Rock , Pennsylvania
+MM09: East Canton, Ohio
+MM10: Bellville, Ohio
+MM11: Columbus, Ohio
+MM12: Laura, Ohio
+MM13: Spiceland, Indiana
+MM14: Brooklyn, Indiana
+MM15: Terra Haute, Indiana
+MM16: Lake Newton, Illinois
+MM17: Lake Carlyle, Illinois
+MM18: Tyson, Missiouri
+MO18: Tyson (bunker), Missouri
+ALP0: XA Alpine, OR
+ALS0: XA Alsea, OR
+BWO0: XA Burnt Woods, OR
+MAP0: XA Mapleton, OR
+TOL0: XA Toledo, OR
+YAC0: XA Yachats, OR
+YAC1: XA Yachats, OR
+ALQN: ?
+BELL: Bellecombe
+BISC: Bisset Creek (On)
+CARO: ?
+CHAZ: ?
+DEND: ?
+DEST: Destor
+KAPU: Kapuskasing Uplift (On)
+KM44: ?
+LDUF: Lac Dufault
+LLAK: Larder Lake (On)
+MADW: ?
+NNNN: ?
+PAPL: ?
+POP1: ?
+POP10: ?
+POP2: ?
+POP3: ?
+POP4: ?
+POP5: ?
+POP6: ?
+POP7: ?
+POP8: ?
+POP9: ?
+POUL: ?
+VBOI: ?
+VSG4: ?
+VSGL: ?
+C0104: 991013
+C0116: 991025
+C0132: 991023
+C0134: 991006
+C0179: 991010
+C0202: 991020
+C0213: 991021
+C0228: 991002
+C0255: 991011
+C0272: 991009
+C0275: 991022
+C0283: 991007
+C0297: 991017
+C0299: 991003
+C0301: 991004
+C0302: 991012
+C0305: 991016
+C0312: 991024
+C0314: 991008
+C0317: 991014
+C0318: 991005
+C0319: 991001
+C0322: 991018
+C0324: 991019
+C0325: 991015
+BAIN: Bainbridge Island	
+BANG: Naval Station Bangor
+DOSE: Dosewallips River, east
+DOSW: Dosewallips River, west 
+FAYB: Fay Bainbridge State Park
+KEYP: Keyport
+KITS: Kitsap Peninsula
+NOVE: Novelty Hill
+REDM: Redmond
+SEAE: Seattle, east
+SEAL: Seal Rock Campground
+SEAW: Seattle West
+STIL: Stillwater Hill
+TOAN: Toandos Peninsula
+TOTE: Tolt Weyerhauser
+Y01: Y01
+Y02: Y02
+Y03: Y03
+Y04: Y04
+Y05: Y05
+Y07: Y07
+Y100: Y100
+Y101: Y101
+Y102: Y102
+Y103: Y103
+Y104: Y104
+Y105: Y105
+Y106: Y106
+Y12: Y12
+Y13: Y13
+Y14: Y14
+Y15: Y15
+Y16: Y16
+Y17: Y17
+Y18: Y18
+Y19: Y19
+Y20: Y20
+Y22: Y22
+Y23: Y23
+Y24: Y24
+Y25: Y25
+Y26: Y26
+Y31: Y31
+Y32: Y32
+Y33: Y33
+Y34: Y34
+Y35: Y35
+Y37: Y37
+Y38: Y38
+Y39: Y39
+Y40: Y40
+Y43: Y43
+Y44: Y44
+Y46: Y46
+Y47: Y47
+Y50: Y50
+Y51: Y51
+Y61: Y61
+Y62: Y62
+Y63: Y63
+Y64: Y64
+ID001: ID001
+ID002: ID002
+ID004: ID004
+ID005: ID005
+ID007: ID007
+ID008: ID008
+ID009: ID009
+ID010: ID010
+ID014: ID014
+ID015: ID015
+ID016: ID016
+ID017: ID017
+NV001: NV001
+NV004: NV004
+NV007: NV007
+NV008: NV008
+NV009: NV009
+NV011: NV011
+NV012: NV012
+NV013: NV013
+NV014: NV014
+OR002: OR002
+OR005: OR005
+OR006: OR006
+OR007: OR007
+OR008: OR008
+OR009: OR009
+OR011: OR011
+OR012: OR012
+OR014: OR014
+OR015: OR015
+OR016: OR016
+OR018: OR018
+OR019: OR019
+OR020: OR020
+OR021: OR021
+OR024: OR024
+OR025: OR025
+OR027: OR027
+OR029: OR029
+OR030: OR030
+OR031: OR031
+OR032: OR032
+OR033: OR033
+OR034: OR034
+OR035: OR035
+OR039: OR039
+OR040: OR040
+OR041: OR041
+OR042: OR042
+OR043: OR043
+OR044: OR044
+OR046: OR046
+OR048: OR048
+OR049: OR049
+OR051: OR051
+OR052: OR052
+OR053: OR053
+OR054: OR054
+OR055: OR055
+OR056: OR056
+OR057: OR057
+OR058: OR058
+OR059: OR059
+OR060: OR060
+OR061: OR061
+OR062: OR062
+OR064: OR064
+OR066: OR066
+OR067: OR067
+OR069: OR069
+OR070: OR070
+OR072: OR072
+OR073: OR073
+OR074: OR074
+OR075: OR075
+OR076: OR076
+OR077: OR077
+OR078: OR078
+OR079: OR079
+OR080: OR080
+OR081: OR081
+OR082: OR082
+OR083: OR083
+OR084: OR084
+OR086: OR086
+OR087: OR087
+OR088: OR088
+OR089: OR089
+OR090: OR090
+OR091: OR091
+OR092: OR092
+OR093: OR093
+OR094: OR094
+OR095: OR095
+OR096: OR096
+OR097: OR097
+OR098: OR098
+OR099: OR099
+OR100: OR100
+OR101: OR101
+OR103: OR103
+OR104: OR104
+OR105: OR105
+OR106: OR106
+OR108: OR108
+OR109: OR109
+OR110: OR110
+OR111: OR111
+OR113: OR113
+OR115: OR115
+OR118: OR118
+OR120: OR120
+OR123: OR123
+OR127: OR127
+OR128: OR128
+OR132: OR132
+OR133: OR133
+A01: Donovan prison, San Diego
+A02: BLM, Otay Mountain
+A03: SD Water Department
+A04: Wentz, private
+A05: Borman, private
+A06: Potrero fire station
+A07: BLM, Harris Ranch Rd.
+A07A: Miller, private, Harris Ranch Rd.
+A08: Campo fire station
+A09: La Posta, private
+A10: Haselton, private
+A11: Backer, private
+A12: McCain prison
+A13: DeAnza Springs Resort
+A14: Anza Borrego State Park
+A15: BLM_near_shot_2081b
+A16: Emory, private
+A17: Paulsen, Painted Gorge rd, private
+A18: Plaster City
+A19: Centinela prison
+A20: Westmoreland, private
+A21: NAF El Centro
+A22: Weather station, Tonto, private
+A23: Aguilera, private
+A24: Fish Farm
+A25: Osterkamp, private
+A26: Dan Djongward, private
+A26A: Smith, private, Gonder Rd
+A27: Chad Grieve, private
+A29: Bombing_range_(BLM)
+A30: Rangers_station_(BLM)
+A32: Glamis
+A33: BLM_Hastings
+A34: Gold Mine
+A35: slc, north of gold mine
+A36: slc, Black Mountain rd
+A38: slc, Motero wash
+A39: slc
+A40: airstrip, private
+B01: Dennis Allen, private
+B02: Rolling R, Hanks, private
+B03: Maria Garza, private
+C02: Hagen, private
+M01: San Jose de la Zora, La Mision, Mexico
+M02: Rancho Los Gavilenas, Sierra de Juarez
+N01: Chakuwalla prison
+S01: Moody, private, Yuma
+MA05: MA05
+MB05: MB05
+MB07: MB07
+MC06: MC06
+MC08: MC08
+MD05: MD05
+MD09: MD09
+MD12: MD12
+ME02: ME02
+ME03: ME03
+ME04: ME04
+ME06: ME06
+ME08: ME08
+MF05: MF05
+MF07: MF07
+MF09: MF09
+MG02: MG02
+MG03: MG03
+MG05: MG05
+MG06: MG06
+MG07: MG07
+MG08: MG08
+MG10: MG10
+MH01: MH01
+MH03: MH03
+MH04: MH04
+MH07: MH07
+MH09: MH09
+MH11: MH11
+MI02: MI02
+MI04: MI04
+MI05: MI05
+MI07: MI07
+MI08: MI08
+MI09: MI09
+MI10: MI10
+MJ01: MJ01
+MJ02: MJ02
+MJ03: MJ03
+MJ06: MJ06
+MJ07: MJ07
+MJ09: MJ09
+MK04: MK04
+MK06: MK06
+MK07: MK07
+MK08: MK08
+MK10: MK10
+MK11: MK11
+MK12: MK12
+ML03: ML03
+ML07: ML07
+ML09: ML09
+ML10: ML10
+ML11: ML11
+MM02: MM02
+MM04: MM04
+MM06: MM06
+MM08: MM08
+MN07: MN07
+MN09: MN09
+MN10: MN10
+MO03: MO03
+MO06: MO06
+MO07: MO07
+MP03: MP03
+MP04: MP04
+MP06: MP06
+MP08: "Mount St Helens, WA"
+MP10: MP10
+MQ07: MQ07
+SNP11: SNP11
+SNP12: SNP12
+SNP14: SNP14
+SNP15: SNP15
+SNP16: SNP16
+SNP21: SNP21
+SNP22: SNP22
+SNP23: SNP23
+SNP24: SNP24
+SNP24: SNP24
+SNP25: SNP25
+SNP26: SNP26
+SNP27: SNP27
+SNP28: SNP28
+SNP34: SNP34
+SNP36: SNP36
+SNP37: SNP37
+SNP38: SNP38
+SNP42: SNP42
+SNP43: SNP43
+SNP44: SNP44
+SNP45: SNP45
+SNP46: SNP46
+SNP47: SNP47
+SNP48: SNP48
+SNP51: SNP51
+SNP52: SNP52
+SNP53: SNP53
+SNP54: SNP54
+SNP55: SNP55
+SNP56: SNP56
+SNP57: SNP57
+SNP62: SNP62
+SNP63: SNP63
+SNP64: SNP64
+SNP65: SNP65
+SNP66: SNP66
+SNP67: SNP67
+SNP71: SNP71
+SNP73: SNP73
+SNP74: SNP74
+SNP75: SNP75
+SNP76: SNP76
+SNP84: SNP84
+SNP85: SNP85
+SNP85: SNP85
+SNP86: SNP86
+SNP87: SNP87
+SNP93: SNP93
+SNP95: SNP95
+SNP96: SNP96
+SNP97: SNP97
+SNP98: SNP98
+SNPA3: SNPA3
+SNPA4: SNPA4
+SNPA5: SNPA5
+SNPA7: SNPA7
+SNPA8: SNPA8
+SNPB3: SNPB3
+SNPB5: SNPB5
+SNPB6: SNPB6
+SNPB7: SNPB7
+SNPB9: SNPB9
+SNPC3: SNPC3
+SNPC4: SNPC4
+SNPC5: SNPC5
+SNPC6: SNPC6
+SNPC7: SNPC7
+SNPC8: SNPC8
+SNPD4: SNPD4
+SNPD5: SNPD5
+SNPD7: SNPD7
+SNPD8: SNPD8
+SNPD9: SNPD9
+SNPE4: SNPE4
+SNPE5: SNPE5
+SNPE6: SNPE6
+SNPE7: SNPE7
+SNPE9: SNPE9
+SNPF6: SNPF6
+SNPF8: SNPF8
+SNPF9: SNPF9
+SNPG5: SNPG5
+SNPG7: SNPG7
+SNPG9: SNPG9
+YOS01: YOS01
+YOS02: YOS02
+YOS03: YOS03
+YOS04: YOS04
+YOS05: YOS05
+YOS06: YOS06
+YOS07: YOS07
+YOS08: YOS08
+YOS09: YOS09
+YOS10: YOS10
+YOS11: YOS11
+ALPN: Alpine, Alpine, Calif.
+BLSY: Blue Sky Ranch, Lakeside, Calif.
+BLVD: Boulevard, Boulevard, Calif.
+BWLW: Bow Willow Campground, Anza Borrego State Park, Ca
+FEAR: Fearless Roy Fuller's Place, Ocotillo, Calif.
+HONY: Honey Ranch, Descanso, Calif.
+LGNA: Laguna Mountain Observatory, San Diego Co., Calif.
+MICA: Mica Mine, In Ko Pah, Calif.
+PINE: Pine Valley, Pine Valley, Calif.
+L01: -
+L02: -
+L03: -
+L04: -
+L05: -
+L06: -
+L07: -
+L08: -
+L09: -
+L10: -
+L11: -
+L12: -
+L13: -
+L14: -
+L15: -
+L16: -
+L17: -
+L18: -
+L19: -
+L20: -
+L21: -
+L22: -
+L23: -
+L24: -
+L25: -
+L26: -
+L27: -
+L28: -
+L29: -
+L30: -
+L31: -
+BLA: Blanca, CO
+BTO: outside Loveland, CO
+BUR: Burlington, CO
+CCR: Cripple Creek, CO
+CCY: Canyon City, CO
+CES: Colby, Kansas
+CRG: Craig, CO
+DBQ: De Beque, CO
+DGO: Durango, CO
+DOT: Dotsero, CO
+GOO: outside Golden, CO
+GRM: Grand Mesa, CO
+GUN: Gunnison, CO
+HLD: N of I 70 on CO UT border
+HSL: Hartsel, CO
+KRM: Kremlin, CO
+LED: Leadville, CO
+LIZ: Elizabeth, CO
+LMN: Limon, CO
+MBL: Maybell, CO
+MGP: near Dinosaur, CO
+MKR: Meeker, CO
+MON: Montrose, CO
+ORD: near Forder, CO
+PAR: Paradox, CO
+PKS: Palco, KS
+POS: Poncha Springs, CO
+RKF: Rocky Ford, CO
+SFK: South Fork, CO
+SHL: Sheridan Lake, CO
+SOP: Mt Sopris, CO
+SPR: Springfield, CO
+WIG: Orchard, CO
+WSG: Wilson Crossing, CO
+YJK: Yellow Jacket, CO
+YUM: Yuma, CO
+CYF: Cyclone Flat, Utah
+GAR: Garrison, Utah-Nevada border
+LMP: Lampstand, Utah
+MDW: Meadow, Utah
+MLC: Mill Canyon, Nevada
+NWC: Newcastle, Utah
+PH2: Pahroc 2, Nevada
+PHR: Pahroc, Nevada
+RCC: Rock Corral Creek, Utah
+RTS: Rattlesnake Mountain, Nevada
+SRS: San Rafael Swell, Utah
+WCP: Wildcat Peak, Nevada
+WMT: West Mountain, Utah
+SC01: Thunder Bay, ON, CANADA
+SC02: Kenora, ON, CANADA
+SC04: Thunder Bay, ON, CANADA
+SC05: Thunder Bay, ON, CANADA
+SC06: Thunder Bay, ON, CANADA
+SC07: Green Stone, ON, CANADA
+SC08: Thunder Bay, ON, CANADA
+SC09: Green Stone, ON, CANADA
+SC10: Cochrane, ON, CANADA
+SC11: Manitouwadge, ON, CANADA
+SC12: Hornepayne, ON, CANADA
+SC13: White River, ON, CANADA
+SC14: Algoma, ON, CANADA
+SC15: Algoma, ON, CANADA
+SC16: Algoma, ON, CANADA
+SM17: Lake Nebagamon, WI, USA
+SM18: Lake Nebagamon, WI, USA
+SM19: Solon Springs, WI, USA
+SM20: Danbury, WI, USA
+SM21: Danbury, WI, USA
+SM22: Danbury, WI, USA
+SM23: Sandstone, MN, USA
+SM24: Kinckley, MN, USA
+SM25: Grantsburg, WI, USA
+SM26: Grantsburg, WI, USA
+SM27: Grantsburg, WI, USA
+SM28: Cushing, WI, USA
+SM29: St. Croix Falls, WI, USA
+SM30: St. Croix Falls, WI, USA
+SM31: Shafer, MN, USA
+SM32: Scandia, MN, USA
+SM33: Inver Grove Heights, WI, USA
+SM34: Elko, MN, USA
+SM35: Elko, MN, USA
+SM36: Lansdale, MN, USA
+SM37: Lansdale, MN, USA
+SM38: Faribault, MN, USA
+SM39: Owatonna, MN, USA
+SM40: Blooming Praire, MN, USA
+SM41: Austin, MN, USA
+SM42: Austin, MN, USA
+SN43: McGregor, MN, USA
+SN44: Tamarack, MN, USA
+SN45: Wright, MN, USA
+SN46: Cronwell, MN, USA
+SN47: Kettle River, MN, USA
+SN48: Moose Lake, MN, USA
+SN49: Sturgeon Lake, MN, USA
+SN50: Holyoke, MN, USA
+SN52: Sandstone, MN, USA
+SN53: Danbury, WI, USA
+SN54: Minong, MN, USA
+SN55: Minong, WI, USA
+SN56: Trego, WI, USA
+SN57: Trego, WI, USA
+SN58: Stone Lake, WI, USA
+SN59: Stone Lake, WI, USA
+SN60: Birchwood, WI, USA
+SN61: Bruce, WI, USA
+SN62: Ladysmith , WI, USA
+SN63: Tony, WI, USA
+SS64: Storden, MN, USA
+SS65: Butterfield, MN, USA
+SS66: Madelia, MN, USA
+SS67: Lake Crystal, MN, USA
+SS68: ManKato, MN, USA
+SS69: Janesville, MN, USA
+SS70: Waseca, MN, USA
+SS71: Waseca, MN, USA
+SS72: Owatonna, MN, USA
+SS73: Owatonna, MN, USA
+SS74: Claremont, MN, USA
+SS75: Dodge Center, MN, USA
+SS76: Kasson, MN, USA
+SS77: Byron, MN, USA
+SS78: Rochester, MN, USA
+SS79: Elba Township, MN, USA
+SS80: Winnona, MN, USA
+SS81: Winnona, MN, USA
+SS82: Galesville, MN, USA
+SS83: Mindoro, MN, USA
+BLUE: Blue Mountain Lake, NY
+CLER: Lake Clear, NY
+KEEN: Keene Valley, NY
+PACK: Pack State Forest, NY
+ARC2: Arch 2
+BGR: Badger
+BPC: Big Pine Canyon
+BRR: Blackrock Reservior
+BVC: Beveridge Canyon
+CCC: CCC Camp-Crystal Cave Rd
+CHP: Chimney Peak
+CPR: Copper Creek
+DP00: Darwin Plateau
+FLL: Florence Lake
+HVY: Hills Valley
+JUN: Junction Meadow (Kern)
+LMC: Lemon Cove (Rocky Hill Ranch)
+MKW3: Mineral King W3
+OVY: Onion Valley
+PDC: Porterville Developmental Center
+SFK: South Fork Kaweah River
+SFT: Sage Flat
+SLC: San Lucas Canyon
+SMD: Simpson Meadow
+SRF: Santa Rita Flat
+TWR2: Tower Rock 2
+WHP: Whitney Portal
+WMD: White Meadow
+BLM: Big Lousy Mess
+BOI: Boise
+BRK: Balanced Rock
+CIC: Crystal Ice Cave
+MHO: Mountain Home
+NST: North Senter
+SHO: Shoshone
+N00: North 00
+N01: North 01
+N02: North 02
+N03: North 03
+N04: North 04 
+N05: North 05
+N06: North 06
+N07: North 07
+N08: North 08
+N09: North 09
+N10: North 10
+N12: North 12
+N13: ?
+N14: North 14
+N14A: North 14A
+N15: North 15
+N15A: North 15 A
+N16: North 16
+N17: North 17
+N18: North 18
+N20: North 20
+N21: North 21
+N23: North 23
+N24: North 24
+N25: North 25
+N26: North 26
+S01: South 01 
+S02: South 02
+S03: South 03
+S03B: South 03B
+S04: South 04
+S05: South 05
+S05B: South 05B
+S06: South 06
+S08: South 08
+S09: South 09
+S10: South 10 Angel Fire 
+S11: South 11
+S12: South 12
+S13: South 13
+S14: South 14
+S15: South 15
+S16: South 16
+S17: South 17
+S18: South 18
+S19: South 19
+S20: South 20
+S21: South 21
+S22: South 22
+S23: South 23
+S24: South 24
+NM27: B1
+UT53: B3
+UT54: B4
+UT55: B5
+UT57: B7
+UT59: B9
+UT60: B10
+UT62: B12
+UT63: B13
+UT64: B14
+UT65: B15
+UT66: B16
+UT67: B17
+UT68: B18
+UT69: B19
+UT70: B20
+UT71: B21
+UT72: B22
+DP00: Darwin Plateau
+DV01: Death Valley #1
+HF00: Harrisburg Flat 00
+HFEB: Harrisburg Flat east 11
+HFN7: Harrisburg Flat north 7
+S101: Northern Lights
+S102: Oregon Trail, WY
+S103: Oregon Butte, WY
+S104: Sweetwater
+S105: Continental Divide
+S106: Divide Basin
+S107: Black Butte
+S109: South Superior
+S111: Milepost 18
+S112: Sandy Bluffs
+S113: LP6 pipeline
+S114: Milepost 35
+S115: Milepost 40
+S116: 19 South Road
+S117: Milepost 54
+S118: Raftopoulos Place
+S119: Browns Park
+S121: Lodore Wildlife Sanctuary
+S122: Five Springs Road
+S125: Martins Gap
+S126: Desarado Road
+S128: Big Horse Draw
+S129: Philadephia Creek
+S130: Little Horse Draw
+S131: Rope Canyon
+S132: Foundation Creek
+S133: Douglas Pass
+S134: Spink Canyon
+S135: Young Ranch
+S137: Loma
+S139: North Glade Park
+S140: South Glade Park
+S141: Mud Springs Rec. Area
+S143: Big Creek Scout
+S144: Uncompahgre Forest
+S201: Cokeville
+S202: Kemmerer
+S205: The Hogsback
+S207: Muddy Creek
+S208: Eakin Pump Station
+S209: Lyman
+S210: Tin Can Draw
+S211: Big Hollow
+S212: Cedar Mountain
+S213: Henrys Fork
+S214: Birch Spring Draw
+S217: Big Brush Creek
+S220: Dinosaur NM
+S221: Green River
+S222: Cliff Creek
+S224: Twin Wash
+S225: North Rangely
+S226: River Road
+S229: Cathedral Creek
+S230: Cathedral Mountain
+S233: Debeque
+S234: Frontage Road
+S235: Plateau Creek
+S236: Colbran
+S237: Battlement Mesa
+S239: Goodenough Reservoir
+S240: Stevens Glutch
+S241: Paonia
+005: SC005
+006: SC006
+011: SC011
+012: SC012
+015: SC015
+020: SC020
+022: SC022
+037: SC037
+067: SC067
+077: SC077
+110: SC110
+115: SC115
+120: SC120
+125: SC125
+147: SC147
+153: SC153
+158: SC158
+186: SC186
+237: SC237
+278: SC278
+313: SC313
+369: SC369
+375: SC375
+ABBY: Aravaipa Canyon Trailhead, Arizona, USA
+DSRT: Desert Research Station, Tucson, Arizona, USA
+KATH: Minitti property, Eloy, Arizona, USA
+KITT1: Kitt Peak Astronomical Observatory, Arizona, USA
+KITT2: Kitt Peak Astronomical Observatory, Arizona, USA
+KNTH: Knauth property, Forest Lakes, Arizona, USA
+LEMN: Mt. Lemmon Astronomical Observatory, Arizona, USA
+PFNP: Petrified Forest National Park, Arizona, USA
+RENO: Reno Fire Lookout, Hannagan Meadow, Arizona, USA
+SQRL: Mt. Graham Astronomical Observatory, Arizona, USA
+ZIZZ: Zizzo property, Vernon, Arizona, USA
+B4: -
+AZ45: Arizona54
+AZ46: Arizona46
+AZ47: Arizona47
+AZ48: Arizona48
+AZ49: Arizona49
+AZ50: Arizona50
+MB01: Magmabody01
+MB04: Magmabody04
+MB04B: Magmabody04b
+MB05: Magmabody05
+NM07: NewMexico07
+NM08: NewMexico08
+NM09: NewMexico09
+NM10: NewMexico10
+NM11: NewMexico11
+NM12: NewMexico12
+NM13: NewMexico13
+NM14: NewMexico14
+NM15: NewMexico15
+NM16: NewMexico16
+NM17: NewMexico17
+NM18: NewMexico18
+NM19: NewMexico19
+NM20: NewMexico20
+NM21: NewMexico21
+NM22: NewMexico22
+NM23: NewMexico23
+NM24: NewMexico24
+NM25: NewMexico25
+NM26: NewMexico26
+NM27: NewMexico27
+NM28: NewMexico28
+NM29: NewMexico29
+NM30: NewMexico30
+NM31: NewMexico31
+NM32: NewMexico32
+NM33: NewMexico33
+NM34: NewMexico34
+NM35: NewMexico35
+NM36: NewMexico36
+NM37: NewMexico37
+NM38: NewMexico38
+NM39: NewMexico39
+NM40: NewMexico40
+NM41: NewMexico41
+NM42: NewMexico42
+NM43: NewMexico43
+NM44: NewMexico44
+TX01: Texas01
+TX02: Texas02
+TX03: Texas03
+TX04: Texas04
+TX05: Texas05
+TX06: Texas06
+UT51: Utah51
+UT52: Utah52
+UT53: Utah53
+UT54: Utah54
+002: Malibu, CA #2
+003: Malibu, CA #3
+005: Topanga, CA #2
+006: Topanga, CA #3
+007: Topanga, CA #4
+008: Topanga, CA #5
+009: Topanga, CA #6
+010: Topanga, CA #7
+012: Tarzana, CA #1
+014: Tarzana, CA #3
+015: Tarzana, CA #4
+016: Tarzana, CA #5
+019: Reseda, CA #3
+020: Reseda, CA #4
+021: Northridge, CA #1
+023: Northridge, CA #3
+025: Northridge, CA #5
+027: Northridge, CA #7
+028: Northridge, CA #8
+030: Granada Hills, CA #1
+033: Sylmar, CA #2
+035: Newhall, CA #1
+036: Newhall, CA #2
+039: Newhall, CA #5
+040: Newhall, CA #6
+041: Saugus, CA #1
+042: Saugus, CA #2
+043: Saugus, CA #3
+044: Saugus, CA #4
+045: Santa Clarita, CA
+046: Saugus, CA #5
+048: Saugus, CA #7
+049: Saugus, CA #8
+050: Saugus, CA #9
+051: Saugus, CA #10
+052: Saugus, CA #11
+054: Saugus, CA #13
+055: Saugus, CA #14
+056: Saugus, CA #15
+058: Saugus, CA #17
+059: Saugus, CA #18
+060: Saugus, CA #19
+061: Saugus, CA #20
+062: Saugus, CA #21
+063: Saugus, CA #22
+065: Saugus, CA #24
+066: Saugus, CA #25
+068: Lake Hughes, CA #1
+069: Lake Hughes, CA #2
+071: Lake Hughes, CA #4
+072: Lake Hughes, CA #5
+073: Lake Hughes, CA #6
+075: Lancaster, CA #1
+076: Lancaster, CA #2
+078: Lancaster, CA #4
+079: Lancaster, CA #5
+080: Lancaster, CA #6
+081: Lancaster, CA #7
+083: Rosamond, CA #1
+084: Rosamond, CA #2
+AHAB: -
+ALEX: -
+BECH: -
+BUZZ: -
+CGAS: -
+CRAB: -
+CRAK: -
+CVCR: -
+DBLT: -
+FLIP: -
+GLEN: -
+GOBI: -
+GULY: -
+HIDE: -
+ISKK: -
+JETS: -
+KARL: -
+KOOL: -
+LEEP: -
+MOH9: -
+MRED: -
+NOXV: -
+PAKD: -
+PIES: -
+PIGH: -
+PINE: -
+POLE: -
+POND: -
+POST: -
+POWR: -
+PRIS: -
+RAIN: -
+RCKY: -
+SAGE: -
+STGI: -
+VINE: -
+ALS0: XN Alsea, OR
+MAP0: XN Mapleton, OR
+TOL0: XN Toledo, OR
+YAC1: XN Yachats, OR
+KICK: Pine Lake Campus, Hartwick College, Davenport Center, NY
+SCCC: Sullivan Co. Community College, Loch Sheldrake, NY
+UCON: University of Connecticut, Storrs, CT
+UHRT: University of Hartford, Hartford, CT
+VASR: Vassar College Farm, Poughkeepsie, NY
+WICK: Pine Lake Campus, Hartwick College, Davenport Center, NY
+WIND: Windham, NY
+2001: De Anza Environmental Study Area
+KF28: KF28 of OIINK Flexarray
+KF30: KF30 of OIINK Flexarray
+KF34: KF34 of OIINK Flexarray
+KG27: KG27 of OIINK Flexarray
+KG29: KG29 of OIINK Flexarray
+KG31: KG31 of OIINK Flexarray
+KG35: KG35 of OIINK Flexarray
+KG37: KG37 of OIINK Flexarray
+KG41: KG41 of OIINK Flexarray
+KH26: KH26 of OIINK Flexarray
+KH28: KH28 of OIINK Flexarray
+KH30: KH30 of OIINK Flexarray
+KH32: KH32 of OIINK Flexarray
+KH34: KH34 of OIINK Flexarray
+KH36: KH36 of OIINK Flexarray
+KH38: KH38 of OIINK Flexarray
+KH42: KH42 of OIINK Flexarray
+KH44: KH44 of OIINK Flexarray
+KH46: KH46 of OIINK Flexarray
+KH48: KH48 of OIINK Flexarray
+KH49: KH49 of OIINK Flexarray
+KH50: KH50 of OIINK Flexarray
+KH54: KH54 of OIINK Flexarray
+KH56: KH56 of OIINK Flexarray
+KI25: KI25 of OIINK Flexarray
+KI27: KI27 of OIINK Flexarray
+KI29: KI29 of OIINK Flexarray
+KI31: KI31 of OIINK Flexarray
+KI33: KI33 of OIINK Flexarray
+KI35: KI35 of OIINK Flexarray
+KI37: KI37 of OIINK Flexarray
+KI39: KI39 of OIINK Flexarray
+KI39A: KI39A of OIINK Flexarray
+KI41: KI41 of OIINK Flexarray
+KI43: KI43 of OIINK Flexarray
+KI45: KI45 of OIINK Flexarray
+KI47: KI47 of OIINK Flexarray
+KI49: KI49 of OIINK Flexarray
+KI51: KI51 of OIINK Flexarray
+KI53: KI53 of OIINK Flexarray
+KJ30: KJ30 of OIINK Flexarray
+KJ34: KJ34 of OIINK Flexarray
+KJ36: KJ36 of OIINK Flexarray
+KJ40: KJ40 of OIINK Flexarray
+KJ42: KJ42 of OIINK Flexarray
+KJ46: KJ46 of OIINK Flexarray
+KJ48: KJ48 of OIINK Flexarray
+KJ50: KJ50 of OIINK Flexarray
+KJ52: KJ52 of OIINK Flexarray
+KK34: KK34 of OIINK Flexarray
+KK36: KK36 of OIINK Flexarray
+KK38: KK38 of OIINK Flexarray
+KK40: KK40 of OIINK Flexarray
+KK42: KK42 of OIINK Flexarray
+KK44: KK44 of OIINK Flexarray
+KK46: KK46 of OIINK Flexarray
+KK48: KK48 of OIINK Flexarray
+KK50: KK50 of OIINK Flexarray
+KK52: KK52 of OIINK Flexarray
+LA17: LA17 of OIINK Flexarray
+LA19: LA19 of OIINK Flexarray
+LA21: LA21 of OIINK Flexarray
+LB16: LB16 of OIINK Flexarray
+LB18: LB18 of OIINK Flexarray
+LB20: LB20 of OIINK Flexarray
+LB22: LB22 of OIINK Flexarray
+LB24: LB24 of OIINK Flexarray
+LB26: LB26 of OIINK Flexarray
+LC15: LC15 of OIINK Flexarray
+LC19: LC19 of OIINK Flexarray
+LC21: LC21 of OIINK Flexarray
+LC25: LC25 of OIINK Flexarray
+LD10: LD10 of OIINK Flexarray
+LD12: LD12 of OIINK Flexarray
+LD14: LD14 of OIINK Flexarray
+LD16: LD16 of OIINK Flexarray
+LD18: LD18 of OIINK Flexarray
+LD20: LD20 of OIINK Flexarray
+LD22: LD22 of OIINK Flexarray
+LD24: LD24 of OIINK Flexarray
+LE11: LE11 of OIINK Flexarray
+LE13: LE13 of OIINK Flexarray
+LE15: LE15 of OIINK Flexarray
+LE17: LE17 of OIINK Flexarray
+LE19: LE19 of OIINK Flexarray
+LE21: LE21 of OIINK Flexarray
+LE23: LE23 of OIINK Flexarray
+LE25: LE25 of OIINK Flexarray
+LF16: LF16 of OIINK Flexarray
+LF18: LF18 of OIINK Flexarray
+LF20: LF20 of OIINK Flexarray
+LF22: LF22 of OIINK Flexarray
+LF24: LF24 of OIINK Flexarray
+LF26: LF26 of OIINK Flexarray
+LG19: LG19 of OIINK Flexarray
+LG21: LG21 of OIINK Flexarray
+LG25: LG25 of OIINK Flexarray
+LG25A: LG25A of OIINK Flexarray
+LH16: LH16 of OIINK Flexarray
+LH18: LH18 of OIINK Flexarray
+LH20: LH20 of OIINK Flexarray
+LH22: LH22 of OIINK Flexarray
+LH24: LH24 of OIINK Flexarray
+LI21: LI21 of OIINK Flexarray
+LOKY: LOKY of OIINK Flexarray
+MD02: MD02 of OIINK Flexarray
+MD04: MD04 of OIINK Flexarray
+MD06: MD06 of OIINK Flexarray
+MD08: MD08 of OIINK Flexarray
+ME01: ME01 of OIINK Flexarray
+ME03: ME03 of OIINK Flexarray
+ME05: ME05 of OIINK Flexarray
+ME07: ME07 of OIINK Flexarray
+ME09: ME09 of OIINK Flexarray
+MF02: MF02 of OIINK Flexarray
+MF04: MF04 of OIINK Flexarray
+MF08: MF08 of OIINK Flexarray
+MF10: MF10 of OIINK Flexarray
+MF12: MF12 of OIINK Flexarray
+MF14: MF14 of OIINK Flexarray
+MG03: MG03 of OIINK Flexarray
+MG05: MG05 of OIINK Flexarray
+MG07: MG07 of OIINK Flexarray
+MG09: MG09 of OIINK Flexarray
+MG13: MG13 of OIINK Flexarray
+MG15: MG15 of OIINK Flexarray
+MG15A: MG15A of OIINK Flexarray
+MH14: MH14 of OIINK Flexarray
+NB28: NB28 of OIINK Flexarray
+NC27: NC27 of OIINK Flexarray
+NC29: NC29 of OIINK Flexarray
+NC31: NC31 of OIINK Flexarray
+NC33: NC33 of OIINK Flexarray
+ND26: ND26 of OIINK Flexarray
+ND28: ND28 of OIINK Flexarray
+ND30: ND30 of OIINK Flexarray
+ND32: ND32 of OIINK Flexarray
+NE27: NE27 of OIINK Flexarray
+NE29: NE29 of OIINK Flexarray
+NE31: NE31 of OIINK Flexarray
+NE33: NE33 of OIINK Flexarray
+NF32: NF32 of OIINK Flexarray
+SOKY: SOKY of OIINK Flexarray
+N01: Yampa, CO
+N02: Williams Fork Res., CO
+N03: Meeker Airport, CO
+N04: McCoy, CO
+N05: Green Mt Res., CO
+N06: Dotsero, CO
+N07: Rio Blanco, CO
+N08: Frisco, CO
+N09: Cottonwood Pass, CO
+N10: Rifle, CO
+N11: Carbondale, CO
+N12: De Beque, CO
+N13: Leadville, CO
+N14: Collbran, CO
+N15: Elkhorn Rd, Fairplay, CO
+N16: Grand Junction, CO
+N17: Everett, CO
+N18: Paonia Res., CO
+N19: Spinney Mt Res., CO
+N20: Riverside, CO
+N21: Gateway, CO
+N22: Hotchkiss, CO
+N23: Guffey, CO
+N24: Centerville, CO
+N25: Olathe, CO
+N26: Parlin, CO
+N27: Blu Mesa Res., CO
+N28: Gunnison, CO
+N29: Sargents, CO
+S01: Coaldale, CO
+S02: Cotopaxi, CO
+S03: Powderhorn, CO
+S04: Montrose, CO
+S05: Ourey, CO
+S06: Curtis Ranch, Saguache, CO
+S07: Westcliffe, CO
+S08: Lake City, CO
+S09: Moffat, CO
+S10: Hill property, Saguache, CO
+S11: Silverton, CO
+S12: West of Creede, CO
+S13: South Fork, CO
+S14: Del Norte, CO
+S15: Mosca, CO
+S16: Walsenburg, CO
+S17: North of Durango, CO
+S18: Fort Garland, CO
+S19: San Juan River Ranch, Pagosa Springs, CO
+S20: Tucker property, NW of Capulin, CO
+S21: Archer property, NE of La Jara, CO
+S22: Bayfield, CO
+S23: Grandview, CO
+S24: West of Pagosa Srpings, CO
+S25: San Pablo, CO
+S26: Mesita, CO
+S27: Case Ranch, North of Pagosa Springs, CO
+S28: West of La Garita, CO
+S29: Rancho del Oso Pardo, Chama, NM
+S30: Questa, NM
+CS01: Lakeville, CT USA
+CS02: Falls Village, CT USA
+CS03: Falls Village, CT USA
+CS04: Winstead, CT USA
+CS05: Barkhamsted, CT USA
+CS06: Simsbury, CT USA
+CS07: East Granby, CT USA
+CS08: East Windsor, CT USA
+CS09: Ellington, CT USA, CT USA
+CS10: Tolland, CT USA
+CS11: Willington, CT USA
+CS12: Eastford, CT USA
+CS13: Woodstock, CT USA
+CS14: Thompson, CT USA
+CS15: Chepachet, RI USA
+OT01: Alvord Alley, Grande Roude
+OT03: Sweet Home
+OT04: Camp Yale RV Park
+OT05: Downey Rd Bend
+OT06: Kittredge Ranch
+OT07: Diamond Ranch
+OT08: BLM land
+OT09: Rockcreek Ranch
+OT10: Roaring Spring Ranch
+OT11: Defenbaugh Ranch
+OT12: Flat Creek Ranch
+A03T: California, USA
+A04T: California, USA
+A06T: California, USA
+A09T: California, USA
+A15T: California, USA
+A21T: California, USA
+A24T: California, USA
+C03T: California, USA
+C04T: California, USA
+C06T: California, USA
+C09T: California, USA
+C15T: California, USA
+C20T: California, USA
+C23T: California, USA
+D01T: California, USA
+D03T: California, USA
+D04T: California, USA
+D06T: California, USA
+D09T: California, USA
+D15T: California, USAs
+SP01: California, USA
+ME01: Happy_Camp
+ME02: Montague
+ME03: Big_Flat
+ME04: Somes_Bar
+ME05: Deer_Mountain
+ME06: Hambone
+ME07: Bald_Hills
+ME08: Ruth
+ME09: Coffee_Creek
+ME10: La_Moine
+ME11: McArthur
+ME12: Red_Bank
+ME13: Weaverville
+ME14: Big_Bend
+ME14A: Big_Bend_2
+ME15: Burney
+ME16: Millville
+ME17: Viola
+ME18: Little_Valley
+ME20: McCoy_Flat
+ME21: Chester
+ME22: Soda Springs
+ME23: Wilson_Lake
+ME24: Dales
+ME25: Paynes_Creek
+ME26: Dairyville
+ME27: Peanut
+ME28: Dry_Creek
+ME29: Cecilville
+ME30: S_Trinity_River
+ME31: Kneeland
+ME32: Laqua
+ME33: S_Bridgeville
+ME34: Rio_Dell
+ME35: N_Bridgeville
+ME36: Honeydew
+ME37: Blocksburg
+ME38: XStewart
+ME39: Alderport
+ME41: XWylatti
+ME42: Covelo
+ME43: S_Edin_Valley
+ME44: Emendal_Resort
+ME45: Lake_Pillsbury
+ME46: Witter_Springs
+ME47: Nice
+ME48: Kelseyville
+ME49: Legget
+ME50: Laytonville
+ME52: Redwood_Valley
+ME53: Comptche
+ME54: Anderson_Valley_HS
+ME55: Lake_Sonoma
+ME56: Crane_Mills
+ME57: Paskenta_South
+ME59: N_Chico
+ME60: Stirling City
+ME61: Willows
+ME62: Ord_Bend
+ME63: Stonyford
+ME64: Maxwell
+ME65: Williams
+ME80: Happy_Valley_Ranch
+ME81: Butt_Lake
+ME82: Bill_Snyder
+ME83: Dalene
+ME84: Jerry
+ME85: Genesee_Valley
+ME86: Berm
+ME87: Lumpkin_Ridge
+ME88: Serenity_Hill
+ME89: Oregon_Hill
+ME90: Rae_Bell
+ME91: Silver_Hog_Heaven
+ME92: Verdi_Peak
+ME93: RUB
+NC01: NC01
+NC02: NC02
+NC03: NC03
+NC04: NC04
+NC05: NC05
+NC06: NC06
+NC07: NC07
+NC08: NC08
+NC09: NC09
+NC10: NC10
+NC11: NC11
+NC12: NC12
+FA01: fled station 1
+FA02: fled station 2
+FA03: fled station 3
+FA04: fled station 4
+FA05: fled station 5
+FA06: fled station 6
+FA07: fled station 7
+FA08: fled station 8
+FA09: fled station 9
+FA10: fled station 10
+FA11: fled station 11
+FA12: fled station 12
+FA13: fled station 13
+FA14: fled station 14
+FA15: fled station 15
+FA16: fled station 16
+FA17: fled station 17
+FA18: fled station 18
+FA19: fled station 19
+FA20: fled station 20
+FA21: fled station 21
+FA22: fled station 22
+FA23: fled station 23
+FA24: fled station 24
+FA25: fled station 25
+FA26: fled station 26
+FA27: fled station 27
+SC04: Willard, NM USA
+SC05: Anton Chico Rest Area, NM USA
+SC06: Steele Ranch, NM USA
+SC07: Corona, NM USA
+SC08: Corona2, NM USA
+SC09: Yeso, NM USA
+SC10: Double Windmills Draw NM, USA
+SC11: Fort Sumner NM, USA
+SC12: S CR 3/ S CR AZ NM, USA
+SC13: Tierra Blanca Lake NM, USA
+SC14: Rattle Snake Draw Rest Area NM, USA
+SC15: Hasperos Cyn NM, USA
+SC16: Huggins Draw NM, USA
+SC17: Oleida NM, USA
+SC18: Sudan TX, USA
+SC19: Carrizozo NM, USA
+SC20: Capitan NM, USA
+SC21: Hondo, NM USA
+SC22: CR 3/ Salt Creek NM, USA
+SC23: Acme NM, USA
+SC25: Flying M Ranch NM, USA
+SC26: Gandy Ranch NM, USA
+SC27: Morton, TX USA
+SC28: Levelland, TX USA
+SC29: Ruidoso NM, USA
+SC30: Picacho  NM, USA
+SC31: Roswell NM, USA
+SC32: NM USA
+SC33: Plains, TX USA
+SC34: Cooper Road NM, USA
+SC35: Mayhill  NM, USA
+SC36: Romine Ranch NM, USA
+SC37: Artesia, NM USA
+SC38: Artesia2,  NM USA
+SC39: Maljamar, NM USA
+SC40: Lovington, NM USA
+SC41: Lovington2, NM USA
+SC42: Denver City, TX USA
+SC43: Seagraves, TX USA
+SC44: Alamogordo, NM USA
+SC45: Kincaid Rnch NM, USA
+SC46: Lakewood, NM USA
+SC47: Hobbs, NM USA
+SC48: Seminole, TX USA
+SC49: Fort Bliss, NM USA
+SC50: Otero Mesa NM, USA
+SC51: Stuart Ranch NM, USA
+SC52: Bluth Ranch NM, USA
+SC53: Carlsbad, NM USA
+SC54: Loving, NM USA
+SC55: Eunice, NM USA
+SC56: Eunice2, NM USA
+SC57: Andrews, TX USA
+SC58: Andrews2, TX USA
+SC59: Dell City TX, USA
+SC60: Carlsbad, NM USA
+SC61: Orla, TX USA
+SC62: Kermit, TX USA
+SC63: Salt Flat, TX USA
+SC64: UT Land (Culberson Co.), TX USA
+SC65: Orla2, TX USA
+SC66: Mentone, TX USA
+SC67: UT Land (Loving Co.), TX USA
+SC68: Monahans, TX USA
+SC69: Penwell, TX USA
+SC70: Toyah, TX USA
+SC71: Freshwater, TX USA
+SC72: Verhalen, TX USA
+SC73: Ft. Stockton, TX USA
+SC74: UT Land (Pecos Co.), TX USA
+SC75: Hueco Village TX, USA
+ST01: Modoc, SC
+ST02: Modoc, SC
+ST03: Modoc, SC
+ST04: Modoc, SC
+ST05: Modoc, SC
+ST06: Modoc, SC
+ST08: Modoc, SC
+ST09: Modoc, SC
+ST10: Modoc, SC
+ST11: Modoc, SC
+ST12: Modoc, SC
+ST13: Modoc, SC
+ST88: Modoc, SC
+N01: -
+N02: -
+N04: -
+N05: -
+N06: -
+N07: -
+N08: -
+N09: -
+N10: -
+N11: -
+N12: -
+S01: -
+S02: -
+S03: -
+S04: -
+S05: -
+S06: -
+S07: -
+S09: -
+S10: -
+S11: -
+S13: -
+S14: -
+S15: -
+S16: -
+S17: -
+S18: -
+S19: -
+S20: -
+S21: -
+S22: -
+Y07: Y07
+Y16: Y16
+Y22: Y22
+Y34: Y34
+Y46: Y46
+BLUE: -
+CALA: -
+CALI: -
+CSD: -
+DOUG: -
+DRY: -
+FWGP: -
+GRAN: -
+HELL: -
+HIAW: -
+JNMT: -
+JWM: -
+KINN: -
+LANG: -
+LIME: -
+LOOK: -
+LSC: -
+MAYB: -
+NDH: -
+PINR: -
+PMR: -
+POW: -
+RRE: -
+RRW: -
+SMR: -
+SUTT: -
+SWB: -
+TANK: -
+TWIN: -
+VMCK: -
+VMSC: -
+YSCF: -
+ZENO: -
+OT01: Alvord Alley, Grande Roude
+OT03: Sweet Home
+OT05: Downey Rd Bend
+OT06: Kittredge Ranch
+OT07: Diamond Ranch
+OT09: Rockcreek Ranch
+OT11: Defenbaugh Ranch
+OT12: Flat Creek Ranch
+D01: Arco IS USA
+D02: Triumph ID USA
+D03: Ketchum ID USA
+D04: Pine ID USA
+D05: Pine ID USA
+D06: Boise ID USA
+D07: Mackey ID USA
+D08: Mackey ID USA
+D09: Galena Lodge ID USA
+D10: Atlanta ID USA
+D11: Mackey ID USA
+D12: Stanley ID USA
+D13: Loman ID USA
+D14: Loman ID USA
+D15: Sweet ID USA
+D16: Payette ID USA
+D17: Vale OR USA
+D18: West Fall OR USA
+D19: XXX
+D20: Prairie City OR USA
+D21: Prairie City OR USA
+D22D: Loman ID USA
+D22V: Loman ID USA
+D23: Garden Valley ID USA
+D24: Ola ID USA
+D25: Payette ID USA
+D26: Jonathan ID USA
+D27: Vale OR USA
+D28: Unity OR USA
+D29: Prairie City OR USA
+D30: John Day OR USA
+D31: Leadore ID USA
+D32: Challis ID USA
+D33: Challis ID USA
+D34: Loman ID USA
+D35: Cascade ID USA
+D36: Salmon ID USA
+D37: Salmon ID USA
+D38: Challis ID USA
+D39: Challis ID USA
+D40: McCall ID USA
+D41: McCall ID USA
+D42: Council ID USA
+D43: Council ID USA
+D44: Richland OR USA
+D45: Baker City OR USA
+D46: Baker City OR USA
+D47: Prairie City OR USA
+D48: John Day OR USA
+D49: Yellow Pine ID USA
+D50: McCall ID USA
+D51: McCall ID USA
+D52: McCall ID USA
+D53: Oxbow ID USA
+D54: Cornucopia OR USA
+D56: Dale OR USA
+D58: Baker City OR USA
+L01: Mackey ID USA
+L02: Mackey ID USA
+L03: Challis ID USA
+L04: Challis ID USA
+L05: Challis ID USA
+L06: Challis ID USA
+L07: Sunbeam ID USA
+L08: Stanley ID USA
+L09: Stanley ID USA
+L10: Atlanta, ID, USA
+L10A: Stanley ID USA
+L11: Stanley ID USA
+L12: Loman ID USA
+L13: Loman ID USA
+L14: Cascade ID USA
+L15: Cascade ID USA
+L16: Midvale ID USA
+L17: Midvale ID USA
+L18: Midvale OR USA
+L19: Midvale ID USA
+L20: Huntington OR USA
+L21: Huntington OR USA
+L22: Huntington OR USA
+L23: Bridgeport OR USA
+L24: Hereford OR USA
+L25: Unity OR USA
+L26: Unity OR USA
+L27: Prairie City OR USA
+L28: Prairie City OR USA
+L29: John Day OR USA
+JIM: west of Menlo, AL
+LARR: northeast of Fort Payne, AL
+BD11: Black Diamond, WA, USA
+BS01: Blyn, WA, USA
+BS02: Blyn, WA, USA
+BS03: Blyn, WA, USA
+BS04: Blyn, WA, USA
+BS11: Blyn, WA, USA
+C04A: Brinnon, WA, USA
+E010: Verlot, WA, USA
+E020: Gold Bar, WA, USA
+E030: North Bend, WA, USA
+E050: Ashford, WA, USA
+E060: Rimrock, WA, USA
+E070: Mossyrock, WA, USA
+N010: Ocean City, WA, USA
+N015: Copalis Crossing, WA, USA
+N020: Copalis Crossing, WA, USA
+N025: Humptulips, WA, USA
+N030: Humptulips, WA, USA
+N040: Deckerville, WA, USA
+N050: Matlock, WA, USA
+N060: Shelton, WA, USA
+N070: Nisqually, WA, USA
+N080: Lakewood, WA, USA
+N085: Loveland, WA, USA
+N090: Bonney Lake, WA, USA
+N100: WA, USA
+N110: Green Water, WA, USA
+N120: Lester, WA, USA
+N130: Ronald, WA, USA
+PL01: Hoodsport, WA, USA
+PL02: Hoodsport, WA, USA
+PL03: Hoodsport, WA, USA
+PL04: Hoodsport, WA, USA
+PL05: Hoodsport, WA, USA
+PL11: Hoodsport, WA, USA
+S010: Hoquiam, WA, USA
+S015: Montesano, WA, USA
+S020: Satsop, WA, USA
+S030: McCleary, WA, USA
+S040: Olympia, WA, USA
+S050: Tumwater, WA, USA
+S055: Rainier, WA, USA
+S060: Roy, WA, USA
+S065: La Grande, WA, USA
+S070: Kapowsin, WA, USA
+S080: Upper Fairfax, WA, USA
+S090: Crystal Mountain, WA, USA
+S100: Cliffdell, WA, USA
+W020: Quilcene, WA, USA
+W030: Quilcene, WA, USA
+W040: Eldon, WA, USA
+W060: Matlock, WA, USA
+W070: Porter, WA, USA
+W080: Dryad, WA, USA
+W090: Pe Ell, WA, USA
+W100: Grays River, WA, USA
+W110: Cathlamet, WA, USA
+BB1: Flitner 2
+BB2: Good
+BB3: Morris
+BH1A: Lovell WY
+BH1B: Lovell WY 2
+BH1C: Forest Service 1
+BH1D: Dayton WY
+BH1E: Forest Service 2
+BH1F: Birney MT
+BH1G: Sonette WY
+BH1H: Rocky Point WY
+BH2A: Powell WY
+BH2B: Worland WY
+BH2C: Worland WY 2
+BH2D: Forest Service 3
+BH2E: Mayoworth WY
+BH2F: Decker MT
+BH2G: Arvada WY
+BH3A: Meeteetse WY
+BH3C: Thermompolis WY
+BH3D: Forest Service 4
+BH3E: Barnum WY
+BH3F: Sheridan WY
+BH3G: Aravada WY
+BH4A: Thermompolis 2 WY
+BH4C: Lysite WY
+BH4D: Forest Service 5
+BH4F: Buffalo WY
+BH4G: Gillette WY
+BH5G: Linch WY
+BHM1: Wilson
+BHM2: Darnell
+BHM3: Cotton
+BHM4: Young
+BHM5: Flintner
+BHM6: Michelena
+BHM7: Davis
+BHN1: Benton
+ESG2: ESG Salt Monitoring Station 2
+ESG4: ESG Salt Monitoring Station 4
+ESG8: ESG Salt Monitoring Station 8
+ALAM: El Alamito
+ELAR: El Arroyo
+LACB: Las Cabras
+LOQI: Los Quintos
+OBTO: Observatorio
+PUPE: Puerto Penasco
+ROKO: Roca Konsac
+SACA: Santa Clara
+SAFE: San Felipe
+SAJO: San Jose
+TELM: San Telmo
+A01: A01
+A02: A02
+A03: A03
+A04: A04
+A05: A05
+A06: A06
+A07: A07
+A08: A08
+A09: A09
+A10: A10
+A11: A11
+A12: A12
+A13: A13
+A14: A14
+A15: A15
+A16: A16
+A17: A17
+A18: A18
+A19: A19
+A20: A20
+A21: A21
+A22: A22
+A23: A23
+A24: A24
+A25: A25
+A26: A26
+A27: A27
+A275: A275
+A28: A28
+A285: A285
+A29: A29
+A295: A295
+A30: A30
+A305: A305
+A31: A31
+A315: A315
+A32: A32
+A325: A325
+A33: A33
+A335: A335
+A34: A34
+A345: A345
+A35: A35
+A355: A355
+A36: A36
+A365: A365
+A37: A37
+A375: A375
+A38: A38
+A385: A385
+A39: A39
+A395: A395
+A40: A40
+A405: A405
+A41: A41
+A415: A415
+A42: A42
+A425: A425
+A43: A43
+A435: A435
+A44: A44
+A445: A445
+A455: A455
+A465: A465
+A475: A475
+A485: A485
+A495: A495
+A505: A505
+A515: A515
+MOGN: Mogul north, residence, top of Robb Drive WGS84
+WALA: Waterton Lake, Alberta, CANADA
+CCP00: Cactus Peak 00
+CCPE1: Cactus Peak E1
+CCPE2: Cactus Peak E2
+CCPE3: Cactus Peak E3
+CCPE4: Cactus Peak E4
+CCPE5: Cactus Peak E5
+CCPS1: Cactus Peak S1
+CCPS2: Cactus Peak S2
+CCPS3: Cactus Peak S3
+CCPS4: Cactus Peak S4
+CCPS5: Cactus Peak S5
+CHS00: -
+CHSE5: -
+CHSN4: -
+LBT00: -
+LBTE5: -
+LBTN5: -
+SUG00: -
+SUGN1: -
+SUGS1: -
+SUGW3: -
+WHA00: -
+WHAE5: -
+WHAS5: -
+S19: Vault
+MOJA: West end of line
+MOJB: Close to road
+MOJC: Charley
+MOJD: Desert-Ray
+MOJE: Volcanic Hill
+MOJF: Between two roads
+MOJG: Foot of Hill
+MOJH: Harvey
+MOJI: Close to mine
+MOJJ: Little saddle
+MOJK: Kolumnos
+MOJL: Lionel
+MOJM: Mount Mars
+MOJN: Middle cliff overlook
+MOJO: Problematic
+MOJP: Big gully
+MOJQ: River summit
+MOJR: East end of wilderness
+MOJS: Budweiser Springs
+IDA: Salmon River Canyon, Idaho
+ONT: Ontario, Oregon
+STW: Strawberry Mountain, Oregon
+UKH: Ukiah, Oregon
+WAL: Wallowa, Oregon
+WSH: Anatone, Washington
+DBT2: Socorro, NM
+DBT2A: Socorro, NM
+DBTTP: Socorro, NM
+NP02: PASSCAL_NORTH_PIER_02
+STA03: White Water (0520), CA
+STA04: Desert Hot Springs(0268.0), CA
+STA05: White Water(0217.0), CA
+STA06: Desert Hot Springs(0239.0), CA
+STA07: Thousand Palms, CA
+STA08: Desert Hot Springs(0189.0), CA
+STA09: Indio(0025.0), CA
+STA10: Desert Hot Springs(0073.0), CA
+STA11: Indio(0008.0), CA
+STA12: Coachella, CA
+BURN: BURN
+CRAK: CRAK
+CVCR: CVCR
+FLIP: FLIP
+KARL: KARL
+KOOL: KOOL
+LEEP: LEEP
+PIES: PIES
+PIGH: Parkfield, CA, USA
+POLE: Parkfield, CA, USA
+TANK: Parkfield, CA, USA
+VINE: Parkfield, CA, USA
+CPCG: Camp Colgate
+MHCG: Mountain House, Keene, NY
+NHCG: North Hudson Town Office
+JORD: JORD
+TFRD: Ford Ranch, Anza, CA, USA
+CHPH: Cape Hatteras Principal's House
+ECHS: East Carteret High School
+FFMS: First Flight Middle School
+GPSS1: Grants Pass single station
+FAC1: Grand Ronde,OR,USA
+FAC3: Cascadia State Park, OR, USA
+FACA: Monroe, WA, USA
+FACB: Port Ludlow, WA, USA
+FACC: Gig Harbor, WA, USA
+FACD: Chehalis, WA, USA
+FACF: Silver Lake, WA, USA
+FACG: Clatskanie, OR, USA
+FACH: Vernonia, OR, USA
+FACI: Brush Prairie, WA, USA
+FACJ: Carlton, OR, USA
+FACK: South Salem, OR, USA
+FACL: Coburg, OR, USA
+FACM: Oakridge, OR, USA
+FACN: Drain ,OR,USA
+FACO: Ash, OR, USA
+FACP: Coquille, OR, USA
+FACQ: Powers, OR, USA
+FACR: Sutherlin, OR, USA
+FACS: Glendale, OR, USA
+FACT: Agness, OR, USA
+FACU: Phoenix, OR, USA
+FACV: Cave Junction, OR, USA
+A00: Devil's Slide Creek, Nevada, USA
+A01: Starvation Creek, Nevada, USA
+A02: Soldier Creek, Nevada, USA
+A03: South Fork Cold Creek, Nevada, USA
+A04: Conrad Creek, Nevada, USA
+A05: Lions Camp Lamoille, Nevada, USA
+A06: Lee Creek, Nevada, USA
+A07: Long Canyon, Nevada, USA
+A08: Rattlesnake Canyon, Nevada, USA
+A09: Genette Creek, Nevada, USA
+A10: McCutcheon Creek, Nevada, USA
+A11: Harrison Pass, Nevada, USA
+A13: Harrison Pass, Nevada, USA
+A14: Lindsay Creek, Nevada, USA
+A15: A15, Nevada, USA
+B01: Elko, Nevada, USA
+B02: Elko, Nevada, USA
+B03: Spring Creek, Nevada, USA
+B04: Spring Creek, Nevada, USA
+B05: Spring Creek, Nevada, USA
+B06: Spring Creek, Nevada, USA
+B08: Thomas Canyon Campground, Nevada, USA
+B09: Terraces Campground, Nevada, USA
+B10: Lutts Creek, Nevada, USA
+B11: Neff Mill, Nevada, USA
+B12: B12, Nevada, USA
+B13: B13, Nevada, USA
+B14: B14, Nevada, USA
+B15: B15, Nevada, USA
+B16: B16, Nevada, USA
+B17: B17, Nevada, USA
+B18: B18, Nevada, USA
+C01: C01, Nevada, USA
+C02: C02, Nevada, USA
+C03: C03, Nevada, USA
+C03: C03, Nevada, USA
+C04: C04, Nevada, USA
+C05: C05, Nevada, USA
+C06: C06, Nevada, USA
+C07: C07, Nevada, USA
+C08: C08, Nevada, USA
+C09: Carville Creek, Nevada, USA
+C10: Harrison Pass, Nevada, USA
+C12: Ruby Crest Trail, Nevada, USA
+C13: C13, Nevada, USA
+C14: C14, Nevada, USA
+C15: C15, Nevada, USA
+C16: C16, Nevada, USA
+C17: C17, Nevada, USA
+C18: C18, Nevada, USA
+C19: C19, Nevada, USA
+D01: River Ranch, Nevada, USA
+D02: Goshute Valley, Nevada, USA
+D03: Cherry Creek, Nevada, USA
+D04: Union Pass, Nevada, USA
+D05: Carlin, Nevada, USA
+BRWY: Bitterroot Ranch, WY
+CFWY: Cave Falls Campground, WY
+CSR: Crossed Sabres Ranch, WY
+EHMT: Elkhorn Ranch, MT
+HPWY: Hunter Peak Ranch, WY
+IPID: Island Park Ranger Station, ID
+PCWY: Teton Wilderness Drive, WY
+RMWY: River Rock Road, WY
+RRWY: Rimrock Dude Ranch, WY
+SGMT: Silver Gate, MT
+SNFF: Shoshone National Forest Facility, WY
+SRMT: Smith Family Ranch, MT
+TMMT: Travetine Road, MT
+WYMT: Pine Ave, MT
+IU1: Henson, IL
+IU2: Albion, IL
+IU3: Allendale, IL
+IU4: Bellmon, IL
+IU5: Lancaster, IL
+IU6: Mt. Carmel, IL
+AFH: AFH
+BEE: BEE
+BSC: BSC
+LARA: LARA
+MFH: MFH
+RGR: RGR
+WWH: WWH
+D02: Pollard Property, Appling, GA
+D03: Mistletoe State Park, Appling, GA
+D04: Amason Farm, Lincolnton, GA
+D05: Bedrock Farms, Lincolnton, GA
+D06: Smith Farm, Washington, GA
+D07: Ogden Property, Tignall, GA
+D08: Adams Farm, Fortsonia, GA
+D09: Scarborough Farm, Elberton, GA
+D10: Paul Property, Elberton, GA
+D11: Parham Farm, Dewey Rose, GA
+D12: Alewine Property, Royston, GA
+D13: Victoria Bryant State Park, Royston, GA
+D14: Burroughs Farm, Carnesville, GA
+D15: Vandiver Farm, Carnesville, GA
+D17: Lovell Property, Clarkesville, GA
+D18: Kastner Property, Clarkesville, GA
+D19: Edge Property, Hiawassee, GA
+D20: Wells Property, Murphy, NC
+D21: Gore Property, Murphy, NC
+D22: Howell Property, Englewood, TN
+E01: Silver River State Park, Ocala, Florida
+E02: St. Johns River Water District, Palatka, FL
+E03: Santa Fe Swamp Wildlife Area, Hampton, FL
+E04: Moody Farm, Lawtey, Florida
+E05: Sigers Farm, Glen St. Mary, Florida
+E06: Gowen Timber S, Folkston, GA
+E07: Gowen Timber N, Folkston, GA
+E08: Spanish Creek Nursery, Folkston, FL
+E09: Plum Creek, Winokur, GA
+E10: Varn Timber Company, Hoboken, GA
+E11: Varn Timber Company, Hoboken, GA
+E12: Varn Timber Company, Hoboken, GA
+E13: Lee Property, Hoboken, GA
+E15: Griner Property, Patterson, GA
+E16: Chancey Property, Patterson, GA
+E17: West Property, Bristol, GA
+E18: Harris Farm, Screven, GA
+E19: Burch Farm, Screven, GA
+E20: Carter Farm, Odum, GA
+E21: Clary Farm, Odum, GA
+E22: River Crossing, Odum, GA
+E22R: River Crossing, Odum, GA
+E23: Thompson Property, Glennville, GA
+E24: McLeod Property, Glennville, GA
+E25: Sikes Property, Reidsville, GA
+E26: Jordan Property, Reidsville, GA
+E27: Lee Property, Cobbtown, GA
+E28: Allen Farm, Cobbtown, GA
+E29: Collum Property, Metter, GA
+E30: Clark Farm, Garfield, GA
+E31: Griffin Property, Waynesboro, GA
+W01: Suwannee River Water District, Perry, FL
+W02: Turtle Dove Plantation, Monticello, FL
+W03: Conklin Farm, Thomasville, GA
+W04: Strickland Farm, Moultrie, GA
+W05: Sells Farm, Doerun, GA
+W06: Ochlocknee Plantation, Sylvester, GA
+W07: Quail Call Plantation, Sylvester, GA
+W08: Quail Valley Farms, Warwick, GA
+W09: Wright Farm, Warwick, GA
+W10: McCay Farm, Cordele, GA
+W10N: McCay Farm, Cordele, GA
+W11: Veterans Memorial State Park, Cordele, GA
+W11N: Veterans Memorial State Park, Cordele, GA
+W12: Lane Farm, Vienna, GA
+W13: Coley Farm, Vienna, GA
+W14: Coley Farm, Vienna, GA
+W14N: Coley Farm, Vienna, GA
+W15A: Roney Farm, Vienna, GA
+W15B: Roney Farm, Vienna, GA
+W16: Jeter Farm, Byromville, GA
+W17: Domaco Farms, Byromville, GA
+W18: Puryear Farm, Montezuma, GA
+W19: Johnson Farm, Montezuma, GA
+W20: Bledsoe Farm, Montezuma, GA
+W21: Melatchee Woodlands, Marshallville, GA
+W22: Dual Wheels Farm, Marshallville, GA
+W23: Fort Valley State University, GA
+W23N: Fort Valley State University, GA
+W24: Ogden Farm, Fort Valley, GA
+W26: Smith Property, Lizella, GA
+W27: Butler Property, Forsyth, GA
+W28: Peters Farm, Forsyth, GA
+W29: Charlie Elliot Wildlife Center, Mansfield, GA
+W30: Hood Farm, Loganville, GA
+W31: Fort Yargo State Park, Winder, GA
+W315: Cooper Farm, Flowery Branch, GA
+W32: Truelove Farm, Murrayville, GA
+W33: Cannon Property, Cleveland, GA
+W34: Georgia Mountain Center, Blairsville, GA
+W35: Gibson Property, Young Harris, GA
+W01: Twin Lakes-ID
+W02: McCall-ID
+W03: New Meadows-ID
+W04: Bear-ID
+W05: Hells Canyon Overlook-OR
+W06: Lick Creek-OR
+W07: Two Pan-OR
+W08: Enterprise-OR
+W09: Elgin-OR
+W10: Minam-OR
+W11: Promise-OR
+W12: Troy-OR
+W13: Wenatchee GS-WA
+W14: Alder Springs-WA
+W15: Columbia Center-WA
+W16: Pomeroy-WA
+W17: Central_Ferry-WA
+W18: Cornucopia-OR
+W19: Keating-OR
+W20: Hereford-OR
+W21: Union_Center-WA
+W22: Hooper-WA
+W23: Winona-WA
+W24: Summerville-OR
+W25: Umatilla Reservation-OR
+W26: Coffin Road-WA
+W27: Badger_Canyon-WA
+W28: Crow_Creek-OR
+W29: Imnaha-OR
+W30: Whitebird-ID
+I01: I01
+I02: I02
+N03: N03
+N04: N04
+N06: N06
+N01A: White Hall, AR, USA
+N02A: Gillett, AR, USA
+N03A: Fargo, AR, USA
+N04A: Oak Grove, AR, USA
+N05M: Coahoma, MS, USA
+N06M: Walls, MS, USA
+N08A: Amagon, AR, USA
+N09A: Lone Rock, AR, USA
+N10A: Evening Shade, AR, USA
+N11M: Sycamore, MO, USA
+N12M: Alton, MO, USA
+N19M: Alton, MO, USA
+N20M: Alton, MO, USA
+N21M: Marthasville, MO, USA
+N22I: Breese, IL, USA
+N23I: Shiloh Hill, IL, USA
+N24I: Xenia, IL, USA
+N25I: Belknap, IL, USA
+N26I: Thompsonville, IL, USA
+N27M: Annapolis, MO, USA
+N28M: Jackson, MO, USA
+N29A: Lexington, Al, USA
+N30T: Linden, TN, USA
+N31T: Huntington, TN, USA
+N32K: Murray, KY, USA
+N33T: Mt Pleasant, TN, USA
+N34T: Pegram, TN, USA
+N35K: Hernden, KY, USA
+N36K: Russellville, KY, USA
+ALST0: WHOI_OBS_ID: D04
+UCHG: of Chicago Campus (SW corner of Hinds Geophysical
