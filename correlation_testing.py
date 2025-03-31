@@ -1,143 +1,130 @@
-#Author: Ian Claggett
+# Authors: Ian Claggett, Luke Rako
+
+import sys
+import tkinter as tk
+from tkinter import ttk
 from obspy import UTCDateTime, read
-from obspy.clients.fdsn import Client
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from Correlator import collect_templates, cross_correlate
 
+class TextRedirector:
+    def __init__(self, text_widget):
+        self.text_widget = text_widget
 
-#-------------------------(CI LOC Station)-------------------------
-template_paths = ["Template_Traces/24-11-2024_CI_LOC_Rocket", "Template_Traces/15-03-2025_CI_LOC_SpaceX", "Template_Traces/11-03-2025_CI_LOC_SpaceX"]
-CI_LOC_Templates = collect_templates(template_paths)
-network = "CI"
-station = "LOC"
-location = "*"
-channel = "BHZ,BLZ"
-min_freq = 0.25
-max_freq = 1.5
+    def write(self, text):
+        self.text_widget.insert(tk.END, text)
+        self.text_widget.see(tk.END)
 
-#4.5 MAGNITUDE EARTHQUAKE
-launchTime2 = UTCDateTime("2025-02-14T00:17:04") #Vanderberg CA
-startTime2 = launchTime2 - 30
-endTime2 = launchTime2 + 240
+    def flush(self):
+        pass
 
-print("Testing: 4.5 Magnitude Earthquake")
-cross_correlate(network,station,location,channel, "SCEDC", startTime2,endTime2, CI_LOC_Templates, min_freq, max_freq)
+class SeismicGUI:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("Seismic Test Viewer")
 
-#Recent Launch
-print("Testing: Rocket Launch")
-launchtime3 = UTCDateTime("2025-02-10T21:13:00")
-startTime3 = launchtime3 - 30
-endTime3 = launchtime3 + 240
+        self.test_cases = self.build_test_cases()
+        self.test_index = 0
+        self.canvas = None
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime3,endTime3, CI_LOC_Templates, min_freq, max_freq)
+        self.status_label = ttk.Label(root, text="Click 'Next' to begin testing...")
+        self.status_label.pack(pady=10)
 
-print("Testing: 7.1 Magnitude Earthquake")
-#7.1 MAGNITUDE EARTHQUAKE
-launchtime4 = UTCDateTime("2019-07-06T03:19:53")
-startTime4 = launchtime4 - 30
-endTime4 = launchtime4 + 240
+        self.output_box = tk.Text(root, height=8, wrap="word")
+        self.output_box.pack(fill="both", expand=True, padx=10, pady=10)
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime4,endTime4, CI_LOC_Templates, min_freq, max_freq)
+        sys.stdout = TextRedirector(self.output_box)
 
-#Template (template)
-print("Testing: Rocket Launch Template")
-launchTime1 = UTCDateTime("2024-11-24T05:25:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 210
+        self.plot_frame = ttk.Frame(root)
+        self.plot_frame.pack(fill="both", expand=True)
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_LOC_Templates, min_freq, max_freq)
+        self.next_button = ttk.Button(root, text="Next", command=self.run_next_test)
+        self.next_button.pack(pady=10)
 
-#Random spaceX launch (template)
+    def build_test_cases(self):
+        test_cases = []
 
-print("Testing: Rocket Launch Template")
-launchTime1 = UTCDateTime("2025-03-11T03:10:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 210
+        ci_loc_templates = collect_templates([
+            "Template_Traces/24-11-2024_CI_LOC_Rocket",
+            "Template_Traces/15-03-2025_CI_LOC_SpaceX",
+            "Template_Traces/11-03-2025_CI_LOC_SpaceX",
+        ])
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_LOC_Templates, min_freq, max_freq)
+        ci_bue_templates = collect_templates([
+            "Template_Traces/24-11-2024_CI_BUE_Rocket",
+            "Template_Traces/15-03-2025_CI_BUE_SpaceX",
+            "Template_Traces/11-03-2025_CI_BUE_SpaceX",
+        ])
 
-#Spacex (template)
-print("Testing: Rocket Launch Template")
-client = Client("SCEDC") #For California
-launchTime1 = UTCDateTime("2025-03-15T06:50:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 240
+        launch_events = [
+            ("2025-02-14T00:17:04", 30, 240),
+            ("2025-02-10T21:13:00", 30, 240),
+            ("2019-07-06T03:19:53", 30, 240),
+            ("2024-11-24T05:25:00", 60, 210),
+            ("2025-03-11T03:10:00", 60, 210),
+            ("2025-03-15T06:50:00", 60, 240),
+            ("2025-01-03T16:30:00", 60, 240),
+        ]
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_LOC_Templates, min_freq, max_freq)
+        for time_str, pre, post in launch_events:
+            launch_time = UTCDateTime(time_str)
+            start_time = launch_time - pre
+            end_time = launch_time + post
 
-#Spacex Thuraya 4-NGS (PASS)
-print("Testing: Rocket Launch")
-client = Client("SCEDC") #For California
-launchTime1 = UTCDateTime("2025-01-03T16:30:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 240
+            test_cases.append(("CI", "LOC", ci_loc_templates, start_time, end_time))
+            test_cases.append(("CI", "BUE", ci_bue_templates, start_time, end_time))
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_LOC_Templates, min_freq, max_freq)
+        return test_cases
 
-#-------------------------(CI BUE Station)-------------------------
-template_paths = ["Template_Traces/24-11-2024_CI_BUE_Rocket", "Template_Traces/15-03-2025_CI_BUE_SpaceX", "Template_Traces/11-03-2025_CI_BUE_SpaceX"]
-CI_BUE_Templates = collect_templates(template_paths)
-network = "CI"
-station = "BUE"
-location = "*"
-channel = "BHZ,BLZ"
-min_freq = 0.3
-max_freq = 1.5
+    def run_next_test(self):
+        self.output_box.delete("1.0", tk.END)
 
-#4.5 MAGNITUDE EARTHQUAKE 
-print("Testing: 4.5 Magnitude Earthquake")
-launchTime2 = UTCDateTime("2025-02-14T00:17:04") #Vanderberg CA
-startTime2 = launchTime2 - 30
-endTime2 = launchTime2 + 240
+        if self.test_index >= len(self.test_cases):
+            self.status_label.config(text="All tests completed.")
+            return
+
+        # Clear previous plot
+        for widget in self.plot_frame.winfo_children():
+            widget.destroy()
+        plt.close('all')
+
+        # Get current test
+        network, station, templates, start, end = self.test_cases[self.test_index]
+        test_label = f"Test {self.test_index + 1}/{len(self.test_cases)} for {station}"
+        self.status_label.config(text=f" Running {test_label}...")
+
+        # Run correlation
+        fig, detections = cross_correlate(
+            network=network,
+            station=station,
+            location="*",
+            channel="BHZ,BLZ",
+            client_code="SCEDC",
+            startTime=start,
+            endTime=end,
+            templates=templates,
+            min_freq=0.25,
+            max_freq=1.5
+        )
+
+        # Display plot in GUI
+        if fig:
+            self.canvas = FigureCanvasTkAgg(fig, master=self.plot_frame)
+            self.canvas.get_tk_widget().pack(fill="both", expand=True)
+            self.canvas.draw()
+            self.status_label.config(
+                text=f"{test_label} completed — Detections: {len(detections)}"
+            )
+        else:
+            self.status_label.config(text=f"⚠️ {test_label} returned no figure.")
+
+        self.test_index += 1
+        if self.test_index >= len(self.test_cases):
+            self.root.after(2000, self.root.destroy)
 
 
-cross_correlate(network,station,location,channel, "SCEDC",startTime2,endTime2, CI_BUE_Templates, min_freq, max_freq)
-
-#Recent Launch
-print("Testing: Rocket Launch Template")
-launchtime3 = UTCDateTime("2025-02-10T21:13:00")
-startTime3 = launchtime3 - 30
-endTime3 = launchtime3 + 240
-
-cross_correlate(network,station,location,channel, "SCEDC",startTime3,endTime3, CI_BUE_Templates, min_freq, max_freq)
-
-#7.1 MAGNITUDE EARTHQUAKE
-print("Testing: 7.1 Magnitude Earthquake")
-launchtime4 = UTCDateTime("2019-07-06T03:19:53")
-startTime4 = launchtime4 - 30
-endTime4 = launchtime4 + 240
-
-cross_correlate(network,station,location,channel, "SCEDC",startTime4,endTime4, CI_BUE_Templates, min_freq, max_freq)
-
-#Template (template)
-print("Testing: Rocket Launch Template")
-launchTime1 = UTCDateTime("2024-11-24T05:25:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 210
-
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_BUE_Templates, min_freq, max_freq)
-
-#Random spaceX launch (template)
-print("Testing: Rocket Launch Template")
-launchTime1 = UTCDateTime("2025-03-11T03:10:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 210
-
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_BUE_Templates, min_freq, max_freq)
-
-#Spacex (template)
-print("Testing: Rocket Launch Template")
-client = Client("SCEDC") #For California
-launchTime1 = UTCDateTime("2025-03-15T06:50:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 240
-
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_BUE_Templates, min_freq, max_freq)
-
-#Spacex Thuraya 4-NGS 
-print("Testing: Rocket Launch")
-client = Client("SCEDC") #For California
-launchTime1 = UTCDateTime("2025-01-03T16:30:00") #Vanderberg CA
-startTime1 = launchTime1 - 60
-endTime1 = launchTime1 + 240
-
-cross_correlate(network,station,location,channel, "SCEDC",startTime1,endTime1, CI_BUE_Templates, min_freq, max_freq)
+if __name__ == "__main__":
+    root = tk.Tk()
+    app = SeismicGUI(root)
+    root.mainloop()
