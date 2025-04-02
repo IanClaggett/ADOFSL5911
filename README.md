@@ -35,10 +35,30 @@ ADOFSL5911
 
 ## Installation
 
+Libraries being used:
+
+- obspy
+- pyreadline ipython 
+- lxml sqlalchemy
+- Numpy
+- SciPy
+- matplotlib
+
 Install required Python libraries with:
 
 ```bash
 pip install numpy scipy matplotlib lxml sqlalchemy pyreadline ipython obspy
+```
+
+OR
+
+```bash
+pip install Numpy
+pip install SciPy
+pip install matplotlib
+pip install lxml sqlalchemy
+pip install pyreadline ipython 
+pip install obspy
 ```
 
 For detailed Windows installation instructions, see [ObsPy Installation](<https://github.com/obspy/obspy/wiki/Installation-on-windows-using-a-pre-build-package-(pypi)>).
