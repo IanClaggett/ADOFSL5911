@@ -22,6 +22,13 @@ ADOFSL5911
 ├── test.py               # Basic ObsPy installation test
 └── README.md             # Project documentation
 ```
+## Dependencies
+
+- ObsPy
+- NumPy, SciPy
+- Matplotlib
+- Cartopy
+- Tkinter
 
 ## Installation
 
@@ -198,14 +205,6 @@ st.filter(type='highpass', freq=3.0)
 st = st.select(component='Z')
 st.plot()
 ```
-
-## Dependencies
-
-- ObsPy
-- NumPy, SciPy
-- Matplotlib
-- Cartopy
-- Tkinter
 
 ## Troubleshooting
 
