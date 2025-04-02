@@ -88,9 +88,11 @@ python main.py
 ### Step-by-Step GUI
 
 Step 1: Analyze Seismic Data
+
 ![Analyze](image.png)
 
 Step 2: Begin Testing
+
 ![Testing](image-1.png)
 
 Note: You must close each plot before the next test begins.
