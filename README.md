@@ -161,6 +161,20 @@ launch_events = [
 python correlation_testing.py
 ```
 
+## Logger
+
+We use Python’s built-in logging module to track errors and events across scripts. Logs are stored in a rotating log file inside a logs/ directory. This makes it easier to debug without cluttering the terminal or GUI.
+
+- Log file path: logs/system.log
+- Each run appends new messages while keeping the file size in check.
+- Console messages (e.g., print()) are redirected to the GUI in correlation_testing.py.
+
+Note: Make sure the logs/system.log file is excluded from commits. Add the following to your .gitignore:
+
+`logs/system.log`
+
+This ensures each developer has a local log file without pushing it to the repository.
+
 ## How Cross-Correlation Works
 
 - Load templates from known launches.
