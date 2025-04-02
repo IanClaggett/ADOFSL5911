@@ -4,149 +4,199 @@
 
 ## Project Abstract
 
-ADOFSL5911 (Automatic Detection of Foreign Space Launches) is a seismic data analysis system designed to automatically detect foreign space launches by leveraging cross-correlation techniques and machine learning. It uses seismic waveform templates from known rocket launches to identify similar seismic events corresponding to new launches, helping enhance situational awareness and support national security efforts.
-
-This project focuses on correlating seismic data collected from seismic stations (e.g., CI BUE, CI LOC, NZ BKZ) with known rocket launch templates, enabling real-time identification and validation based on seismic signatures.
+ADOFSL5911 is a seismic data analysis system designed to automatically detect foreign space launches by comparing live seismic data to known rocket launch templates using cross-correlation techniques and machine learning. The system collects waveform data from seismic stations like CI BUE, CI LOC, and NZ BKZ to match against historical templates and identify potential launch events.
 
 ## Project Structure
 
 ```
 ADOFSL5911
 ├── Template_Traces       # Stored seismic templates from known launches
-│   ├── 11-03-2025_CI_BUE_SpaceX
-│   ├── 11-03-2025_CI_LOC_SpaceX
-│   ├── 15-03-2025_CI_BUE_SpaceX
-│   ├── 15-03-2025_CI_LOC_SpaceX
-│   ├── 24-11-2024_CI_BUE_Rocket
-│   ├── 24-11-2024_CI_LOC_Rocket
-│   └── 25-11-2024_NZ_BKZ_OldLaunch
-├── Cartopy.py              # Map visualization of seismic events
-├── correlation_testing.py  # GUI for running cross-correlation tests
-├── Correlator.py           # Core cross-correlation algorithms
-├── main.py                 # Main script for automated detection workflow
-├── NZ_BKZ.py               # Seismic analysis script for NZ BKZ station
-├── RealTime.py             # Continuous real-time analysis script
-├── SeismicStations.py      # Tool to manage seismic station data
-├── stations.txt            # Text file with seismic station information
-├── template_loader.py      # Preprocess and load seismic templates
-├── test.py                 # Basic ObsPy test script
-└── README.md               # Documentation
+├── Cartopy.py            # Map visualization of seismic events
+├── correlation_testing.py# GUI for running cross-correlation tests
+├── Correlator.py         # Core cross-correlation logic
+├── main.py               # Main script for automated launch detection
+├── RealTime.py           # Continuous real-time detection
+├── SeismicStations.py    # Manage seismic station data
+├── stations.txt          # Text file with seismic station info
+├── template_loader.py    # Generates and saves new waveform templates
+├── test.py               # Basic ObsPy installation test
+└── README.md             # Project documentation
 ```
 
 ## Installation
 
-Libraries being used:
-
-- obspy
-- pyreadline ipython 
-- lxml sqlalchemy
-- Numpy
-- SciPy
-- matplotlib
-
-Install required Python libraries with:
+Install required libraries:
 
 ```bash
 pip install numpy scipy matplotlib lxml sqlalchemy pyreadline ipython obspy
 ```
 
-OR
-
-```bash
-pip install Numpy
-pip install SciPy
-pip install matplotlib
-pip install lxml sqlalchemy
-pip install pyreadline ipython 
-pip install obspy
-```
-
-For detailed Windows installation instructions, see [ObsPy Installation](<https://github.com/obspy/obspy/wiki/Installation-on-windows-using-a-pre-build-package-(pypi)>).
+For Windows help, see [ObsPy Installation Guide](<https://github.com/obspy/obspy/wiki/Installation-on-windows-using-a-pre-build-package-(pypi)>).
 
 ## Getting Started
 
-### Step 1: Load Templates
+### 1. Load Templates
 
-Download and preprocess seismic waveform templates:
+Generate and store waveform templates:
 
 ```bash
 python template_loader.py
 ```
 
-### Step 2: Run Cross-Correlation Tests
+### 2. Run Cross-Correlation Tests
 
-Use the GUI to run tests and visualize results:
+Launch the GUI tester:
 
 ```bash
 python correlation_testing.py
 ```
 
-Close each plot window after a test to move to the next.
+Use the "Next" button to go through templates one-by-one.
 
-### Step 3: Continuous Real-Time Detection
+### 3. Real-Time Monitoring
 
-For continuous monitoring, run:
+Start real-time detection:
 
 ```bash
 python RealTime.py
 ```
 
-## Visualization
+### 4. Visualization
 
-The project includes geographical visualization using Cartopy. Run:
+Plot seismic stations and events on a map:
 
 ```bash
 python Cartopy.py
 ```
 
-## Managing Seismic Stations
+### 5. Station Management
 
-Update seismic stations using:
+Add, remove, or view stations:
 
 ```bash
 python SeismicStations.py
 ```
 
-## Example: Test ObsPy Setup
+## Running the Code
 
-Check ObsPy setup quickly run `test.py` file
+Run the main script:
 
-## Project Dependencies
+```bash
+python main.py
+```
 
-- **ObsPy**: Seismic data handling
-- **NumPy & SciPy**: Data processing
-- **Matplotlib**: Data visualization
-- **Cartopy**: Geographic plotting
-- **Tkinter**: GUI development
+### Step-by-Step GUI
 
-## Workflow Overview
+Step 1: Analyze Seismic Data
+![Analyze](image.png)
 
-- **Handler Script**: Coordinates data retrieval and processing.
-- **Selector Script**: Queries ObsPy and collects seismic data.
-- **Reader Script**: Processes seismic data and filters noise.
-- **Machine Learning Model (AWS SageMaker)**: Classifies seismic data to detect launches.
+Step 2: Begin Testing
+![Testing](image-1.png)
+
+Note: You must close each plot before the next test begins.
+
+## Adding and Testing a New Launch Template
+
+### 1. Identify Launch Details
+
+Pick a launch time and station:
+
+- Launch time: `2025-04-01T10:30:00`
+- Network: `CI`, Station: `LOC`, Channels: `BHZ,BLZ`
+
+### 2. Generate the Template
+
+Add this to `template_loader.py`:
+
+```python
+#New Launch - Example
+try:
+    launchTime = UTCDateTime("2025-04-01T10:30:00")
+    startTime = launchTime - 60
+    endTime = launchTime + 210
+    template = client.get_waveforms("CI", "LOC", "*", "BHZ,BLZ", startTime, endTime, attach_response=True)
+    template.remove_response(output="VEL")
+    template.filter('bandpass', freqmin=0.25, freqmax=1.5)
+    pick = UTCDateTime("2025-04-01T10:30:30")
+    template.trim(pick, pick + 90)
+    template.write(TEMPLATE_FILE_PATH + "/01-04-2025_CI_LOC_NewRocket", format="MSEED")
+    print("Saved template: 01-04-2025_CI_LOC_NewRocket")
+except Exception as e:
+    print(f"Failed to generate 01-04-2025_CI_LOC_NewRocket: {e}")
+```
+
+Run it:
+
+```bash
+python template_loader.py
+```
+
+### 3. Add to the Test Suite
+
+In `correlation_testing.py`:
+
+```python
+ci_loc_templates = collect_templates([
+    "Template_Traces/24-11-2024_CI_LOC_Rocket",
+    "Template_Traces/15-03-2025_CI_LOC_SpaceX",
+    "Template_Traces/11-03-2025_CI_LOC_SpaceX",
+    "Template_Traces/01-04-2025_CI_LOC_NewRocket"
+])
+```
+
+And add the launch time:
+
+```python
+launch_events = [
+    ...,
+    ("2025-04-01T10:30:00", 60, 240)
+]
+```
+
+### 4. Run Tests
+
+```bash
+python correlation_testing.py
+```
 
 ## How Cross-Correlation Works
 
-- Preprocess seismic waveforms (bandpass filtering, response removal).
-- Compare waveforms to known templates.
-- Identify events with high similarity.
-- Display detection results visually.
+- Load templates from known launches.
+- Fetch waveform data for new time range.
+- Preprocess and filter waveforms.
+- Compare similarity to known templates.
+- Show results and plots in GUI.
 
 ## Output
 
-The system generates detailed waveform plots, similarity scores, and identifies seismic events indicating possible launches.
+- Waveform visualizations.
+- Similarity scores for detections.
+- Console output appears inside the GUI.
+
+## Example: Test ObsPy Setup - test.py
+
+```python
+from obspy import read
+st = read()
+st.filter(type='highpass', freq=3.0)
+st = st.select(component='Z')
+st.plot()
+```
+
+## Dependencies
+
+- ObsPy
+- NumPy, SciPy
+- Matplotlib
+- Cartopy
+- Tkinter
+
+## Troubleshooting
+
+- Make sure templates exist in `Template_Traces`
+- Check `stations.txt` for valid station IDs
+- GUI must support Matplotlib plots
 
 ---
 
-### Troubleshooting
-
-Make sure:
-
-- Templates are loaded correctly in `Template_Traces`.
-- `stations.txt` station IDs match ObsPy IDs.
-- GUI operations and plotting are supported by your system.
-
----
-
-For questions or issues, reach out to the project team.
+For help, contact the project maintainers.
