@@ -10,36 +10,36 @@ ADOFSL5911 is a seismic data analysis system designed to automatically detect fo
 
 # For Users
 
-This application allows you to analyze seismic data and determine whether it matches patterns associated with known rocket launches. It’s built to be used by people with light technical familiarity—no programming experience is required.
+This application allows you to analyze seismic data and determine whether it matches patterns associated with known rocket launches. It’s designed for users with light technical familiarity—such as those comfortable using a terminal and interpreting basic plots.
 
 ### Using the Application
 
 #### Step 1: Launch the App
 
-Open a terminal or command prompt and run:
+Open a terminal and run:
 
 ```bash
 python main.py
 ```
 
-This opens the main interface.
+This will open the main interface with a button to begin seismic data analysis.
 
 #### Step 2: Start Seismic Analysis
 
-Click the **"Analyze Seismic Data"** button to begin. This will start checking the data against known launch signatures.
+Click the **"Analyze Seismic Data"** button. This will open a test viewer that runs your data against known rocket launch patterns using cross-correlation.
 
 #### Step 3: View Results in Test Viewer
 
-After analysis starts, a new window opens:
+A new window will open:
 
 - Click **"Next"** to go through each test case.
-- Close the plot window after viewing to proceed.
-- When all test cases are completed, the application will close automatically.
+- Close the waveform plot window to proceed to the next.
+- When all tests are completed, the app will exit automatically.
 
 #### What You'll See
 
-- A scrollable log showing what the system is doing.
-- Graphs showing vibration patterns and whether a match was found.
+- A scrolling log window that shows what’s happening during the test.
+- Matplotlib graphs of seismic waveforms and detection results.
 
 #### Example Screenshots
 
@@ -50,6 +50,23 @@ Step 1: Analyze Seismic Data
 Step 2: Begin Testing
 
 ![Testing](image-1.png)
+
+---
+
+### Libraries Used in This Application
+
+We use several scientific libraries under the hood to handle data analysis and visualization. Here’s a quick overview of what they do:
+
+| Library        | What It Does                                           | Where It's Used                                                        |
+| -------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| **ObsPy**      | Handles seismic data (reading, filtering, correlation) | Core of launch detection logic (`Correlator.py`, `template_loader.py`) |
+| **NumPy**      | Numerical calculations and data arrays                 | Used to manipulate waveform data in multiple scripts                   |
+| **SciPy**      | Scientific computation and signal processing           | Used indirectly through ObsPy                                          |
+| **Matplotlib** | Creates plots and waveform visualizations              | Visual output in the test GUI                                          |
+| **Cartopy**    | Maps and geospatial plotting                           | Used to map seismic station locations (`Cartopy.py`)                   |
+| **Tkinter**    | Builds graphical user interfaces                       | Interfaces for test viewer and analysis buttons                        |
+
+These libraries are all installed when you follow the setup instructions and are already integrated into the app’s workflow. You don’t need to work with them directly unless you're customizing or extending the tool.
 
 ---
 
