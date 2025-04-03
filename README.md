@@ -44,9 +44,11 @@ After analysis starts, a new window opens:
 #### Example Screenshots
 
 Step 1: Analyze Seismic Data
+
 ![Analyze](image.png)
 
 Step 2: Begin Testing
+
 ![Testing](image-1.png)
 
 ---
