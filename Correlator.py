@@ -1,4 +1,4 @@
-#Author: Ian Claggett
+# Author: Ian Claggett
 
 from obspy import read
 

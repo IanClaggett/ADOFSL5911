@@ -1,5 +1,5 @@
-# logger.py
-# author: Klay Shukla
+# Author: Klay Shukla
+
 import logging
 from logging.handlers import RotatingFileHandler
 import os

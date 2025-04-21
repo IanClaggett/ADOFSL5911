@@ -1,4 +1,5 @@
-#Author: Ian Claggett
+# Author: Ian Claggett
+
 from datetime import datetime, timezone
 from obspy import UTCDateTime, read
 from obspy.clients.fdsn import Client
