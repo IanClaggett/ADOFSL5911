@@ -24,7 +24,7 @@ ax.add_feature(cfeature.BORDERS)
 
 ax.set_title("Albers Equal Area Projection")
 
-# Now, let's plot some data on the map
+# Obspy example of using Cartopy to plot onto a map (Useful for future iterations to display locations of launch)
 inv = read_inventory()
 inv.plot(fig=fig, show=False)
 cat = read_events()

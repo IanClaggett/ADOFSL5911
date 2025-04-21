@@ -1,5 +1,7 @@
 import json
 
+# Enter location names and associated data with the station into the tunings, to be used in the future as tuning packages
+# meant for creating a single point of control over the system
 tunings = {
     "Vandenberg_5_miles" : {
         "network" : "CI",
@@ -32,6 +34,7 @@ tunings = {
 
 output = json.dumps(tunings, indent=4)
 
+#Outputs the generated JSON tree back to user to check for correctness
 try:
     with open("tunings.json", "w") as text_file:
         text_file.write(output)

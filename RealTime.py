@@ -4,10 +4,12 @@ from obspy import UTCDateTime, read
 from obspy.clients.fdsn import Client
 from Correlator import collect_templates, cross_correlate
 
+# Example of real time collection of rocket launch data
 time = UTCDateTime(datetime.now(timezone.utc))
 print(time)
 
 while True:
+    # Read seismic data every 10 seconds
     if(time.second % 10 == 0):
         print("Read now")
         template_paths = ["Template_Traces/24-11-2024_CI_LOC_Rocket", "Template_Traces/15-03-2025_CI_LOC_SpaceX", "Template_Traces/11-03-2025_CI_LOC_SpaceX"]

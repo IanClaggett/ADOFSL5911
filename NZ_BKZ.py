@@ -5,6 +5,7 @@ from obspy.clients.fdsn import Client
 from Correlator import collect_templates, cross_correlate
 from pathlib import Path
 
+# Test file of the New Zealand Rocket Lab spaceport
 
 TEMPLATE_FILE_PATH = str(Path.cwd().__str__() + "/Template_Traces")
 launchTime1 = UTCDateTime("2024-11-25T03:55:00") #Mahia Peninsula New Zealand
