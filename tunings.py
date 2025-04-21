@@ -1,4 +1,5 @@
 import json
+# Author: Ian Claggett
 
 # Enter location names and associated data with the station into the tunings, to be used in the future as tuning packages
 # meant for creating a single point of control over the system
