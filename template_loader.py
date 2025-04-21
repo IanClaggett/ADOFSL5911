@@ -1,5 +1,5 @@
-# Author: Ian Claggett
-# Contributor: Klay Shukla
+# Authors: Ian Claggett, Klay Shukla
+
 from obspy import UTCDateTime
 from obspy.clients.fdsn import Client
 import os
